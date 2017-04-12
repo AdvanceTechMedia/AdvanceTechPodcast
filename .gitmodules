@@ -1,3 +1,9 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = git@github.com:sethmacleod/dimension.git
+[submodule "themes/hugo-artists-theme"]
+	path = themes/hugo-artists-theme
+	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
+[submodule "themes/castanet"]
+	path = themes/castanet
+	url = git@github.com:mattstratton/castanet.git
