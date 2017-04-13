@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Advance Tech Podcast"
 theme = "castanet"
 googleAnalytics = "UA-123-45"
-disqusShortname = "arresteddevops"
+disqusShortname = "advtechpodcast"
 #themesdir = "../.."
 
 
@@ -39,9 +39,9 @@ disqusShortname = "arresteddevops"
     parent = "resources"
 
 [params]
-site_theme = "orange"
+site_theme = "blue"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2016 [Matt Stratton](https://www.mattstrattion.io)"
+copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
@@ -50,16 +50,16 @@ mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4
 description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
   [params.feed]
-    feed_copyright = "Copyright 2016 Matt Stratton" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "The best podcast ever" #no markdown or HTML
-    itunes_author = "Matt Stratton" #no markdown or HTML
-    itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Matt Stratton"
+    feed_copyright = "Copyright 2017 Advance Tech Media" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "Bringing you the latest in technology and open source news!" #no markdown or HTML
+    itunes_author = "Alexandra Moxin" #no markdown or HTML
+    itunes_summary = "The Advance Tech Podcast brings you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unbiased truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Alexandra Moxin"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
+    itunes_first_sub_category = "Software Tutorials"
+    itunes_second_sub_category = "Technology and Open Source News"
 
   [params.social]
     github = "arresteddevops"
@@ -68,7 +68,6 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
     twitter = "arresteddevops"
     twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
     googleplus = "ArrestedDevOps"
-    pinterest = "nozzleio"
     instagram = "nozzleio"
     youtube = "arresteddevops"
     linkedin = "mattstratton"
