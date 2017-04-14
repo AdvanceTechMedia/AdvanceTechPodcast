@@ -1,5 +1,5 @@
 +++
-Description = "<p>Welcome to the Advance Tech Podcast — first episode with special guest interview Michael Feathers! Welcome to the Advance Tech Podcast bringing you advanced technology and open source news you won’t hear in the mainstream media.</p><p>Hosted by Alexandra Moxin and Adam Dymitruk. We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unbiased truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest.</p>"
+Description = "<p>Welcome to the Advance Tech Podcast bringing you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk.</p><p>We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unfiltered truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest.</p>"
 aliases = ["/1"]
 author = "Alexandra Moxin"
 categories = []
@@ -11,7 +11,7 @@ guests = ["Michael Feathers"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:08:22"
-podcast_file = "arrested-devops-podcast-episode053.mp3"
+podcast_file = "atp-podcast-.mp3"
 podcast_length = ""
 tags = []
 title = "Michael Feathers"
@@ -24,10 +24,6 @@ youtube = ""
 Written by Alexandra Moxin
 
 Share via: Facebook Twitter Email Reddit
-
-Welcome to the Advance Tech Podcast bringing you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unbiased truth in advanced technology and show where its going.
-
-In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest.
 
 “Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers
 
