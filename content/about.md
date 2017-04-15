@@ -10,8 +10,5 @@ title = "About Us"
 
 ## Sponsored by
 
-AdapTech Solutions
+[AdapTech Solutions](https://adaptechsolutions.net/)
 
-## Social
-
-Find us on social media on the following channels: Youtube, twitter, instagram/snapchat, facebook, linkedin

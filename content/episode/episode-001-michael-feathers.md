@@ -59,13 +59,13 @@ We are the podcast that gives you the news you won’t get anywhere else
 
 ##### News segment
 
-Upcoming workshop with Scott Bellware
-Canonical drops Unity and Mir
-Samsung galaxy s8 bringing device convergence with android instead
-KDE still has a linux phone available
-Finding Dell machines in europe with Ubuntu in stores
-These machines even update the bios from linux - used to be a windows only thing
-Border problems make Vancouver and other Canadian cities attractive for conferences
+* Upcoming workshop with Scott Bellware
+* Canonical drops Unity and Mir
+* Samsung galaxy s8 bringing device convergence with android instead
+* KDE still has a linux phone available
+* Finding Dell machines in europe with Ubuntu in stores
+* These machines even update the bios from linux - used to be a windows only thing
+* Border problems make Vancouver and other Canadian cities attractive for conferences
 
 ##### Tutorials
 
