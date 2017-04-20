@@ -41,15 +41,13 @@ Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant
 
 **Hope you enjoy our interview with Michael!**
 
-#### Show notes
-
-In this episode we discuss
+#### In this episode we discuss
 
  * What the Advance Tech Podcast is all about - the podcast that gives you the news you won’t get anywhere else
  * Our focus on future technology like open source platforms, tools, libraries
  * We’re sponsored by Adaptech Solutions - software that defies convention!
 
-##### News segment
+##### News
 
 * Upcoming workshop with Scott Bellware
 * Canonical drops Unity and Mir

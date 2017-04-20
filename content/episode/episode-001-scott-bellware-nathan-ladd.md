@@ -21,13 +21,13 @@ youtube = ""
 
 Written by Alexandra Moxin and Adam Dymitruk
 
-On today's episode we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas. But first here's the weekly news and tutorials.
+On today's episode we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas. But first here's the weekly news, community announcements and tutorials.
 
-##### News segment
+##### News
 
 * Adam's notes on Mastodon, Jet Brains adding support for F#, and more
 
-#### Announcements
+##### Announcements
 
 * Coming up this May 6th & 7th is Linux Fest NW a free linux conference in Bellingham, Washington at Bellingham Technical College. Free to attend but you can purchase a ticket which will include a tshirt and lunch for both days. Go check it out to see lots of amazing sessions on everything open source!
 
@@ -56,6 +56,6 @@ Our next interview is with Michael Feathers of [r7k Research & Conveyance](https
 [Eventtide](link)
 [Microservices Event April 29th & 30th](link)
 
-#### Sponsored by
+##### Sponsored by
 
 [AdapTech Solutions](https://adaptechsolutions.net/)
