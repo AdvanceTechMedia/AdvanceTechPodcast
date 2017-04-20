@@ -1,5 +1,5 @@
 +++
-Description = "<p>Welcome to the Advance Tech Podcast bringing you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk.</p><p>We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unfiltered truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest.</p>"
+Description = "On today's episode we interview special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
 aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []

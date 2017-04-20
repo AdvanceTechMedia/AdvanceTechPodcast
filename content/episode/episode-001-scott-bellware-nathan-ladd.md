@@ -19,20 +19,43 @@ youtube = ""
 
 +++
 
-Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest defining the technology of tomorrow.
+Written by Alexandra Moxin and Adam Dymitruk
 
-Sponsored by Adaptech Solutions. Building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit adaptech solutions .net today to see why we're differen.
+On today's episode we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas. But first here's the weekly news and tutorials.
 
-On today's episode we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas. But first here's our weekly news and tutorials.
+##### News segment
 
-Coming up this May 6th & 7th is Linux Fest NW a free linux conference in Bellingham, Washington. @ BH Tech college. Free to attend but you can purchase a ticket which will include a tshirt and lunch for both days.  Lots of amazing sessions on everything open source"
+* Adam's notes on Mastodon, Jet Brains adding support for F#, and more
 
-Some of the things we talk about with Scott and Nathan are:
-The upcoming workshop
-The two definitions of “microservices”: one of science, and one of conjecture
-One comes from web developers who see the world through MVC and APIs
-One comes from people with prior experience in service architectures
-The mistake that web devs make is not arriving at Service autonomy
-Rule #1 of services: Can’t query data from services
-How ORMs cause monoliths
+#### Announcements
 
+* Coming up this May 6th & 7th is Linux Fest NW a free linux conference in Bellingham, Washington at Bellingham Technical College. Free to attend but you can purchase a ticket which will include a tshirt and lunch for both days. Go check it out to see lots of amazing sessions on everything open source!
+
+* Be sure to check out the Microservices and Ruby workshop on April 29th and 30th with Scott Bellware and Nathan Ladd
+
+##### Tutorials
+
+* recorded tutorial of the week
+
+#### Some of the things we cover in this episode
+
+* The upcoming workshop
+* The two definitions of “microservices”: one of science, and one of conjecture
+** One comes from web developers who see the world through MVC and APIs
+** One comes from people with prior experience in service architectures
+* A common mistake that web developers make is not arriving at Service autonomy
+* Rule #1 of services: Can’t query data from services
+* How ORMs cause monoliths
+
+##### Next Show
+
+Our next interview is with Michael Feathers of [r7k Research & Conveyance](https://www.r7krecon.com/)
+
+##### Show Links
+
+[Eventtide](link)
+[Microservices Event April 29th & 30th](link)
+
+#### Sponsored by
+
+[AdapTech Solutions](https://adaptechsolutions.net/)
