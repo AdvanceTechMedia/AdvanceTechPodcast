@@ -1,10 +1,10 @@
 +++
 Description = "<p>Welcome to the Advance Tech Podcast bringing you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk.</p><p>We promote technical and industry expertise, give you unparalleled access to industry experts and we believe in and promote gender parity in tech. We aim to give you the unfiltered truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest.</p>"
-aliases = ["/1"]
+aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []
 date = "2017-04-13T04:09:45-05:00"
-episode = "1"
+episode = "2"
 episode_image = "/img/episode/default.jpg"
 explicit = "no"
 guests = ["Michael Feathers"]
@@ -14,7 +14,7 @@ podcast_duration = "1:08:22"
 podcast_file = "atp-podcast-.mp3"
 podcast_length = ""
 tags = []
-title = "Episode 1 - Michael Feathers"
+title = "Episode 2 - Michael Feathers"
 youtube = ""
 
 +++
