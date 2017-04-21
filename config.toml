@@ -22,19 +22,19 @@ disqusShortname = "advtechpodcast"
     identifier = "about"
     url = "/about"
 
-[[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
-    url = "#!"
+# [[Menu.Main]]
+#    name = "Resources"
+#    identifier = "resources"
+#    url = "#!"
 
 [params]
 site_theme = "blue"
 # about_logo = "/img/hugocast.png"
 copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
-itunes_subscribe = ""
-android_subscribe = ""
-google_play_subscribe = ""
-mailchimp_subscribe = ""
+# itunes_subscribe = ""
+# android_subscribe = ""
+# google_play_subscribe = ""
+# mailchimp_subscribe = ""
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow. Sponsored by Adaptech Solutions. Building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit adaptech solutions .net today to see why we're different."
 media_prefix = ""
@@ -61,14 +61,13 @@ media_prefix = ""
       thumbnail = ""
       bio = ""
       [params.authors.Alexandra.social]
-        github = ""
-        facebook = ""
+        github = "lexi933"
         twitter = "Alexandra933"
-        linkedin = "/Alexandra-Moxin"
-        homepage = ""
     [params.authors.Adam]
 			name = "Adam Dymitruk"
 			thumbnail = ""
 			bio = ""
 				[params.authors.Adam.social]
-					twitter = "adymitruk"
+					github = "adymitruk"
+                    twitter = "adymitruk"
+
