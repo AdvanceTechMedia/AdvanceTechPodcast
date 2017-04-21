@@ -59,8 +59,8 @@ Our next interview is with Michael Feathers of [r7k Research & Conveyance](https
 
 ### Show Links
 
-[Eventtide](http://eventide-project.org/)
-[Ruby Microservices Workshop, April 29th & 30th](https://www.eventbrite.com/e/ruby-microservices-workshop-vancouver-tickets-32550250676)
+* [Eventtide](http://eventide-project.org/)
+* [Ruby Microservices Workshop, April 29th & 30th](https://www.eventbrite.com/e/ruby-microservices-workshop-vancouver-tickets-32550250676)
 
 ### Sponsored by
 
