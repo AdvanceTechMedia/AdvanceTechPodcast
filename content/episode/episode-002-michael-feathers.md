@@ -14,7 +14,7 @@ podcast_duration = "1:08:22"
 podcast_file = "atp-podcast-.mp3"
 podcast_length = ""
 tags = []
-title = "Episode 2 - Michael Feathers"
+title = "Coming Soon: Episode 2 - Michael Feathers"
 youtube = ""
 
 +++
