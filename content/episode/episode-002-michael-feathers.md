@@ -1,9 +1,9 @@
 +++
-Description = "On today's episode we interview special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
+Description = "Next up we interview special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
 aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []
-date = "2017-04-13T04:09:45-05:00"
+date = "2017-04-27T04:09:45-05:00"
 episode = "2"
 episode_image = "/img/episode/default.jpg"
 explicit = "no"
@@ -27,7 +27,7 @@ Michael Feathers (@mfeathers) is Founder and Director of R7K Research & Conveyan
 
 Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the past 20 years he has consulted with hundreds of organizations and is a frequent presenter at national and international conferences.
 
-#### Questions we cover in this episode
+### Questions we cover in this episode
 
 * Michael’s background, how he got into computers and programming
 * What drives him to get out of bed in the morning
@@ -41,13 +41,13 @@ Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant
 
 **Hope you enjoy our interview with Michael!**
 
-#### In this episode we discuss
+### In this episode we discuss
 
  * What the Advance Tech Podcast is all about - the podcast that gives you the news you won’t get anywhere else
  * Our focus on future technology like open source platforms, tools, libraries
  * We’re sponsored by Adaptech Solutions - software that defies convention!
 
-##### News
+### News
 
 * Upcoming workshop with Scott Bellware
 * Canonical drops Unity and Mir
@@ -57,24 +57,24 @@ Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant
 * These machines even update the bios from linux - used to be a windows only thing
 * Border problems make Vancouver and other Canadian cities attractive for conferences
 
-##### Tutorials
+### Tutorials
 
  * KDE dolphin file manager
  * Fish shell top features over zsh and bash
  * KDE neon sound settings make podcast recordings easy
 
-##### Next Show
+### Next Show
 
-Our next interview is with Scott Bellware and Nathan Ladd
+Stay tuned for our next interview!
 
-##### Show Links
+### Show Links
 
 [r7k Research & Conveyance](https://www.r7krecon.com/)
 
-#### Sponsored by
+### Sponsored by
 
 [AdapTech Solutions](https://adaptechsolutions.net/)
 
-#### Social
+### Social
 
 Find us on social media on the following channels: Youtube, twitter, mastodon, linkedin, Reddit
