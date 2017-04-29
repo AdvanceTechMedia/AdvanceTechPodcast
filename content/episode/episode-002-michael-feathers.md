@@ -1,29 +1,28 @@
 +++
-Description = "Next up we interview special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
+Description = "Stay tuned for our special guest interview with Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
 aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []
-date = "2017-04-27T04:09:45-05:00"
+date = "2017-04-30T04:09:45-05:00"
 episode = "2"
 episode_image = "/img/episode/default.jpg"
 explicit = "no"
-guests = ["Michael Feathers"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:08:22"
 podcast_file = "atp-podcast-.mp3"
 podcast_length = ""
 tags = []
-title = "Coming Soon: Episode 2 - Michael Feathers"
+title = "Michael Feathers"
 youtube = ""
 
 +++
 
 Written by Alexandra Moxin
 
-“Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers
+**“Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers**
 
-Michael Feathers (@mfeathers) is Founder and Director of R7K Research & Conveyance a company specializing in software and organization design. Michael wrote Working Effectively with Legacy Code (Prentice Hall, 2004) and specializes supporting organizations with general software design issues, process change and code revitalization.
+[Michael Feathers](@mfeathers) is Founder and Director of R7K Research & Conveyance](https://www.r7krecon.com/) a company specializing in software and organization design. Michael wrote [Working Effectively with Legacy Code](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (Prentice Hall, 2004) and specializes supporting organizations with general software design issues, process change and code revitalization.
 
 Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the past 20 years he has consulted with hundreds of organizations and is a frequent presenter at national and international conferences.
 
@@ -41,29 +40,24 @@ Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant
 
 **Hope you enjoy our interview with Michael!**
 
-### In this episode we discuss
+### About Advance Tech Media
 
- * What the Advance Tech Podcast is all about - the podcast that gives you the news you won’t get anywhere else
- * Our focus on future technology like open source platforms, tools, libraries
+ * Why are we called Advance Tech instead of Advanced Tech?
+ * Advance Tech Media as an organization opens us up to other forms of media including video, workshops and conferences along with hosting other podcasts
  * We’re sponsored by Adaptech Solutions - software that defies convention!
 
 ### News
 
-* Upcoming workshop with Scott Bellware
-* Canonical drops Unity and Mir
-* Samsung galaxy s8 bringing device convergence with android instead
-* KDE still has a linux phone available
-* Finding Dell machines in europe with Ubuntu in stores
-* These machines even update the bios from linux - used to be a windows only thing
-* Border problems make Vancouver and other Canadian cities attractive for conferences
+* [F# support](https://blog.jetbrains.com/dotnet/2017/04/27/rider-eap-21-f-support-bundled-tfs-plugin/) is now live in Jet Brains Rider
+* Mastodon update: [Mastodon](https://instances.mastodon.xyz/list) is a free and open source alternative to twitter with over 500k users supported by more than 1,500 distributed servers
+* [YouTube-dlG](http://www.webupd8.org/2014/03/multi-platform-youtube-dl-gui-youtube.html) supports video and audio downloads from YouTube
+* [Lineage OS](http://www.android.gs/install-lineage-os-on-oneplus-2-and-update-to-android-7-1-1-nougat-firmware/) available on OnePlus2 wih Android Nougat
 
-### Tutorials
+### Announcements
 
- * KDE dolphin file manager
- * Fish shell top features over zsh and bash
- * KDE neon sound settings make podcast recordings easy
+* [Future Camp 2017](https://www.eventbrite.com/e/future-camp-2017-tickets-33567645732) will be at  at Red Academy on May 13th. Future Camp is an unconference that brings together the keenest minds in the Pacific Northwest to discuss and debate where the future is taking us.
 
-### Next Show
+* Coming up this May 6th & 7th is [LinuxFest Northwest](https://www.linuxfestnorthwest.org/2017) a free linux conference in Bellingham, Washington at Bellingham Technical College. Free to attend but you can purchase a ticket which will include a tshirt and lunch for both days. Go check it out to see lots of amazing sessions on everything open source!
 
 Stay tuned for our next interview!
 
@@ -75,6 +69,3 @@ Stay tuned for our next interview!
 
 [AdapTech Solutions](https://adaptechsolutions.net/)
 
-### Social
-
-Find us on social media on the following channels: Youtube, twitter, mastodon, linkedin, Reddit

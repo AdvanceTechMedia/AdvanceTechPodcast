@@ -36,7 +36,7 @@ copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechm
 # google_play_subscribe = ""
 # mailchimp_subscribe = ""
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow. Sponsored by Adaptech Solutions. Building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit adaptech solutions .net today to see why we're different."
+description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow.Sponsored by Adaptech Solutions, building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why we're different."
 media_prefix = ""
   [params.feed]
     feed_copyright = "Copyright 2017 Advance Tech Media" #do not use markdown in this field; it is used in the feed
@@ -53,21 +53,23 @@ media_prefix = ""
   [params.social]
     github = "AdvanceTechMedia"
     twitter = "AdvTechPodcast"
-    linkedin = "/alexandra-moxin"
+#    linkedin = "\u002Fcompany-beta\u002F18038505"
 
   [params.authors]
     [params.authors.Alexandra]
       name	= "Alexandra Moxin"
       thumbnail = ""
-      bio = ""
+      bio = "Alexandra has been managing software projects for over a decade and brings an understanding of how event based system implementations impact organisations. She is a student of the patterns in DDD/CQRS/ES and how they apply to Conway's Law. Alexandra has led and mentored technical, design and quality assurance teams and has managed multi-million dollar projects and initiatives. Alexandra is currently Director of Business Development for Adaptech Solutions and co-host of the Advance Tech Podcast. "
       [params.authors.Alexandra.social]
         github = "lexi933"
         twitter = "Alexandra933"
+        linkedin = "https://www.linkedin.com/in/alexandra-moxin/"
     [params.authors.Adam]
 			name = "Adam Dymitruk"
 			thumbnail = ""
-			bio = ""
+			bio = "CEO and Founder of Adaptech Solutions, and co-host of the Advance Tech Podcast, Adam is a passionate technologist and has worked in the field for a few decades in numerous roles. He has contributed to the scaling approaches in CQRS and Event Sourcing by introducing PAXOS to the consistency strategy in 2008. In 2011-2012, he helped Microsoft's Patterns and Practices team introduce modern open-source tooling to the CQRS Journey book project. He has inspired organisations to excel in approaches to software in modern workflows, inspired a culture of learning and instilled a modern approach to software architecture. A subscriber to the idea that Conway’s Law is something that can be taken advantage of instead of something organisations fall victim to, he is able to put the right teams together, using the right future-proof technologies to get software written with the highest quality at lower costs and timelines."
 				[params.authors.Adam.social]
 					github = "adymitruk"
                     twitter = "adymitruk"
+                    linkedin = "https://www.linkedin.com/in/adymitruk/"
 
