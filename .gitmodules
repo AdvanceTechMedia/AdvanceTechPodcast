@@ -6,4 +6,4 @@
 	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
 [submodule "themes/castanet"]
 	path = themes/castanet
-	url = git@github.com:mattstratton/castanet.git
+	url = git@github.com:AdvanceTechMedia/castanet.git
