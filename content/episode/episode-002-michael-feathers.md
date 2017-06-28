@@ -1,5 +1,5 @@
 +++
-Description = "Stay tuned for our special guest interview with Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
+Description = "This week we interview our special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code."
 aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []
@@ -18,7 +18,7 @@ youtube = ""
 
 +++
 
-Written by Alexandra Moxin
+Written by Alexandra Moxin and Adam Dymitruk
 
 **“Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers**
 
@@ -35,23 +35,23 @@ Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant
 * What Michael considers to be important in programming
 * Where people should start when learning to program
 * What inspired Michael to write Working Effectively with Legacy Code (WELC)
-* Whether he has plans to revise WELC, whether he as plans to author any other upcoming books
-* Michael’s consulting business R7K and speaking engagements
+* Whether he has plans to revise WELC, whether he has plans to author any other upcoming books
+* Michael’s consulting business R7K and Research and Conveyance and speaking engagements
 
 **Hope you enjoy our interview with Michael!**
 
 ### About Advance Tech Media
 
  * Why are we called Advance Tech instead of Advanced Tech?
- * Advance Tech Media as an organization opens us up to other forms of media including video, workshops and conferences along with hosting other podcasts
+ * Advance Tech Media as an organization opens us up to other forms of media including video, blogs workshops and conferences along with hosting other content
  * We’re sponsored by Adaptech Solutions - software that defies convention!
 
 ### News
 
 * [F# support](https://blog.jetbrains.com/dotnet/2017/04/27/rider-eap-21-f-support-bundled-tfs-plugin/) is now live in Jet Brains Rider
-* Mastodon update: [Mastodon](https://instances.mastodon.xyz/list) is a free and open source alternative to twitter with over 500k users supported by more than 1,500 distributed servers
+* Mastodon update: [Mastodon](https://instances.mastodon.xyz/list) is a free and open source alternative to twitter with over 500k users and is supported by more than 1,500 servers
 * [YouTube-dlG](http://www.webupd8.org/2014/03/multi-platform-youtube-dl-gui-youtube.html) supports video and audio downloads from YouTube
-* [Lineage OS](http://www.android.gs/install-lineage-os-on-oneplus-2-and-update-to-android-7-1-1-nougat-firmware/) available on OnePlus2 wih Android Nougat
+* [Lineage OS](http://www.android.gs/install-lineage-os-on-oneplus-2-and-update-to-android-7-1-1-nougat-firmware/) now available on OnePlus2 wih Android Nougat
 
 ### Announcements
 
@@ -64,6 +64,7 @@ Stay tuned for our next interview!
 ### Show Links
 
 [r7k Research & Conveyance](https://www.r7krecon.com/)
+
 
 ### Sponsored by
 
