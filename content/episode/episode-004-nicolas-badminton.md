@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview our special guest Nikolas Badminton!"
+Description = "This week we interview special guest and futurist, Nikolas Badminton!"
 aliases = ["/4"]
 author = "Alexandra Moxin"
 categories = []
@@ -9,9 +9,9 @@ episode_image = "/img/episode/default.jpg"
 explicit = "no"
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-podcast_duration = "1:08:22"
-podcast_file = "/advance-tech-podcast-004.mp3"
-podcast_length = ""
+podcast_duration = "1:02:01"
+podcast_file = "https://advancetechmedia.org/advance-tech-podcast-004.mp3"
+podcast_length = "1:02:01"
 tags = []
 title = "Nikolas Badminton"
 youtube = ""
@@ -56,11 +56,7 @@ Welcome to the future!
 
 **Hope you enjoy our interview with Nik!**
 
-### News
-
-### Announcements
-
-Stay tuned for our next interview!
+Stay tuned for news, announcements and our next interview!
 
 ### Show Links
 
