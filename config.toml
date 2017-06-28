@@ -2,7 +2,7 @@ baseurl = "https://advancetechmedia.org/"
 languageCode = "en-us"
 title = "Advance Tech Podcast"
 theme = "castanet"
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-98351650-1"
 disqusShortname = "advtechpodcast"
 #themesdir = "../.."
 
