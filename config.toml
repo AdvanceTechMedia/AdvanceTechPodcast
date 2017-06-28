@@ -63,7 +63,7 @@ media_prefix = ""
       [params.authors.Alexandra.social]
         github = "lexi933"
         twitter = "Alexandra933"
-        linkedin = "https://www.linkedin.com/in/alexandra-moxin/"
+        linkedin = "alexandra-moxin"
     [params.authors.Adam]
 			name = "Adam Dymitruk"
 			thumbnail = ""
@@ -71,5 +71,5 @@ media_prefix = ""
 				[params.authors.Adam.social]
 					github = "adymitruk"
                     twitter = "adymitruk"
-                    linkedin = "https://www.linkedin.com/in/adymitruk/"
+                    linkedin = "eventsourcing"
 
