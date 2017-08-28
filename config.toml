@@ -20,7 +20,7 @@ disqusShortname = "advtechpodcast"
 [[Menu.Main]]
     name = "About"
     identifier = "about"
-    url = "/about"
+    url = "about"
 
 # [[Menu.Main]]
 #    name = "Resources"
