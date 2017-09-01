@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview Cryptocurrency, ICO, Blockchain and Etherium expert Erik Reppel and Adaptech's CTO Robert Reppel!"
+Description = "This week we interview Cryptocurrency, ICO, Blockchain and Ethereum expert Erik Reppel and Adaptech's CTO Robert Reppel!"
 aliases = ["/5"]
 author = "Alexandra Moxin"
 categories = []
