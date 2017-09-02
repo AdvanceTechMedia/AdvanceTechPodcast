@@ -31,12 +31,12 @@ disqusShortname = "advtechpodcast"
 site_theme = "blue"
 about_logo = "/Advancetechmediaavataritunes.png"
 copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
-# itunes_subscribe = ""
-# android_subscribe = ""
+itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
+android_subscribe = "http://www.subscribeonandroid.com/www.advancetechmedia.org/episode/index.xml"
 # google_play_subscribe = ""
 # mailchimp_subscribe = ""
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow.Sponsored by Adaptech Solutions, building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why we're different."
+description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow. Sponsored by Adaptech Solutions, building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why we're different."
 media_prefix = ""
   [params.feed]
     feed_copyright = "Copyright 2017 Advance Tech Media" #do not use markdown in this field; it is used in the feed
@@ -54,13 +54,15 @@ media_prefix = ""
   [params.social]
     github = "AdvanceTechMedia"
     twitter = "AdvTechPodcast"
-#    linkedin = "\u002Fcompany-beta\u002F18038505"
+#   linkedin = "/company/18038505/"
+#   facebook = "advancetechmedia"
+#   instagram = "advance_tech_media"
 
   [params.authors]
     [params.authors.Alexandra]
       name	= "Alexandra Moxin"
       thumbnail = ""
-      bio = "Alexandra has been managing software projects for over a decade and brings an understanding of how event based system implementations impact organisations. She is a student of the patterns in DDD/CQRS/ES and how they apply to Conway's Law. Alexandra has led and mentored technical, design and quality assurance teams and has managed multi-million dollar projects and initiatives. Alexandra is currently Director of Business Development for Adaptech Solutions and co-host of the Advance Tech Podcast. "
+      bio = "Alexandra is dedicated to advancing the responsible application of cutting edge technology such as blockchain, Bitcoin, Ethereum, other tokens and cryptocurrencies, AI, VR/AR, distributed data, and the platforms that support these. She is Co-founder and Host of the Advance Tech Podcast where she interviews innovative and forward thinking experts in development, start-up and business communities and others who are defining the technology of tomorrow. As Director of Business Development for Adaptech Solutions she meets with management teams and decision makers and creates new opportunities by promoting and fostering community development and industry partnerships. Alexandra has over a decade of experience managing software projects and brings an understanding of how event based system implementations impact organisations. She is a student of the patterns in DDD/CQRS/ES and how they apply to Conway’s Law."
       [params.authors.Alexandra.social]
         github = "lexi933"
         twitter = "Alexandra933"
