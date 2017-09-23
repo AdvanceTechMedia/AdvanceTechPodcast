@@ -100,7 +100,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
  [Mark Gaylor]()
 * [@jefking](https://twitter.com/jefking_?lang=en)
 * [@anthonychu](https://twitter.com/nthonychu?lang=en)
-* [Anthony Chu's Not Bacon App](https://github.com/anthonychu/bacon-not-bacon-function-app)
+* [Anthony Chu's Not Bacon App](https://docs.microsoft.com/en-gb/sandbox/demos/notbacon)
 
 
 ### Sponsored by
