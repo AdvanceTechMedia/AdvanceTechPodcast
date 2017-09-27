@@ -5,4 +5,4 @@ title = "Guests of HugoCast"
 aliases = "/guests"
 +++
 
-Want to be a guest on the HugoCast? Send us an email!
+Want to be a guest on the Advance Tech Podcast? Send us an email!
