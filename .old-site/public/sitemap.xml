@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://advancetechmedia.org/episode-004-nicolas-badminton/</loc>
+    <lastmod>2017-06-27T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/episode-003-dustin-krysak/</loc>
+    <lastmod>2017-05-18T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/episode-002-michael-feathers/</loc>
+    <lastmod>2017-04-30T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/episode-001-scott-bellware-nathan-ladd/</loc>
+    <lastmod>2017-04-20T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/about/</loc>
+    <lastmod>2017-04-04T20:55:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/about/</loc>
+    <lastmod>2017-04-04T20:55:54-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/</loc>
+    <lastmod>2017-06-27T04:09:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/episode/</loc>
+    <lastmod>2017-06-27T04:09:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://advancetechmedia.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

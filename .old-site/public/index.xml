@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advance Tech Podcast</title>
+    <link>https://advancetechmedia.org/</link>
+    <description>Recent content on Advance Tech Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jun 2017 04:09:45 -0500</lastBuildDate>
+    
+	<atom:link href="https://advancetechmedia.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nikolas Badminton</title>
+      <link>https://advancetechmedia.org/episode-004-nicolas-badminton/</link>
+      <pubDate>Tue, 27 Jun 2017 04:09:45 -0500</pubDate>
+      
+      <guid>https://advancetechmedia.org/episode-004-nicolas-badminton/</guid>
+      <description>Written by Alexandra Moxin
+“The exponential growth of humanity is happening today. And, we have the power to define that through love and wisdom.” – Nikolas Badminton, Futurist
+Nikolas Badminton is a researcher and futurist speaker who splits his time between Canada (Vancouver, Toronto and Montreal), USA, UK, and provides insights into how people, communities, cities, businesses, and countries are changing with exponential technology.
+He studied Applied Psychology and Computing in the U.</description>
+    </item>
+    
+    <item>
+      <title>Dustin Krysak</title>
+      <link>https://advancetechmedia.org/episode-003-dustin-krysak/</link>
+      <pubDate>Thu, 18 May 2017 04:09:45 -0500</pubDate>
+      
+      <guid>https://advancetechmedia.org/episode-003-dustin-krysak/</guid>
+      <description>Written by Adam Dymitruk
+Dustin Krysak is a manager at Teradici. He has extensive backgroud in Linux and infrastructure. He&amp;rsquo;s a contributor to Ubuntu Budgie.
+What we cover in this episode  Dustin&amp;rsquo;s journey to Linux Ubuntu Budgie background and motivation Linuxfest Northwest review Vancouver Linux Desktop Meetup  Hope you enjoy our interview with Dustin!
+About Advance Tech Media  Why are we called Advance Tech instead of Advanced Tech?</description>
+    </item>
+    
+    <item>
+      <title>Michael Feathers</title>
+      <link>https://advancetechmedia.org/episode-002-michael-feathers/</link>
+      <pubDate>Sun, 30 Apr 2017 04:09:45 -0500</pubDate>
+      
+      <guid>https://advancetechmedia.org/episode-002-michael-feathers/</guid>
+      <description>Written by Alexandra Moxin and Adam Dymitruk
+“Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers
+Michael Feathers is Founder and Director of R7K Research &amp;amp; Conveyance](https://www.r7krecon.com/) a company specializing in software and organization design. Michael wrote Working Effectively with Legacy Code (Prentice Hall, 2004) and specializes supporting organizations with general software design issues, process change and code revitalization.</description>
+    </item>
+    
+    <item>
+      <title>Scott Bellware and Nathan Ladd</title>
+      <link>https://advancetechmedia.org/episode-001-scott-bellware-nathan-ladd/</link>
+      <pubDate>Thu, 20 Apr 2017 04:09:45 -0500</pubDate>
+      
+      <guid>https://advancetechmedia.org/episode-001-scott-bellware-nathan-ladd/</guid>
+      <description>Written by Alexandra Moxin and Adam Dymitruk
+On the inaugural episode of the Advance Tech Podcast we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas.
+Scott Bellware @sbellware works with development teams on monolith and Rails remediation, and autonomous services projects. He’s been on a five-year mission to incorporate all the good things he’s learned in the distributed systems world with all the good things he’s learned in the Ruby world.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://advancetechmedia.org/about/</link>
+      <pubDate>Tue, 04 Apr 2017 20:55:54 -0700</pubDate>
+      
+      <guid>https://advancetechmedia.org/about/</guid>
+      <description>Sponsored by AdapTech Solutions</description>
+    </item>
+    
+  </channel>
+</rss>

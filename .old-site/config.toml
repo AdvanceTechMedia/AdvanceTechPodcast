@@ -1,0 +1,78 @@
+baseurl = "https://advancetechmedia.org/"
+languageCode = "en-us"
+title = "Advance Tech Podcast"
+theme = "castanet"
+googleAnalytics = "UA-98351650-1"
+disqusShortname = "advtechpodcast"
+#themesdir = "../.."
+
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# SectionPagesMenu = "Main"
+# About section of menu
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+# [[Menu.Main]]
+#    name = "Resources"
+#    identifier = "resources"
+#    url = "#!"
+
+[params]
+site_theme = "blue"
+about_logo = "/Advancetechmediaavataritunes.png"
+copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
+itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
+android_subscribe = "http://www.subscribeonandroid.com/www.advancetechmedia.org/episode/index.xml"
+# google_play_subscribe = ""
+# mailchimp_subscribe = ""
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. In our weekly format we’ll review notable tech news, provide tutorials and interview a special guest who is defining the technology of tomorrow. Sponsored by Adaptech Solutions, building software that defies convention. Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why we're different."
+media_prefix = ""
+  [params.feed]
+    feed_copyright = "Copyright 2017 Advance Tech Media" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "Bringing you the latest in technology and open source news!" #no markdown or HTML
+    itunes_author = "Alexandra Moxin" #no markdown or HTML
+    itunes_summary = "The Advance Tech Podcast brings you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We promote technical and industry expertise, give you unparalleled access to industry experts. We aim to give you the unbiased truth in advanced technology and show where its going. In our weekly format we’ll review notable tech and startup news, provide tutorials and interview a special guest who is defining the technology of tomorrow." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Advance Tech Media"
+    itunes_owner_email = "alexandra.moxin@advancetechmedia.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.advancetechmedia.org/Advancetechmediaavataritunes.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Tech News"
+    itunes_second_sub_category = "Software How-To"
+    itunes_third_sub_category = "Podcasting"
+
+  [params.social]
+    github = "AdvanceTechMedia"
+    twitter = "AdvTechPodcast"
+#   linkedin = "/company/18038505/"
+#   facebook = "advancetechmedia"
+#   instagram = "advance_tech_media"
+
+  [params.authors]
+    [params.authors.Alexandra]
+      name	= "Alexandra Moxin"
+      thumbnail = ""
+      bio = "Alexandra is dedicated to advancing the responsible application of cutting edge technology such as blockchain, Bitcoin, Ethereum, other tokens and cryptocurrencies, AI, VR/AR, distributed data, and the platforms that support these. She is Co-founder and Host of the Advance Tech Podcast where she interviews innovative and forward thinking experts in development, start-up and business communities and others who are defining the technology of tomorrow. As Director of Business Development for Adaptech Solutions she meets with management teams and decision makers and creates new opportunities by promoting and fostering community development and industry partnerships. Alexandra has over a decade of experience managing software projects and brings an understanding of how event based system implementations impact organisations. She is a student of the patterns in DDD/CQRS/ES and how they apply to Conway’s Law."
+      [params.authors.Alexandra.social]
+        github = "lexi933"
+        twitter = "Alexandra933"
+        linkedin = "alexandra-moxin"
+    [params.authors.Adam]
+			name = "Adam Dymitruk"
+			thumbnail = ""
+			bio = "CEO and Founder of Adaptech Solutions, and co-host of the Advance Tech Podcast, Adam is a passionate technologist and has worked in the field for a few decades in numerous roles. He has contributed to the scaling approaches in CQRS and Event Sourcing by introducing PAXOS to the consistency strategy in 2008. In 2011-2012, he helped Microsoft's Patterns and Practices team introduce modern open-source tooling to the CQRS Journey book project. He has inspired organisations to excel in approaches to software in modern workflows, inspired a culture of learning and instilled a modern approach to software architecture. A subscriber to the idea that Conway’s Law is something that can be taken advantage of instead of something organisations fall victim to, he is able to put the right teams together, using the right future-proof technologies to get software written with the highest quality at lower costs and timelines."
+				[params.authors.Adam.social]
+					github = "adymitruk"
+                    twitter = "adymitruk"
+                    linkedin = "eventsourcing"
+
