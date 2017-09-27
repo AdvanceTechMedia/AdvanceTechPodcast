@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Advance Tech Podcast</title>
+    <atom:link href="http://localhost:1313/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+    <lastBuildDate>Thu, 31 Aug 2017 04:09:45 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright></copyright>
+    <itunes:subtitle>Bringing you the latest in technology and open source news!</itunes:subtitle>
+    <itunes:author>Alexandra Moxin</itunes:author>
+    <itunes:summary>The Advance Tech Podcast brings you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We aim to give you the unbiased truth in advanced technology and interview a special guest who is defining the technology of tomorrow.</itunes:summary>
+    <description>The Advance Tech Podcast brings you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We aim to give you the unbiased truth in advanced technology and interview a special guest who is defining the technology of tomorrow.</description>
+    <itunes:owner>
+    <itunes:name>Advance Tech Media</itunes:name>
+    <itunes:email>alexandra.moxin@advancetechmedia.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" /><itunes:category text="Software How-To" /></itunes:category>
+        <item>
+          <title>Erik Reppel and Robert Reppel</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[This week we interview Cryptocurrency, ICO, Blockchain and Ethereum expert Erik Reppel and Adaptech&rsquo;s CTO Robert Reppel!]></itunes:summary>
+          <description>&lt;![CDATA[This week we interview Cryptocurrency, ICO, Blockchain and Ethereum expert Erik Reppel and Adaptech&rsquo;s CTO Robert Reppel!]></description>
+          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-005.mp3"  type="audio/mpeg" />
+          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-005.mp3</guid>
+          <link>http://localhost:1313/episode-005-erik-reppel-robert-reppel/</link>
+          <pubDate>Thu, 31 Aug 2017 04:09:45 -0500 </pubDate><itunes:duration>1:04:53</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>Nikolas Badminton</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[This week we interview special guest and futurist, Nikolas Badminton!]></itunes:summary>
+          <description>&lt;![CDATA[This week we interview special guest and futurist, Nikolas Badminton!]></description>
+          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-004.mp3"  type="audio/mpeg" />
+          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-004.mp3</guid>
+          <link>http://localhost:1313/episode-004-nicolas-badminton/</link>
+          <pubDate>Tue, 27 Jun 2017 04:09:45 -0500 </pubDate><itunes:duration>1:02:01</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>Dustin Krysak</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Our special guest interview with Dustin Krysak contributor to Ubuntu Budgie.]></itunes:summary>
+          <description>&lt;![CDATA[Our special guest interview with Dustin Krysak contributor to Ubuntu Budgie.]></description>
+          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-003.mp3"  type="audio/mpeg" />
+          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-003.mp3</guid>
+          <link>http://localhost:1313/episode-003-dustin-krysak/</link>
+          <pubDate>Thu, 18 May 2017 04:09:45 -0500 </pubDate><itunes:duration>28:38</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>Michael Feathers</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[This week we interview our special guest Michael Feathers of r7k Research &amp; Conveyance and author of Working Effectively with Legacy Code.]></itunes:summary>
+          <description>&lt;![CDATA[This week we interview our special guest Michael Feathers of r7k Research &amp; Conveyance and author of Working Effectively with Legacy Code.]></description>
+          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-002.mp3"  type="audio/mpeg" />
+          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-002.mp3</guid>
+          <link>http://localhost:1313/episode-002-michael-feathers/</link>
+          <pubDate>Sun, 30 Apr 2017 04:09:45 -0500 </pubDate><itunes:duration>51:54</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>Scott Bellware and Nathan Ladd</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[On the inaugural episode of the Advance Tech Podcast we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas.]></itunes:summary>
+          <description>&lt;![CDATA[On the inaugural episode of the Advance Tech Podcast we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas.]></description>
+          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-001.mp3"  type="audio/mpeg" />
+          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/https://advancetechmedia.org/advance-tech-podcast-001.mp3</guid>
+          <link>http://localhost:1313/episode-001-scott-bellware-nathan-ladd/</link>
+          <pubDate>Thu, 20 Apr 2017 04:09:45 -0500 </pubDate><itunes:duration>1:50:07</itunes:duration><itunes:explicit>no</itunes:explicit></item></channel>
+</rss>

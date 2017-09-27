@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/episode-005-erik-reppel-robert-reppel/</loc>
+    <lastmod>2017-08-31T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/episode-004-nicolas-badminton/</loc>
+    <lastmod>2017-06-27T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/scox/</loc>
+    <lastmod>2017-06-10T09:12:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/kgrant/</loc>
+    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/rshaw/</loc>
+    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/chernandez/</loc>
+    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/rcastillo/</loc>
+    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/ccooper/</loc>
+    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/jlong/</loc>
+    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/sparker/</loc>
+    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/ajohnston/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/smorgan/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/chamilton/</loc>
+    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/rtaylor/</loc>
+    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/cadams/</loc>
+    <lastmod>2017-06-10T09:12:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/kdixon/</loc>
+    <lastmod>2017-06-10T09:12:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/episode-003-dustin-krysak/</loc>
+    <lastmod>2017-05-18T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/episode-002-michael-feathers/</loc>
+    <lastmod>2017-04-30T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2017-04-27T15:19:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/books/</loc>
+    <lastmod>2017-04-27T15:18:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/mstratton/</loc>
+    <lastmod>2017-04-27T13:53:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/episode-001-scott-bellware-nathan-ladd/</loc>
+    <lastmod>2017-04-20T04:09:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/jsmith/</loc>
+    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/jsmith2/</loc>
+    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guest/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-08-31T04:09:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/episode/</loc>
+    <lastmod>2017-08-31T04:09:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
