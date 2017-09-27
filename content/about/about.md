@@ -1,12 +1,9 @@
 +++
-date = "2017-04-04T20:55:54-07:00"
-description = "About this site"
-title = "About Us"
-Type = "Page"
-explicit = "no"
+date = "2016-09-25T02:11:48-05:00"
+description = "about this site"
+title = "about"
+
 +++
 
-## Sponsored by
-
-[AdapTech Solutions](https://adaptechsolutions.net/)
-
+## I love my podcast
+You should love it too
