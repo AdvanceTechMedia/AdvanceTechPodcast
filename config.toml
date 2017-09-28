@@ -16,43 +16,44 @@ themesdir = "themes"
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
-[[Menu.Main]]
-    name = "About"
-    identifier = "about"
-    url = "about"
-
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "contact"
+[
+#[[Menu.Main]]
+#    name = "Contact"
+#    identifier = "contact"
+#    url = "contact"
 
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
     url = "guest"
 
-[[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
-    url = "#!"
+[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
 
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "books"
-    parent = "resources"
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "books"
-    parent = "resources"
+# [[Menu.Main]]
+#    name = "Resources"
+#    identifier = "resources"
+#    url = "#!"
+
+#[[Menu.Main]]
+#    name = "Books"
+#    identifier = "books"
+#    url = "books"
+#    parent = "resources"
+#[[Menu.Main]]
+#    name = "Podcasts"
+#    identifier = "podcasts"
+#    url = "books"
+#    parent = "resources"
 
 [params]
 site_theme = "blue"
 site_layout = "row"
 enable_jumbo = "true"
 # truncate = "100"
-# about_logo = "/img/hugocast.png"
+about_logo = "/img/advancetechmedia-square.png"
 copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
 android_subscribe = "http://www.subscribeonandroid.com/www.advancetechmedia.org/episode/index.xml"
@@ -71,7 +72,7 @@ media_prefix = "https://advancetechmedia.org/"
     itunes_summary = "The Advance Tech Podcast brings you advanced technology and open source news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We aim to give you the unbiased truth in advanced technology and interview a special guest who is defining the technology of tomorrow." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Advance Tech Media"
     itunes_owner_email = "alexandra.moxin@advancetechmedia.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_image = "img/advancetechmedia.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Tech News"
     itunes_second_sub_category = "Software How-To"
@@ -103,7 +104,7 @@ media_prefix = "https://advancetechmedia.org/"
         homepage = "https://www.adaptechsolutions.net/about"
         #pinterest = "mattstratton"
         #instagram = "instagram"
-        youtube = "mattstratton"
+        youtube = "adaptech"
     [params.authors.Bridget]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex.jpg"
