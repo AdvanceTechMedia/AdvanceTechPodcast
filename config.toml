@@ -16,7 +16,7 @@ themesdir = "themes"
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
-[
+
 #[[Menu.Main]]
 #    name = "Contact"
 #    identifier = "contact"
@@ -27,7 +27,7 @@ themesdir = "themes"
     identifier = "guests"
     url = "guest"
 
-[Menu.Main]]
+[[Menu.Main]]
     name = "About"
     identifier = "about"
     url = "about"
@@ -57,7 +57,7 @@ about_logo = "/img/Advancetechmedia avatar.png"
 
 copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
-android_subscribe = "http://www.subscribeonandroid.com/www.advancetechmedia.org/episode/index.xml"
+android_subscribe = "http://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
 #google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 #sticher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
