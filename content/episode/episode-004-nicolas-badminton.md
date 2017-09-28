@@ -12,7 +12,7 @@ news_keywords = []
 podcast_duration = "1:02:01"
 podcast_file = "advance-tech-podcast-004.mp3"
 podcast_length = "1:02:01"
-tags = [Tag: nikolasbadminton Tag: technology Tag:podcast Tag:futurist Tag:futurism Tag:AI Tag:neuralnetwork Tag:edgenetworks Tag:AR Tag:mixedreality Tag: openinformation Tag:universalbasicincome Tag:futuretrends Tag:exponentialtechnology Tag: transhumanist]
+tags = ["nicolasbadminton","technology","podcast","futurist","futurism","AI","neuralnetwork","edgenetworks","AR","mixedreality","openinformation","universalbasicincome","futuretrends", "exponentialtechnology","transhumanist"]
 title = "Nikolas Badminton"
 youtube = ""
 
