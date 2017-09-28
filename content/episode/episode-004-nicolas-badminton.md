@@ -5,14 +5,14 @@ author = "Alexandra Moxin"
 categories = []
 date = "2017-06-27T04:09:45-05:00"
 episode = "4"
-episode_image = "img/guest/nikolas-badminton.png"
+episode_image = "img/guest/nikolas_badminton.png"
 explicit = "no"
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:02:01"
 podcast_file = "advance-tech-podcast-004.mp3"
 podcast_length = "1:02:01"
-tags = []
+tags = [Tag: nikolasbadminton Tag: technology Tag:podcast Tag:futurist Tag:futurism Tag:AI Tag:neuralnetwork Tag:edgenetworks Tag:AR Tag:mixedreality Tag: openinformation Tag:universalbasicincome Tag:futuretrends Tag:exponentialtechnology Tag: transhumanist]
 title = "Nikolas Badminton"
 youtube = ""
 
