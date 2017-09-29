@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Microsoft's Open Source contributions, Java, Azure and the cloud. Brian's team is hiring! If you're a well known Java expert looking for new opportunities who's also passionate for contributing to and advancing the platform, reach out at [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft, to Java, Azure and the cloud. Brian's team is hiring! If you're a well known Java expert looking for new opportunities who's also passionate for contributing to and advancing the platform, reach out at [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
 aliases = ["/6"]
 author = "Alexandra Moxin"
 categories = []
