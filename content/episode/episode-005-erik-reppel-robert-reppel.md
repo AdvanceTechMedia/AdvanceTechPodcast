@@ -20,7 +20,7 @@ draft = "False"
 
 Written by Alexandra Moxin
 
-[Erik Reppel](https://www.linkedin.com/in/erikreppel) was one of the winners at Hack the North, Canada's biggest Hackathon, in 2016 and works for Coinbase. Erik is also cofounder of launchaco.com a company that instantly searches domain names, social media handles and gives you the means to a custom website in 3 easy steps and is finishing his B.SEng. at UVIC majoring in Computer Science. You can find Erik on twitter [@programmer](https://twitter.com/programmer).
+[Erik Reppel](https://www.linkedin.com/in/erikreppel) was one of the winners at Hack the North, Canada's biggest Hackathon, in 2016 and works for Coinbase. Erik is finishing his B.SEng. at UVIC majoring in Computer Science. You can find Erik on twitter [@programmer](https://twitter.com/programmer).
 
 [Robert Reppel](https://www.linkedin.com/in/rreppel/) is CTO and Partner at Adaptech Solutions and co-host of the Microservices Design and Implementation Meetup. A true Polyglot, Robert has more than 25 years of practical, hands-on experience as a Software and Systems Architect, fixer, aligner, deliverer and explainer of products and projects within all aspects of the software development life cycle.
 
@@ -72,7 +72,6 @@ Stay tuned for news, announcements and our next interview!
 * [Hack the North](https://hackthenorth.com/)
 * [UBC Blockathon Winner Announcement, Team Consentaur](https://blockchainubc.ca/2017/05/30/blockathon/)
 * [Coinbase](https://www.coinbase.com/?locale=en)
-* [Launch A Co](http://launchaco.com/)
 * [UVIC - Computer Science Program](https://www.uvic.ca/engineering/computerscience/index.php)
 * [Microservices Design and Implementation with DDD/CQRS/ES Meetup](https://www.meetup.com/DDD-CQRS-ES/)
 * [Adaptech Blog: Blockchain, Hype or Necessity?](https://adaptechsolutions.net/blockchain-hype-or-necessity/)

@@ -1,16 +1,16 @@
 +++
-Title = "Raymond Castillo"
+Title = "Robert Reppel"
 date = "2017-06-10T09:12:42-05:00"
-Twitter = "@dignissimos"
-Website = "http://Feedbug.info"
+Twitter = "@robertreppel"
+Website = "https://adaptechsolutions.net/about"
 Type = "guest"
-Facebook = "a"
-Linkedin = "nisi"
+Facebook = ""
+Linkedin = "rreppel"
 Pronouns = ""
-GitHub = "velit"
-Thumbnail = "img/guest/rcastillo.jpg"
+GitHub = ""
+Thumbnail = "img/guest/robert_reppel.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
 +++
-rerum quos nihil quos molestiae est exercitationem consequatur. dolores consequuntur velit cupiditate nemo perferendis. eaque molestiae dolorem nostrum. illo nihil sed placeat eum quisquam. est repellat fuga ad. exercitationem magni nesciunt maxime eos sint reprehenderit sint voluptas adipisci illum ea ducimus aut. aut explicabo exercitationem neque non est voluptatem ut. enim quia est vel autem aut. maiores delectus quo delectus voluptas non. unde id recusandae ut.
+[Robert Reppel](https://www.linkedin.com/in/rreppel/) is CTO and Partner at Adaptech Solutions and co-host of the Microservices Design and Implementation Meetup. A true Polyglot, Robert has more than 25 years of practical, hands-on experience as a Software and Systems Architect, fixer, aligner, deliverer and explainer of products and projects within all aspects of the software development life cycle.
