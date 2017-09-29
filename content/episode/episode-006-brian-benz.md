@@ -3,19 +3,19 @@ Description = "This week we interview Brian Benz, Senior Developer Advocate from
 aliases = ["/6"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2017-08-31T04:09:45-05:00"
+date = "2017-09-29T04:09:45-05:00"
 episode = "6"
 episode_image = "img/guest/brian_benz.png"
 explicit = "no"
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:04:53"
-#podcast_file = "advance-tech-podcast-005.mp3"
-#podcast_length = "1:04:53"
+podcast_duration = "1:16:16"
+podcast_file = "advance-tech-podcast-006.mp3"
+podcast_length = "1:16:16"
 tags = []
 title = "Brian Benz, Senior Developer Advocate for Microsoft"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
