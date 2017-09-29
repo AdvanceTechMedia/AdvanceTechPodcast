@@ -3,7 +3,7 @@
 aliases = ["/7"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2017-08-31T04:09:45-05:00"
+#date = "2017-08-31T04:09:45-07:00"
 episode = "7"
 episode_image = "/img/guest/hussein_hallak.jpg"
 explicit = "no"

@@ -1,9 +1,9 @@
 +++
-Description = "This week we interview special guest and futurist, Nikolas Badminton!"
+Description = "This week we interview special guest and futurist, Nikolas Badminton! To find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/4"]
 author = "Alexandra Moxin"
 categories = []
-date = "2017-06-27T04:09:45-05:00"
+date = "2017-06-27T04:09:45-07:00"
 episode = "4"
 episode_image = "img/guest/nikolas_badminton.png"
 explicit = "no"

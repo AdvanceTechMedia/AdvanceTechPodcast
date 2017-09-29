@@ -1,9 +1,9 @@
 +++
-Description = "Our special guest interview with Dustin Krysak contributor to Ubuntu Budgie."
+Description = "Our special guest interview with Dustin Krysak contributor to Ubuntu Budgie. As always, to find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/3"]
 author = "Adam Dymitruk"
 categories = []
-date = "2017-05-18T04:09:45-05:00"
+date = "2017-05-18T04:09:45-07:00"
 episode = "3"
 episode_image = "/img/guest/dustin_krysak.jpg"
 explicit = "no"

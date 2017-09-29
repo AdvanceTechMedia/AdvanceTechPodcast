@@ -1,9 +1,9 @@
 +++
-Description = "On the inaugural episode of the Advance Tech Podcast we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas."
+Description = "On the inaugural episode of the Advance Tech Podcast we interview special guests Scott Bellware and Nathan Ladd, microservices and distributed systems experts out of Austin, Texas. To find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/1"]
 author = "Alexandra Moxin and Adam Dymitruk"
 categories = []
-date = "2017-04-20T04:09:45-05:00"
+date = "2017-04-20T04:09:45-07:00"
 episode = "1"
 episode_image = "/img/guest/scott_bellware.jpg"
 explicit = "no"
