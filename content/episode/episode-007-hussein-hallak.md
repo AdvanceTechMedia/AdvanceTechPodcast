@@ -1,5 +1,5 @@
 +++
-#Description = "This week we interview Hussein Hallak! We cover a lot in this episode from ___________! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
+#Description = "This week we interview Hussein Hallak! We cover a lot in this episode from ___________. For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
 aliases = ["/7"]
 author = "Alexandra Moxin"
 categories = []
@@ -10,7 +10,7 @@ explicit = "no"
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 #podcast_duration = "1:04:53"
-#podcast_file = "advance-tech-podcast-005.mp3"
+#podcast_file = "advance-tech-podcast-007.mp3"
 #podcast_length = "1:04:53"
 tags = []
 title = "Hussein Hallak, Serial Entrepreneur and GM - Launch Academy"
