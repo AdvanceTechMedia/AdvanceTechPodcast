@@ -48,7 +48,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * A sneak peak into the daily life of a Java/JVM developer
 * What's new in Java
 * What motivated Brian to join Microsoft, MS Open Tech and the Developer Advocates Team
-* Scott Guthrie's 6 City Tour (Oct 16th - 20th)
+* Scott Guthrie's 5 City Tour (Oct 16th - 20th)
 * What advice Brian would give his 25 year old self and to developers just starting out
 * Where to start learning about the Cloud and Java
 * The importance of inquisitiveness and certifications
@@ -65,7 +65,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 ### Show Links
 
 * [Brian’s LinkedIn Profile](https://www.linkedin.com/in/brianbenz/)
-* [Scott Guthrie's 6 City Tour](http://aka.ms/rst)
+* [Scott Guthrie's 5 City Tour](http://aka.ms/rst)
 * [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)
 * [Azure Case Studies](https://azure.microsoft.com/en-ca/case-studies/)
 * [Microsoft's Java offerings](http://azure.com/java)
@@ -97,9 +97,9 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [Citrix](https://www.citrix.com/)
 * [Azure Cloud Services](https://azure.microsoft.com/en-ca/services/cloud-services/)
 * [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
-* [VSTS (Visual Server Team Services)](https://www.visualstudio.com/team-services/)
-* [@jefking](https://twitter.com/jefking_?lang=en)
-* [@anthonychu](https://twitter.com/nthonychu?lang=en)
+* [VSTS (Visual Studio Team Services)](https://www.visualstudio.com/team-services/)
+* [@jefking_](https://twitter.com/jefking_?lang=en)
+* [@nthonyChu](https://twitter.com/nthonychu?lang=en)
 * [Anthony Chu's Not Bacon App](https://docs.microsoft.com/en-gb/sandbox/demos/notbacon)
 
 
