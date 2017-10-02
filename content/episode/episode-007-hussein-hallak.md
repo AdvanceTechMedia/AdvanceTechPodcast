@@ -7,6 +7,7 @@ categories = []
 episode = "7"
 episode_image = "/img/guest/hussein_hallak.jpg"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 #podcast_duration = "1:04:53"
@@ -53,5 +54,4 @@ We cover a lot in this episode, so get comfortable and hope you enjoy it as much
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
 

@@ -9,6 +9,7 @@ date = "2017-09-29T04:09:45-07:00"
 episode = "6"
 episode_image = "img/guest/brian_benz.png"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:16:27"
@@ -105,5 +106,4 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
 

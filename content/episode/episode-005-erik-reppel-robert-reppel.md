@@ -104,5 +104,5 @@ Stay tuned for news, announcements and our next interview!
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
+
 
