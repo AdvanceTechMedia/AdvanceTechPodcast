@@ -1,22 +1,22 @@
 +++
-#Description = "This week we interview Hussein Hallak, General Manager and Head Mentor at Launch Academy! We cover Hussein's background as a serial entrepreneur, startup advisor, investor and mentor. Hussein speaks about what it takes to be a successful entrepreneur and how passion, hard work and humility are the keys to success in any field. For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Hussein Hallak, General Manager and Head Mentor at Launch Academy! We cover Hussein's background as a serial entrepreneur, startup advisor, investor and mentor. Hussein speaks about what it takes to be a successful entrepreneur and how passion, hard work and humility are the keys to success in any field. For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
 aliases = ["/7"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2017-08-31T04:09:45-07:00"
+date = "2017-10-16T23:00:00-07:00"
 episode = "7"
 episode_image = "/img/guest/hussein_hallak.jpg"
 explicit = "no"
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:04:53"
-#podcast_file = "advance-tech-podcast-007.mp3"
-#podcast_length = "1:04:53"
+podcast_duration = "1:01:00"
+podcast_file = "advance-tech-podcast-007.mp3"
+podcast_length = "1:01:00"
 tags = []
 title = "Hussein Hallak, Serial Entrepreneur and GM - Launch Academy"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
