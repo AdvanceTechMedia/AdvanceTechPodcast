@@ -1,41 +1,36 @@
 +++
 
-Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft to Java, Azure and the cloud. His team is hiring! If you are a well known Java expert looking for new opportunities who is also passionate for contributing to and advancing the platform, reach out at MS Dev Advocate Jobs or visit the Advance Tech Media website and look at the shownotes for links! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
+#No apostrophes  Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft to Java, Azure and the cloud. His team is hiring! If you are a well known Java expert looking for new opportunities who is also passionate for contributing to and advancing the platform, reach out at MS Dev Advocate Jobs or visit the Advance Tech Media website and look at the shownotes for links! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
 
-aliases = ["/6"]
-author = "Alexandra Moxin"
+#aliases = ["/8"]
+#author = "Alexandra Moxin"
 categories = []
-date = "2017-09-29T04:09:45-07:00"
-episode = "6"
-episode_image = "img/guest/brian_benz.png"
-explicit = "no"
-sponsors = ["adaptechsolutions"]
-images = ["http://www.google.com/img/episode/default-social.jpg"]
+#date = "2017-09-29T04:09:45-07:00"
+#episode = "6"
+#episode_image = "img/guest/brian_benz.png"
+#explicit = "no"
+#sponsors = ["adaptechsolutions"]
+#images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-podcast_duration = "1:16:27"
-podcast_file = "advance-tech-podcast-006.mp3"
-podcast_length = "1:16:27"
+#podcast_duration = "1:16:27"
+#podcast_file = "advance-tech-podcast-006.mp3"
+#podcast_length = "1:16:27"
 tags = []
-title = "Brian Benz, Senior Developer Advocate for Microsoft"
+#title = "Brian Benz, Senior Developer Advocate for Microsoft"
 youtube = ""
-draft = "False"
+draft = "True"
 +++
 
-Written by Alexandra Moxin
+#Written by Alexandra Moxin
 
-Brian Benz is based in Las Vegas, NV and works as a Senior Developer Advocate for Microsoft. The mission of his Cloud Developer Advocacy team is to win the hearts and minds of customers by creating a healthy developer ecosystem. He’s focused on showing the Java community how to get the best value out of the cloud with Microsoft Azure.
-
-A prolific speaker and community builder, Brian has given talks at several conferences including Devoxx, Jenkins World, JavaOne, SpringOne, MongoDB Conferences, ChefConf, EclipseCon, Lucene / Solr Revolution, ApacheCon, Build, DevIntersection / Anglebrackets, LinuxFest Northwest, TechEd, OSCON, and numerous technology Meetups. Brian holds multiple certifications.
-
-You can find Brian on twitter [@bbenz](https://twitter.com/bbenz) or [@AzureAdvocates](https://twitter.com/AzureAdvocates), by email bbenz@microsoft.com, java@microsoft.com or on [Linkedin](https://www.linkedin.com/in/brianbenz/)
-
- Brian's team is hiring! If you're a well known Java expert looking for new opportunities who's also passionate for contributing to and advancing the platform, reach out at [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)!
+#Guest Bio
 
 We cover a lot in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
 
 
-### Things we cover in this episode
+### What we cover in this episode
 
+#* list
 * Brian's background and what he's currently working on
 * Working with Microsoft, open source, Java and Azure initiatives
 * Microsoft's contribution to GitHub and CLI
@@ -60,11 +55,12 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Cloud CLIs, Cloud tools and services, IoT
 * Microsoft's pivot to embracing open source and being a good OS citizen
 
- Brian would like to know what you're doing with Azure and the cloud, and how could it be improved. Reach out to him on any of the social channels listed in his bio above!
+ #ask for listeners and how to reach out to guest messaging
 
 
 ### Show Links
 
+#* []()link
 * [Brian’s LinkedIn Profile](https://www.linkedin.com/in/brianbenz/)
 * [Scott Guthrie's 5 City Tour](http://aka.ms/rst)
 * [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)

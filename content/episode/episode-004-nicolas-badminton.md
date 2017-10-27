@@ -7,6 +7,7 @@ date = "2017-06-27T04:09:45-07:00"
 episode = "4"
 episode_image = "img/guest/nikolas_badminton.png"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:02:01"
@@ -65,5 +66,4 @@ Stay tuned for news, announcements and our next interview!
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
 

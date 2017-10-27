@@ -7,6 +7,7 @@ date = "2017-04-30T04:09:45-07:00"
 episode = "2"
 episode_image = "/img/guest/michael_feathers.jpg"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "51:54"
@@ -68,5 +69,4 @@ Stay tuned for our next interview!
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
 

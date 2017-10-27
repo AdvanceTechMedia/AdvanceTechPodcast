@@ -7,6 +7,7 @@ date = "2017-04-20T04:09:45-07:00"
 episode = "1"
 episode_image = "/img/guest/scott_bellware.jpg"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "1:50:07"
@@ -63,4 +64,3 @@ Our next interview is with Michael Feathers of [r7k Research & Conveyance](https
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)

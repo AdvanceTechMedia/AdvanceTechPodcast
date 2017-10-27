@@ -7,6 +7,7 @@ date = "2017-05-18T04:09:45-07:00"
 episode = "3"
 episode_image = "/img/guest/dustin_krysak.jpg"
 explicit = "no"
+sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "28:38"
@@ -44,5 +45,4 @@ Written by Adam Dymitruk
 
 ### Sponsored by
 
-[AdapTech Solutions](https://adaptechsolutions.net/)
 
