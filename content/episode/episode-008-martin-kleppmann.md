@@ -5,11 +5,11 @@
 aliases = ["/8"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2017-09-29T04:09:45-07:00"
+date = "2017-10-27T04:09:45-07:00"
 episode = "8"
 #episode_image = "img/guest/brian_benz.png"
-#explicit = "no"
-#sponsors = ["adaptechsolutions"]
+explicit = "no"
+sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
 #podcast_duration = "1:16:27"
@@ -53,10 +53,14 @@ How event-based approaches to data are appearing in several different places. Fo
 ### Show Links
 
 #* []()link
-Martin’s LinkedIn Profile (https://www.linkedin.com/in/martinkleppmann)
-Martin’s Blog (martin.kleppmann.com)
-Rapportive.com
-Data directive
+* [Martin’s LinkedIn Profile](https://www.linkedin.com/in/martinkleppmann)
+* [Martin’s Blog](martin.kleppmann.com)
+* [The Original Chrome Extension by Rapportive.com](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin?hl=en)
+* [Designing Data-Intensive Applications](http://dataintensive.net/buy.html)
+* [OOPsla 17/SPLASH 17](https://2017.splashcon.org/)
+* [University of Cambridge, Department of Computer Science and Technology](http://www.cl.cam.ac.uk/)
+Automerge
+
 
 
 
