@@ -8,6 +8,8 @@ Linkedin = "stiving"
 Facebook = "pragmaticmarketing/"
 Thumbnail = "img/guest/mark_stiving.jpg"
 YouTube = "channel/UCR-qmICCmkafjRtERRuj7kQ"
+draft = "True"
+
 +++
 
 A recognized pricing expert, Mark Stiving, PhD, MBA, helps companies boost revenue and profit. Start-up or seasoned enterprise, all businesses benefit from Mark’s value based pricing strategies to capture their true worth. With 15+ years experience in price segmentation, pricing product portfolios and visionary pricing, Mark’s analytical skills provide specific direction—and attain quantifiable results.
