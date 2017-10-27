@@ -44,7 +44,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Event sourcing and databases scalability, machine learning and classification concerns
 * Event sourcing related to Domain Driven Design, logs, data abstraction and functional programming
 * Martin's guidance for startups where there is a need for substantial software investment (start with a lightweight way of building in event based thinking)
-* The issues with CAP Theorim (Consistency, Availability and Partitionability) and why the definitions of availability and partitionability and the application of the theorem are problematic
+* The issues with CAP Theorem (Consistency, Availability and Partitionability) and why the definitions of availability and partitionability and the application of the theorem are problematic
 * A better way to think about consistency by splitting the term into timeliness and integrity
 * Merging streams of changes using CRDTs (Conflict-Free Replicated Data Types) and the eventual consistency guarantee
 * Formal proof of eventual consistency
