@@ -65,12 +65,12 @@ For our listeners, if your interested in contributing to or building application
 * [Designing Data-Intensive Applications](http://dataintensive.net/buy.html)
 * [OOPsla 17/SPLASH 17](https://2017.splashcon.org/)
 * [University of Cambridge, Department of Computer Science and Technology](http://www.cl.cam.ac.uk/)
-Automerge
-Poster of Image of Maps from Martin's book
-CQRS Journey Book
-Kafka
-Samsa
-Postgres
+* [Automerge](https://github.com/automerge)
+* [Poster of Image of Maps from Martin's book](https://dataintensive.net/poster.html)
+* [CQRS Journey Book](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+* [Kafka](https://kafka.apache.org/)
+* [Samza](http://samza.apache.org/)
+* [Postgres](https://www.postgresql.org/)
 CRDTs
 Trellis
 Javascript
