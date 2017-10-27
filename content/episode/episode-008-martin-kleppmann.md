@@ -41,7 +41,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * An overview of Martin's book which maps the architecture of modern data systems
 * How similar ideas around event-based approaches to data such as CQRS/ES, stream processing, and CRDTs have independently emerged in different software development communities
 * Kafka and Samza, stream processing: gathering and transporting data over event streams
-* Event sourcing and databases scalability, machine learning and classification concerns
+* Event sourcing and databases: scalability, machine learning and classification concerns
 * Event sourcing related to Domain Driven Design, logs, data abstraction and functional programming
 * Martin's guidance for startups where there is a need for substantial software investment (start with a lightweight way of building in event based thinking)
 * The issues with CAP Theorem (Consistency, Availability and Partitionability) and why the definitions of availability and partitionability and the application of the theorem are problematic
@@ -51,9 +51,9 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Automerge, an early stage open source Javascript implementation of a CRDT available on github
 * Martin's recent Distinguished Paper Award on his team's Formal Verification work using Theorem Proving Software to prove data structure convergence
 * Mathematical concepts and Theorem Proof Software
-* Upcoming conferences Martin will be speaking at
+* Upcoming conferences where Martin will be speaking
 
-For our listeners, if your interested in contributing to or building applications using Automerge, please go to github or reach out to Martin directly on [twitter](https://twitter.com/martinkl) or [LinkedIn](https://www.linkedin.com/in/martinkleppmann)!
+For our listeners, if your interested in contributing to or building applications using Automerge, please go to [github](https://github.com/automerge) or reach out to Martin directly on [twitter](https://twitter.com/martinkl) or [LinkedIn](https://www.linkedin.com/in/martinkleppmann)!
 
 ### Show Links
 * [Martin’s LinkedIn Profile](https://www.linkedin.com/in/martinkleppmann)
