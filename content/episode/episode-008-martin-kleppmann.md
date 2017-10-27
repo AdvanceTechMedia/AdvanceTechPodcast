@@ -16,7 +16,7 @@ podcast_duration = "1:06:10"
 podcast_file = "advance-tech-podcast-008.mp3"
 podcast_length = "1:06:10"
 tags = ["cryptography","cryptographic",]
-title = "Martin Kleppmann, Software Engineer, Entrepreneur, Author, Speaker and Academic"
+title = "Martin Kleppmann"
 youtube = ""
 draft = "False"
 +++

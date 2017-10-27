@@ -14,7 +14,7 @@ podcast_duration = "1:01:00"
 podcast_file = "advance-tech-podcast-007.mp3"
 podcast_length = "1:01:00"
 tags = []
-title = "Hussein Hallak, Serial Entrepreneur and GM - Launch Academy"
+title = "Hussein Hallak"
 youtube = ""
 draft = "False"
 +++
