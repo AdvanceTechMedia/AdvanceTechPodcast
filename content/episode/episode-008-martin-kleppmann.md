@@ -12,9 +12,9 @@ explicit = "no"
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:16:27"
+podcast_duration = "1:06:10"
 podcast_file = "advance-tech-podcast-008.mp3"
-#podcast_length = "1:16:27"
+podcast_length = "1:06:10"
 tags = ["cryptography","cryptographic",]
 title = "Martin Kleppmann, Software Engineer, Entrepreneur, Author, Speaker and Academic"
 youtube = ""
@@ -36,23 +36,21 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * What motivated Martin to start Rapportive
 * Working with and being acquired by LinkedIn
 * Emerging trends in consumer internet applications and tools for professionals such as enhanced security in collaborative applications
-* Security, privacy, cryptography, blockchain and IoT and the need for stronger algorithms
+* Security, privacy, cryptography, blockchain and IoT
 * Decentralization, data encryption and synchronization over different network protocols
-* Algorithms for (3300)
 * An overview of Martin's book which maps the architecture of modern data systems
 * How similar ideas around event-based approaches to data such as CQRS/ES, stream processing, and CRDTs have independently emerged in different software development communities
-* Kafka and Samsa, stream processing: gathering and transporting data over event streams
+* Kafka and Samza, stream processing: gathering and transporting data over event streams
 * Event sourcing and databases scalability, machine learning and classification concerns
 * Event sourcing related to Domain Driven Design, logs, data abstraction and functional programming
 * Martin's guidance for startups where there is a need for substantial software investment (start with a lightweight way of building in event based thinking)
-* The issues with CAP Theorim (Consistency, Availability and Partitionability) and why the definitions of availability and partitionability and the application of the theorim are problematic
-* A better way to think about Consistency by splitting the term into timeliness and integrity
+* The issues with CAP Theorim (Consistency, Availability and Partitionability) and why the definitions of availability and partitionability and the application of the theorem are problematic
+* A better way to think about consistency by splitting the term into timeliness and integrity
 * Merging streams of changes using CRDTs (Conflict-Free Replicated Data Types) and the eventual consistency guarantee
 * Formal proof of eventual consistency
 * Automerge, an early stage open source Javascript implementation of a CRDT available on github
-* Martin's recent Distinguished Paper Award on his team's Formal Verification work using Theorim Proving Software to prove data structure convergence
-
-
+* Martin's recent Distinguished Paper Award on his team's Formal Verification work using Theorem Proving Software to prove data structure convergence
+* Mathematical concepts and Theorem Proof Software
 * Upcoming conferences Martin will be speaking at
 
 For our listeners, if your interested in contributing to or building applications using Automerge, please go to github or reach out to Martin directly on [twitter](https://twitter.com/martinkl) or [LinkedIn](https://www.linkedin.com/in/martinkleppmann)!
@@ -65,18 +63,12 @@ For our listeners, if your interested in contributing to or building application
 * [Designing Data-Intensive Applications](http://dataintensive.net/buy.html)
 * [OOPsla 17/SPLASH 17](https://2017.splashcon.org/)
 * [University of Cambridge, Department of Computer Science and Technology](http://www.cl.cam.ac.uk/)
-Automerge
-Poster of Image of Maps from Martin's book
-CQRS Journey Book
-Kafka
-Samsa
-Postgres
-CRDTs
-Trellis
-Javascript
-Rust
-IPFS
-Isabel / HOL (Higher Order Logic
+
+
+* [IPFS](https://ipfs.io/)
+* [Isabelle - Interactive Theorem Prover](http://isabelle.in.tum.de/)
+* [HOL (Higher Order Logic)](https://hol-theorem-prover.org/)
+* [Craft Conference in Budapest, May 8 - 11, 2018](https://craft-conf.com/)
 
 
 ### Sponsored by
