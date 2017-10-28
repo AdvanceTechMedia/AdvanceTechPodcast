@@ -57,7 +57,7 @@ For our listeners, if your interested in contributing to or building application
 
 ### Show Links
 * [Martin’s LinkedIn Profile](https://www.linkedin.com/in/martinkleppmann)
-* [Martin’s Blog](martin.kleppmann.com)
+* [Martin’s Blog](http://martin.kleppmann.com)
 * [Martin on twitter](https://twitter.com/martinkl)
 * [The Original Chrome Extension by Rapportive.com](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin?hl=en)
 * [Designing Data-Intensive Applications](http://dataintensive.net/buy.html)
