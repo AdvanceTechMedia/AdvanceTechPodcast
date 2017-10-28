@@ -1,6 +1,6 @@
 +++
 Title = "Nikolas Badminton"
-date = "2017-06-10T09:12:39-05:00"
+date = "2017-06-27T04:09:45-07:00"
 Twitter = "@nikolasfuturist"
 Website = "http://nikolasbadminton.com/"
 Type = "guest"

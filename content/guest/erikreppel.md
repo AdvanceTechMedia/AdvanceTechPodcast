@@ -1,6 +1,6 @@
 +++
 Title = "Erik Reppel"
-date = "2017-06-10T09:12:44-05:00"
+date = "2017-08-31T04:09:45-07:00"
 Twitter = "@programmer"
 Website = ""
 Type = "guest"

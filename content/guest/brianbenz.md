@@ -1,6 +1,6 @@
 +++
 Title = "Brian Benz"
-date = "2017-06-10T09:12:44-05:00"
+date = "2017-09-29T04:09:45-07:00"
 Twitter = "@AzureAdvocates"
 Website = "https://azure.microsoft.com/en-ca/case-studies/"
 Type = "guest"

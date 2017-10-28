@@ -1,6 +1,6 @@
 +++
 Title = "Nathan Ladd"
-date = "2017-06-10T09:12:38-05:00"
+date = "2017-04-20T04:09:45-07:00"
 Twitter = "@realntl"
 Website = "http://eventide-project.org/"
 Type = "guest"

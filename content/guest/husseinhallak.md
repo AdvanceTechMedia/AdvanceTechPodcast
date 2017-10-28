@@ -1,6 +1,6 @@
 +++
 Title = "Hussein Hallak"
-date = "2017-06-10T09:12:37-05:00"
+date = "2017-10-16T23:00:00-07:00"
 Twitter = "@HHUnleashed"
 Website = ""
 Type = "guest"
