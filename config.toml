@@ -24,8 +24,8 @@ themesdir = "themes"
 
 [[Menu.Main]]
     name = "Guests"
-    identifier = "guests"
-    url = "guests"
+    identifier = "guest"
+    url = "guest"
 
 [[Menu.Main]]
     name = "About"
