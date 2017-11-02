@@ -25,17 +25,17 @@ themesdir = "themes"
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
-    url = "guest"
+    url = "guests"
 
 [[Menu.Main]]
     name = "About"
     identifier = "about"
     url = "about"
 
-# [[Menu.Main]]
-#    name = "Resources"
-#    identifier = "resources"
-#    url = "#!"
+ #[[Menu.Main]]
+   #name = "Sponsors"
+   #identifier = "sponsors"
+   #url = "sponsors"
 
 #[[Menu.Main]]
 #    name = "Books"
@@ -83,7 +83,7 @@ media_prefix = "https://advancetechmedia.org/"
     github = "advancetechmedia"
     #gitlab = "mattstratton"
     twitter = "AdvTechPodcast"
-    #linkedin = "/company/18038505/"
+    #linkedin = "/company/advance-tech-media/"
     #facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
     facebook = "advancetechmedia"
     #twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
