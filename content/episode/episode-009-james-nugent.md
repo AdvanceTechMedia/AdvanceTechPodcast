@@ -47,7 +47,9 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Early CQRS
 * Temporal model of queries as projections in Event Store
 * Core Contributions and technology choices in Event Store
-
+Ruft
+Paxos
+Murmur, Murmur 3
 Languages
 Devops
 Software implemented as libraries
