@@ -12,13 +12,13 @@ explicit = "no"
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-podcast_duration = "1:02:43"
+podcast_duration = "1:1:52"
 podcast_file = "advance-tech-podcast-009.mp3"
-podcast_length = "1:02:43"
+podcast_length = "1:1:52"
 tags = []
 title = "James Nugent"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin and Adam Dymitruk
@@ -71,7 +71,6 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * The advantages of ZFS
 * ZFS and Merkle trees
 * EBS - Amazon's Elastic Block Store
-* James' Wine Bar in Austin
 * James' 7-string guitar and guitar collection
 
 
