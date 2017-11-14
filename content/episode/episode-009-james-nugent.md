@@ -88,6 +88,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [Ix systems](https://www.ixsystems.com/)
 * [FreeBSD OS](https://www.freebsd.org/)
 * [Alan Jude's BSD Now Podcast](http://www.jupiterbroadcasting.com/show/bsdnow/)
+* [Jupiter Broadcasting - Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/)
 * [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
 * [LinuxFest Northwest](https://www.linuxfestnorthwest.org/conferences/lfnw18)
 * [Linux System-D](https://www.linux.com/learn/understanding-and-using-systemd)
@@ -99,7 +100,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
 * [Kotlin from Jetbrains](https://kotlinlang.org/)
 * [CLion from Jetbrains](https://www.jetbrains.com/clion/)
-* [Bucky Pizarelli - guitar player from New Jersey](http://www.modernguitars.com/legends/bucky-pizzarelli/)
+* [Bucky Pizzarelli - guitar player from New Jersey](http://www.modernguitars.com/legends/bucky-pizzarelli/)
 
 
 ### Sponsored by
