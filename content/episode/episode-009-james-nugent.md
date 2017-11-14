@@ -90,6 +90,7 @@ Free BSD OS
 Alan Jude's BSD now Podcast
 Jupiter Broadcasting
 LinuxFest Northwest
+* [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/show/linuxun/)
 Linux System-D
 * James' Wine Bar in Austin
 * [Bucky Pizzarelli (guitar player from New Jersey)](http://www.modernguitars.com/legends/bucky-pizzarelli/)
