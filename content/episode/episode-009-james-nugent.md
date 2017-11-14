@@ -47,14 +47,13 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Early CQRS
 * A temporal model of queries as projections in Event Store
 * Core contributions and technology choices in Event Store
-* Ruft and Paxos
-Murmur, Murmur 3
-XXhash
+* RAFT and PAXOS
+* Murmur 3, XXhash
 * Staged Event Driven Architecture (SEDA)
 * BSD and open source
 * Golang, Go routines and asynchronous programming
 * Programming languages James has used in the past 5 years (Go, Java, C, C#)
-* Reid Solomon
+* Reed Solomon
 * Kotlin Native, Kotlin and JetBrains
 * Jetbrains C-Lion IDE
 * What James thinks of Devops
@@ -84,15 +83,23 @@ XXhash
 * [Event Store Blog](http://geteventstore.com/blog)
 * [Event Store LLP](https://eventstore.org/)
 * [HashiCorp](https://www.hashicorp.com/)
-CERN - Large Hadron Collider
-Ix systems
-Free BSD OS
-Alan Jude's BSD now Podcast
-Jupiter Broadcasting
-LinuxFest Northwest
-Linux System-D
-* James' Wine Bar in Austin
-* [Bucky Pizarelli (guitar player from New Jersey)](http://www.modernguitars.com/legends/bucky-pizzarelli/)
+* [Nomad](https://www.nomadproject.io/)
+* [CERN - Large Hadron Collider](https://home.cern/topics/large-hadron-collider)
+* [Ix systems](https://www.ixsystems.com/)
+* [FreeBSD OS](https://www.freebsd.org/)
+* [Alan Jude's BSD Now Podcast](http://www.jupiterbroadcasting.com/show/bsdnow/)
+* [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
+* [LinuxFest Northwest](https://www.linuxfestnorthwest.org/conferences/lfnw18)
+* [Linux System-D](https://www.linux.com/learn/understanding-and-using-systemd)
+* [RAFT](https://raft.github.io/)
+* [PAXOS](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29)
+* [Murmur 3](https://en.wikipedia.org/wiki/MurmurHash)
+* [XXhash](https://github.com/Cyan4973/xxHash)
+* [SEDA - Staged Event Driven Architecture](https://en.wikipedia.org/wiki/Staged_event-driven_architecture)
+* [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
+* [Kotlin from Jetbrains](https://kotlinlang.org/)
+* [CLion from Jetbrains](https://www.jetbrains.com/clion/)
+* [Bucky Pizarelli - guitar player from New Jersey](http://www.modernguitars.com/legends/bucky-pizzarelli/)
 
 
 ### Sponsored by
