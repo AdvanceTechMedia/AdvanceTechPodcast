@@ -5,16 +5,16 @@ Description = "This week we interview James Nugent, a software developer from Ba
 aliases = ["/9"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2017-11-29T04:09:45-07:00"
+date = "2017-11-14T04:09:45-07:00"
 episode = "9"
 episode_image = "img/guest/james_nugent.jpeg"
 explicit = "no"
 sponsors = ["adaptechsolutions"]
-#images = ["http://www.google.com/img/episode/default-social.jpg"]
+images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:16:27"
-#podcast_file = "advance-tech-podcast-009.mp3"
-#podcast_length = "1:16:27"
+podcast_duration = "1:02:47"
+podcast_file = "advance-tech-podcast-009.mp3"
+podcast_length = "1:02:47"
 tags = []
 title = "James Nugent"
 youtube = ""
@@ -92,7 +92,7 @@ Jupiter Broadcasting
 LinuxFest Northwest
 Linux System-D
 * James' Wine Bar in Austin
-* [Bucky Pizarelli (guitar player from New Jersey)](http://www.modernguitars.com/legends/bucky-pizzarelli/)
+* [Bucky Pizzarelli (guitar player from New Jersey)](http://www.modernguitars.com/legends/bucky-pizzarelli/)
 
 
 ### Sponsored by
