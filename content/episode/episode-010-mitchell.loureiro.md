@@ -8,14 +8,14 @@ author = "Alexandra Moxin"
 categories = []
 date = "2017-12-18T04:09:45-07:00"
 episode = "10"
-#episode_image = "img/guest/brian_benz.png"
+episode_image = "img/guest/mitchell_loureiro.jpg"
 explicit = "no"
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:16:27"
-#podcast_file = "advance-tech-podcast-010.mp3"
-#podcast_length = "1:16:27"
+podcast_duration = "26:59"
+podcast_file = "advance-tech-podcast-010.mp3"
+podcast_length = "26:59"
 tags = []
 title = "Mitchell Loureiro, SingularityNET"
 youtube = ""
@@ -33,21 +33,21 @@ We cover a lot of deep technical topics in this episode, so get comfortable and 
 
 ### In this episode we cover
 * Mitchell's background
-* Distributed consensus
+* Distributed consensus and Blockchain technology
 * Exponential technology
 * The SingularityNET origin story
 * Dr. Ben Goertzel, internationally renown Artificial General Intelligence (AGI) expert
 * A description of SingularityNET: a product, marketplace, protocol to communicate and pass data, and rail for processing value between different algorithms
 * Some of SingularityNET's features
 * Linking AI services together
-* Lowering the barriers and enabling Machine Learning (ML) and data access to everyone
-* To make a thinking machine that is safe for humanity
+* Lowering the barriers and enabling Machine Learning (ML) and access to data
+* The goal to make a thinking machine that is safe for humanity
 * How the AGI token will work (used to purchase AI services in platform only)
 * How the token sale and economic structure of cryptocurrency drive the open source AI community and facilitate initiatives
-* Linux and the open source community
+* The open source community
 * SingularityNET's four founding organizations
-* The OpenCog Foundation - working on AGI and how to build a reasoning machine, focus in this platform: application of AGI resources and coordinating narrow AI at scale
-* Novamente - AI consulting in narrow AI applications for enterprise clients such as US Department of Defence, CISCO, Lockheed Martin, Hershey, Darpa, focus in this platform: seeding singularityNET with dozens of custom algorithms and enterprise clients
+* The OpenCog Foundation - working on AGI and how to build a reasoning machine, the focus on this platform is the application of AGI resources and coordinating narrow AI at scale
+* Novamente - AI consulting in narrow AI applications for enterprise clients such as US Department of Defence, CISCO, Lockheed Martin, Hershey, Darpa, the focus in this platform: seeding singularityNET with dozens of custom algorithms and enterprise clients
 * Hanson Robotics - the worlds most humanistic and expressive robots, representing robotics and the Internet of Things, will be inserting SingularityNET nodes in all their robots
 * Vulpen Ventures - a team of blockchain and cybersecurity specialists who ensure the network is both scalable and secure
 * The goal to have SingularityNET operate entirely on its own powered by independent AI developers
@@ -64,6 +64,7 @@ We cover a lot of deep technical topics in this episode, so get comfortable and 
 * [OpenCog Foundation](https://opencog.org/)
 * [Novamente](http://novamente.ai/)
 * [Vulpem Ventures](https://vulpem.com/)
+* [Mitchell Loureiro on Medium](https://blog.singularitynet.io/@mjloureiro)
 * [SingularityNET telegram](https://t.me/singularitynet)
 * [SingularityNET github](https://github.com/singnet/singnet)
 * [SingularityNET facebook](https://www.facebook.com/singularityNET.io)
