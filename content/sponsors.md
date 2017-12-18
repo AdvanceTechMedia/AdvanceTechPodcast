@@ -1,11 +1,18 @@
 +++
 date = "2017-04-27T15:18:55-05:00"
+description = "The Advance Tech Podcast would like to thank our sponsors!"
 title = "Sponsors"
-
+aliases = "/sponsors"
 +++
 
-Adaptech Solutions - Building software that defies convention.
 
-We are a group of architects and professionals who believe that great software addresses business needs. Our approach produces simple solutions, elegantly implemented and easily maintained. We bring modern best-practices to people and companies to help them grow and have an impact in the world.
 
-Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why we’re different.
+Want to sponsor the **Advance Tech Podcast**? Send us an [email](mailto:alexandra.moxin@advancetechmedia.org)!
+
+
+Thanks to:
+
+
+**Adaptech Solutions** - Building software that defies convention with modern best-practices to people and companies grow and have an impact in the world.
+
+Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why they’re different.

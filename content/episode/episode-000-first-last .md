@@ -2,7 +2,7 @@
 
 #No apostrophes  Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft to Java, Azure and the cloud. His team is hiring! If you are a well known Java expert looking for new opportunities who is also passionate for contributing to and advancing the platform, reach out at MS Dev Advocate Jobs or visit the Advance Tech Media website and look at the shownotes for links! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes below or by clicking the episode title."
 
-#aliases = ["/8"]
+aliases = ["/10"]
 #author = "Alexandra Moxin"
 categories = []
 #date = "2017-09-29T04:09:45-07:00"
@@ -25,35 +25,24 @@ draft = "True"
 
 #Guest Bio
 
+
+
 We cover a lot in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
 
 
-### What we cover in this episode
+### In this episode we cover
 
-#* list
-* Brian's background and what he's currently working on
-* Working with Microsoft, open source, Java and Azure initiatives
-* Microsoft's contribution to GitHub and CLI
-* Microsoft docs and SDKs
-* The early days of Java
-* What drives Brian to get out of bed in the morning
-* Working with the cloud
-* How Microsoft gives back to their employees and the developer community in substantial ways
-* Linux VMs
-* Some of the projects, speaking engagements and conferences Brian is working on including Azul Systems, Hazelcast, Java One, EclipseCon EU, J-Fall, Devoxx in Belgium and Morocco and Spring One
-* A sneak peak into the daily life of a Java/JVM developer
-* What's new in Java
-* What motivated Brian to join Microsoft, MS Open Tech and the Developer Advocates Team
-* Scott Guthrie's 5 City Tour (Oct 16th - 20th)
-* What advice Brian would give his 25 year old self and to developers just starting out
-* Where to start learning about the Cloud and Java
-* The importance of inquisitiveness and certifications
-* What are some of the things coming into Java natively which are advancing the language
-* In Brian's opinion, some of the companies who have a good understanding and implementation of Azure and who are doing it well
-* Common pitfalls people encounter when working with Azure and the cloud
-* Emerging trends in Azure and the cloud and what will be important to learn and to consider in the next few years
-* Cloud CLIs, Cloud tools and services, IoT
-* Microsoft's pivot to embracing open source and being a good OS citizen
+* Linux and the open source community
+* SingularityNET's 4 founding organizations:
+* OpenCog Foundation - working on artificial general intelligence (AGI) and how to build a reasoning machine, focus: coordinating narrow AI at scale
+* Novamente - AI consulting in narrow AI applications for US DoD, Cisco, Lockheed Martin, CISCO, Hershey, Darpa, focus: seeding singularityNET with custom algorithms and enterprise clients
+* Hanson Robotics - the worlds most humanistic and expressive robots, representing robotics and IoT, will be inserting SingularityNET nodes in all their robots
+* Volpem ventures team - blockchain and cybersecurity scalable secure and network
+* goal is to have SingularityNET operate entirely on its own powered by independent AI developers
+* Sophia's role in SingularityNET
+* Sophia's origin story
+* Sophia's new development planned for 2018 (a better body and better mind)
+
 
  #ask for listeners and how to reach out to guest messaging
 

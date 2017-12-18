@@ -32,10 +32,10 @@ themesdir = "themes"
     identifier = "about"
     url = "about"
 
- #[[Menu.Main]]
-   #name = "Sponsors"
-   #identifier = "sponsors"
-   #url = "sponsors"
+ [[Menu.Main]]
+   name = "Sponsors"
+   identifier = "sponsors"
+   url = "sponsors"
 
 #[[Menu.Main]]
 #    name = "Books"
