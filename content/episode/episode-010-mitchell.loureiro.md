@@ -1,6 +1,6 @@
 +++
 
-Description = "This week I interview Mitchell Loureiro, Head of PR and Marketing at SingularityNET, the decentralized marketplace for AI. By combining a protocol for inter-AI data and value transfer, SingularityNET makes a distributed AI economy possible. Backed by leading minds in AI like Dr. Ben Goertzel (creator of AGI) and the creators of Sophia the Robot, SingularityNET is here to lay the foundation of a decentralized machine to machine economy. You can learn more about the project at singularitynet.io. For comprehensive shownotes and links in the episode take a look below or click the episode title."
+Description = "This week I interview Mitchell Loureiro, Marketing Lead at SingularityNET, the decentralized marketplace for AI. By combining a protocol for inter-AI data and value transfer, SingularityNET makes a distributed AI economy possible. Backed by leading minds in AI like Dr. Ben Goertzel (creator of AGI) and the creators of Sophia the Robot, SingularityNET is here to lay the foundation of a decentralized machine to machine economy. You can learn more about the project at singularitynet.io. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 
 aliases = ["/10"]
@@ -24,7 +24,7 @@ draft = "True"
 
 Written by Alexandra Moxin
 
-In this episode I interview Mitchell Loureiro, Head of PR and Marketing at SingularityNET. Mitchell has a deep technical background in cryptocurrency, building business strategies and exposure for next generation technologies. Mitchell engineers cultures and social incentive systems to market at scale. He has created open source communities in the hundreds of thousands, raised the profile of blockchain technology and initiatives, and created significant social capital for his decentralized technology partners including Ardor, Steemit, Decentraland, and many others. He runs marketing at SingularityNET as the leader of the Artemia network, a team of technology experts dedicated to a decentralized, benevolent AI world
+In this episode I interview Mitchell Loureiro, Marketing Lead at SingularityNET. Mitchell has a deep technical background in cryptocurrency, building business strategies and exposure for next generation technologies. Mitchell engineers cultures and social incentive systems to market at scale. He has created open source communities in the hundreds of thousands, raised the profile of blockchain technology and initiatives, and created significant social capital for his decentralized technology partners including Ardor, Steemit, Decentraland, and many others. He runs marketing at SingularityNET as the leader of the Artemia network, a team of technology experts dedicated to a decentralized, benevolent AI world
 
 SingularityNET is the decentralized marketplace for AI. By combining a protocol for inter-AI data and value transfer, SingularityNET makes a distributed AI economy possible. Backed by leading minds in AI like Dr. Ben Goertzel (creator of AGI: Artificial General Intelligence) and the creators of Sophia the Robot, SingularityNET is here to lay the foundation of a decentralized machine to machine economy. You can learn more about the project at singularitynet.io
 
