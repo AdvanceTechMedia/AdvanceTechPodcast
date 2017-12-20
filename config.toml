@@ -64,7 +64,7 @@ soundcloud_subscribe = "https://soundcloud.com/user-716837148"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>Welcome to the Advance Tech Podcast where we bring you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We provide a spotlight for disruptive industry and initiatives and interview guests defining the technology of tomorrow.</p><p>Advance Tech Media is dedicated to supporting and advancing the responsible application of bleeding edge technology and practices that foster quality, equality and sustainability."
+description = "<p>Welcome to the Advance Tech Podcast bringing you news you won’t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We provide a spotlight for innovative and disruptive initiatives and interview guests defining the technology of tomorrow.</p><p>Advance Tech Media is dedicated to advancing and supporting the responsible application of bleeding edge technology and practices that foster quality, equality and sustainability."
 media_prefix = "https://advancetechmedia.org/"
   [params.feed]
     feed_copyright = "Copyright 2017 Advance Tech Media" #do not use markdown in this field; it is used in the feed
@@ -110,7 +110,7 @@ media_prefix = "https://advancetechmedia.org/"
     [params.authors.Bridget]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex.jpg"
-      bio = "Global Connector, Leader, Founder of Advance Tech Media and Host of the Advance Tech Podcast. Alexandra is dedicated to advancing the responsible application of bleeding edge technology such as AI, neural and distributed networks, ML and deep learning, blockchain, Bitcoin, Ethereum, cryptocurrency, VR/AR, distributed data, and the event based platforms that support these. Alexandra has over a decade of experience developing business and community and brings an understanding of how event based system implementations impact organisations. She is a strong proponent of open source communities."
+      bio = "Global Connector, Leader, Founder of Advance Tech Media and Host of the Advance Tech Podcast. Alexandra is dedicated to advancing the responsible application of bleeding edge technology such as AI, neural and distributed networks, ML and deep learning, blockchain, cryptocurrency, VR/AR and the event based platforms that support these. Alexandra has over a decade of experience developing business and community and brings an understanding of how event based system implementations impact organisations. She is a strong proponent of open source communities."
       [params.authors.Bridget.social]
         twitter = "Alexandra933"
         linkedin = "alexandra-moxin"
