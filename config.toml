@@ -110,7 +110,7 @@ media_prefix = "https://advancetechmedia.org/"
     [params.authors.Bridget]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex.jpg"
-      bio = "Global Connector, Leader, Founder of Advance Tech Media and Host of the Advance Tech Podcast. Alexandra is dedicated to advancing the responsible application of bleeding edge technology such as AI, neural and distributed networks, ML and deep learning, blockchain, cryptocurrency, VR/AR and the event based platforms that support these. Alexandra has over a decade of experience developing business and community and brings an understanding of how event based system implementations impact organisations. She is a strong proponent of open source communities."
+      bio = "Global Connector, Leader, Founder of Advance Tech Media and Host of the Advance Tech Podcast. Alexandra is dedicated to advancing research in and the responsible application of bleeding edge technology such as AI, neural and distributed networks, ML and deep learning, blockchain, cryptocurrency, VR/AR and the event based platforms that support these. Alexandra has over a decade of experience developing business and community and brings an understanding of how event based system implementations impact organisations. She is a strong proponent of open source communities."
       [params.authors.Bridget.social]
         twitter = "Alexandra933"
         linkedin = "alexandra-moxin"
