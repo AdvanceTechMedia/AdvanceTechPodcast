@@ -6,20 +6,20 @@ Description = "This week I interview Mitchell Loureiro, Marketing Lead at Singul
 aliases = ["/10"]
 author = "Alexandra Moxin"
 categories = []
-date = "2017-12-18T04:09:45-07:00"
+date = "2017-12-21T04:09:45-07:00"
 episode = "10"
 episode_image = "img/guest/mitchell_loureiro.jpg"
 explicit = "no"
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-podcast_duration = "26:59"
+podcast_duration = "24:54"
 podcast_file = "advance-tech-podcast-010.mp3"
-podcast_length = "26:59"
+podcast_length = "24:54"
 tags = []
 title = "Mitchell Loureiro, SingularityNET"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -28,7 +28,7 @@ In this episode I interview Mitchell Loureiro, Marketing Lead at SingularityNET.
 
 SingularityNET is the decentralized marketplace for AI. By combining a protocol for inter-AI data and value transfer, SingularityNET makes a distributed AI economy possible. Backed by leading minds in AI like Dr. Ben Goertzel (creator of AGI: Artificial General Intelligence) and the creators of Sophia the Robot, SingularityNET is here to lay the foundation of a decentralized machine to machine economy. You can learn more about the project at singularitynet.io
 
-We cover a lot of deep technical topics in this episode, so get comfortable and hope you enjoy listening to this podcast as much as I enjoyed making it!
+This podcast illustrates the power of partnerships and community which I'm honored to have had the opportunity to record. Get comfortable and hope you enjoy listening to this podcast as much as I enjoyed making it!
 
 
 ### In this episode we cover

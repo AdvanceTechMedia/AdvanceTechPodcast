@@ -52,7 +52,7 @@ themesdir = "themes"
 site_theme = "blue"
 site_layout = "row"
 enable_jumbo = "true"
-# truncate = "100"
+#truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
 
 copyright_notice = "Copyright 2017 [Advance Tech Media](https://www.advancetechmedia.org)"

@@ -5,4 +5,4 @@ title = "Guests of Advance Tech Podcast"
 aliases = "/guests"
 +++
 
-Want to be a guest on the Advance Tech Podcast? Send us an [email](mailto:alexandra.moxin@advancetechmedia.org)!
+Interested in or working on something changing the world? Come be a guest on our show! Send us an [email](mailto:alexandra.moxin@advancetechmedia.org)!
