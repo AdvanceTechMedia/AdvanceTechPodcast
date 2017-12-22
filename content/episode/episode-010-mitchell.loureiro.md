@@ -48,7 +48,7 @@ This podcast illustrates the power of partnerships and community which I'm honor
 * The OpenCog Foundation - working on AGI and how to build a reasoning machine, the focus on this platform is the application of AGI resources and coordinating narrow AI at scale
 * Novamente - AI consulting in narrow AI applications for enterprise clients such as US Department of Defence, CISCO, Lockheed Martin, Hershey, Darpa, the focus in this platform: seeding singularityNET with dozens of custom algorithms and enterprise clients
 * Hanson Robotics - the worlds most humanistic and expressive robots, representing robotics and the Internet of Things, will be inserting SingularityNET nodes in all their robots
-* Vulpen Ventures - a team of blockchain and cybersecurity specialists who ensure the network is both scalable and secure
+* Vulpem Ventures - a team of blockchain and cybersecurity specialists who ensure the network is both scalable and secure
 * The goal to have SingularityNET operate entirely on its own powered by independent AI developers
 * Sophia Hanson's role in SingularityNET
 * Sophia's origin story
