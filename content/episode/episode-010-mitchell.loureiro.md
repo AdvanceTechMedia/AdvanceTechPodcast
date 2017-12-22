@@ -45,8 +45,8 @@ This podcast illustrates the power of partnerships and community which I'm honor
 * How the economic structure of cryptocurrency drive the open source AI community and facilitate initiatives
 * The open source community
 * SingularityNET's four founding organizations
-* The OpenCog Foundation - working on AGI and how to build a reasoning machine, the focus on this platform is the application of AGI resources and coordinating narrow AI at scale
-* Novamente - AI consulting in narrow AI applications for enterprise clients such as US Department of Defence, CISCO, Lockheed Martin, Hershey, Darpa, the focus in this platform: seeding singularityNET with dozens of custom algorithms and enterprise clients
+* The OpenCog Foundation - working on AGI and how to build a reasoning machine, the focus on the platform is the application of AGI resources and coordinating narrow AI at scale
+* Novamente - AI consulting in narrow AI applications for enterprise clients such as the US Department of Defense, CISCO, Lockheed Martin, Hershey, DARPA, the focus in this platform: seeding SingularityNET with dozens of custom algorithms and enterprise clients
 * Hanson Robotics - the worlds most humanistic and expressive robots, representing robotics and the Internet of Things, will be inserting SingularityNET nodes in all their robots
 * Vulpem Ventures - a team of blockchain and cybersecurity specialists who ensure the network is both scalable and secure
 * The goal to have SingularityNET operate entirely on its own powered by independent AI developers
@@ -57,7 +57,9 @@ This podcast illustrates the power of partnerships and community which I'm honor
 
 ### Show Links
 * [SingularityNET](singularitynet.io)
-* [Dr. Ben Goertzel, CEO, Chief Scientist and Project Lead](http://multiverseaccordingtoben.blogspot.ca/)
+* [Dr. Ben Goertzel, CEO, Chief Scientist and Project Lead](http://goertzel.org/)
+* [Dr. Ben Goertzel - blog](http://multiverseaccordingtoben.blogspot.ca/)
+* [Dr. Ben Goertzel, Chief Scientist at Hanson Robotics and Chairman of the AGI Society: "AGI will obsolete human life as we know it - thank goodness", produced by Adam Ford, featured on scifuture.org](https://www.youtube.com/watch?v=qQvoVzDt2yk&list=PL0vRc4ulw-mxlxCyCkl-bTpKC6BeFZgjt&index=53)
 * [Sophia Hanson](http://www.hansonrobotics.com/robot/sophia/)
 * [Hanson Robotics](http://www.hansonrobotics.com/)
 * [OpenCog Foundation](https://opencog.org/)
