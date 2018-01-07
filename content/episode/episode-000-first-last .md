@@ -1,6 +1,6 @@
 +++
 
-#No apostrophes  Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft to Java, Azure and the cloud. His team is hiring! If you are a well known Java expert looking for new opportunities who is also passionate for contributing to and advancing the platform, reach out at MS Dev Advocate Jobs or visit the Advance Tech Media website and look at the shownotes for links! For a comprehensive breakdown of the episode and showlinks take a look at the shownotes below or by clicking the episode title."
+#No apostrophes  Description = "This week we interview Brian Benz, Senior Developer Advocate from Microsoft! We cover a lot in this episode from Open Source contributions by Microsoft to Java, Azure and the cloud. His team is hiring! If you are a well known Java expert looking for new opportunities who is also passionate for contributing to and advancing the platform, reach out at MS Dev Advocate Jobs or visit the Advance Tech Media website and look at the shownotes for links! For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 aliases = ["/10"]
 #author = "Alexandra Moxin"
