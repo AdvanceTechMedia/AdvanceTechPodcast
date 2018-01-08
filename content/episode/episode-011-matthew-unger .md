@@ -1,11 +1,11 @@
 +++
 
-Description = "Matthew Unger is CEO and Founder of iComply Investor Services Inc a regtech platform that automates compliance procedures for ICOs enabling them to be securely utilized as efficient financial instruments. iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances and supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com. Matthew is passionate about unlocking the opportunities that new technology has to offer. For comprehensive shownotes and links in the episode take a look below or click the episode title"
+Description = "Matthew Unger is CEO and Founder of iComply Investor Services Inc. a regtech platform that automates compliance procedures for ICOs enabling them to be securely utilized as efficient financial instruments. iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances and supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com. Matthew is passionate about unlocking the opportunities that new technology has to offer. For comprehensive shownotes and links in the episode take a look below or click the episode title"
 
 aliases = ["/11"]
 author = "Alexandra Moxin"
 categories = []
-date = "2017-01-09T04:09:45-07:00"
+date = "2018-01-09T04:09:45-07:00"
 episode = "11"
 episode_image = "img/guest/matthew_unger.jpg"
 explicit = "no"
@@ -25,11 +25,11 @@ Written by Alexandra Moxin
 
 “In today's shifting marketplace, your ability to keep your customer is threatened because the rate of digital transformation is accelerating across every sector.” Matthew Unger
 
-Matthew Unger is CEO and Founder of iComply ICO (iComply Investor Services Inc.) a regulatory technology (regtech) platform that automates compliance procedures for initial coin offerings (ICOs), enabling them to be securely utilized as efficient financial instruments.
+Matthew Unger is CEO and Founder of iComply Investor Services Inc. (iComply ICO) a regulatory technology (regtech) platform that automates compliance procedures for initial coin offerings (ICOs), enabling them to be securely utilized as efficient financial instruments.
 
-iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances throughout the issuance, purchase and resale of encrypted digital share certificates. Investors, accountants, lawyers, regulators, ICO issuers and marketing firms all benefit from an ecosystem that supports financial literacy, trust, democratization, decentralization and integrity. Find out more at  iComplyICO.com
+iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances throughout the issuance, purchase and resale of encrypted digital share certificates. Investors, accountants, lawyers, regulators, ICO issuers and marketing firms all benefit from an ecosystem that supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com and join their telegram channel iComplyICOofficial
 
-Matthew is passionate about unlocking the opportunities that new technology has to offer us, and future generations. Along with his mandate at iComply, Matthew worked with financial services, government, small businesses, and nonprofits to identify ways to better use their technology to create sustainable and ethical automation.
+Matthew is passionate about unlocking the opportunities that new technology has to offer us, and future generations. Along with his mandate at iComply ICO, Matthew worked with financial services, government, small businesses, and nonprofits to identify ways to better use their technology to create sustainable and ethical automation.
 
 We cover a lot in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
 
@@ -39,22 +39,22 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * What motivated him to start iComply Investor Services (iComply ICO)
 * Decentralizing stock exchanges via Blockchain
 * What Matthew is hoping to achieve with iComply ICO
-* The internet of value
-* Some of the emerging trends he sees in the ICO regulatory space.
-* Bill C-1241 - Determining if an entity is a product or financial institution
+* The Internet of Value
+* Some of the emerging trends he sees in the ICO regulatory space
+* Bill C-1241
 * Bit license
 * Technical Investor Status - HR-1585
-* GDPR: privacy legislation and penalties (up to $20M per instance)     impacts whitelistin
+* GDPR: privacy legislation and penalties (up to $20M per instance)
 * iComply ICO's appearance at Tech Crunch Disrupt in Berlin
 * Contrasting the financial and innovation climate in Eastern Europe vs. Silicon Valley
-* Blockchain and Ethereum platforms as layer 0 and where the cryptocurrency space could go - projects, opportunities and killer apps
+* Blockchain and Ethereum platforms as layer 0 and where the cryptocurrency space could go: projects, opportunities and killer apps
 * Utilities vs. Securities and secondary trading
-* SCC jurisdiction and trade treaties
+* SEC jurisdiction and trade treaties
 * CME and CBOE trading futures and options
 * Institutional trading
-* The wild west of cryptocurrency before regulation kicks in
+* The wild west of cryptocurrency
 * Future coin / token structure and distribution
-* Munchee
+* Munchee ICO's trouble with the SEC
 * What not to do when you launch an ICO
 * Tezos and the open class action suits against their token
 * Mind in matter priciple in accordance with taxation law
@@ -83,18 +83,38 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 
 Matthew's team is releasing the whitelabel of their product for the end of January 2018 and a beta of their platform for private equity markets by end of Q1 2018. Their full platform, which will be able to compete directly on compliance with publically traded markets, will be released later this year.
 
-Look for Matthew and the iComply ICO team at the Bitcoin Superconference in Dallas, Money 2020 in Asia and many other conferences in Europe, Australia throughout 2018!
+Look for Matthew and the iComply ICO team at the Bitcoin Superconference in Dallas, Money 2020 in Singapore and many other conferences in Europe and Australia throughout 2018!
 
 
 ### Show Links
 * [iComplyICO.com](https://www.icomplyico.com/)
 * [Matthew Unger’s LinkedIn Profile](https://www.linkedin.com/in/matthewbhunger/)
-contact: twitter, facebook, LinkedIn, telegram (iComplyICOofficial)
-
-Recent class action suit: Tezos ordered to pay back 232M raised during ICO
-Surfrider Foundation
-Surfrider Canada: Ban the Bead Campaign
-Surfrider Canada: Straws Suck Campaign
-
-
-
+* [iComplyICO on twitter](https://twitter.com/icomplyico)
+* [iComplyICO on facebook](https://www.facebook.com/icomplyico/)
+* [iComplyICO on LinkedIn](https://www.linkedin.com/company/18235905/)
+* [Blockchain](https://www.blockchain.com/)
+* [The Internet of Value](https://hackernoon.com/a-vision-of-the-internet-of-value-ad187abf5826)
+* [Bill S.1241](https://www.congress.gov/bill/115th-congress/senate-bill/1241/text)
+* [Background on Bill S.1241](https://news.bitcoin.com/proposed-u-s-legislation-may-criminalize-those-who-conceal-bitcoin/)
+* [Bit License](https://en.wikipedia.org/wiki/BitLicense)
+* [Technical Investor Status - HR-1585](https://www.congress.gov/bill/115th-congress/house-bill/1585)
+* [GDPR: privacy legislation and penalties](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+* [iComply ICO's appearance at Tech Crunch Disrupt in Berlin](https://techcrunch.com/2017/10/25/announcing-the-startups-featured-in-startup-alley-pavilions-at-disrupt-berlin/)
+* [Ethereum](https://www.ethereum.org/)
+* [Unites States Securities and Exchange Commission](https://www.sec.gov/)
+* [CME Group](http://www.cmegroup.com/)
+* [Chicago Board Options Exchange](http://www.cboe.com/)
+* [SEC shuts down Munchee ICO, by Tech Crunch](https://techcrunch.com/2017/12/12/sec-shuts-down-munchee-ico/)
+* [Tezos, A Cryptocurrency that Raised $232 Million in July, is in Crisis, by Ars Technica](https://arstechnica.com/tech-policy/2017/11/tezos-a-cryptocurrency-that-raised-232-million-in-july-is-in-crisis/)
+* [ICO Definition, Investopedia](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
+* [IPO Definition, Investopedia](https://www.investopedia.com/terms/i/ipo.asp)
+* [Keiser - Crypto Headed For $1 Tln Market Cap, by Coin Telegraph](https://cointelegraph.com/news/keiser-crypto-headed-for-1-tln-market-cap)
+* [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)
+* [Canada’s New AML Rules Impact on Non-Face-to-Face Identity Verification, by Trulioo](https://www.trulioo.com/blog/canadas-new-aml-rules-identity-verification/)
+* [What are Smart Contracts, by Blockgeeks](https://blockgeeks.com/guides/smart-contracts/)
+* [3 Types of ICO Tokens, by Strategic Coin](http://strategiccoin.com/3-types-ico-tokens/)
+* [Bitcoin Superconference in Dallas](https://www.bitcoinsuperconference.com/)
+* [Money 2020 in Singapore](https://asia.money2020.com/)
+* [Surfrider Foundation](https://www.surfrider.org/)
+* [Surfrider Canada: Ban the Bead Campaign](http://www.vancouverbc.surfrider.org/ban-the-bead/)
+* [Surfrider Canada: Straws Suck Campaign](http://www.vancouverbc.surfrider.org/straws-suck/)
