@@ -10,9 +10,9 @@ Linkedin = "matthewbhunger/"
 #GitHub = ""
 Thumbnail = "img/guest/matthew_unger.jpg"
 #Pinterest = ""
-#Instagram = "HHUnleashed"
-#YouTube = "channel/UCGApyl652hqX8l4RBdHI7yQ"
-draft = "True"
+#Instagram = ""
+#YouTube = ""
+draft = "False"
 
 +++
 [Matthew Unger](https://www.linkedin.com/in/matthewbhunger/) is CEO and Founder of iComply Investor Services Inc. (iComply ICO) a regulatory technology (regtech) platform that automates compliance procedures for initial coin offerings (ICOs), enabling them to be securely utilized as efficient financial instruments.

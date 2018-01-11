@@ -1,24 +1,24 @@
 +++
 
-Description = "Matthew Unger is CEO and Founder of iComply Investor Services Inc. a regtech platform that automates compliance procedures for ICOs enabling them to be securely utilized as efficient financial instruments. iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances and supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com. Matthew is passionate about unlocking the opportunities that new technology has to offer. For comprehensive shownotes and links in the episode take a look below or click the episode title"
+Description = "Matthew Unger is CEO and Founder of iComply Investor Services Inc. a regtech platform that automates compliance procedures for ICOs enabling them to be securely utilized as efficient financial instruments. iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances and supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com. Matthew is passionate about unlocking the opportunities that new technology has to offer. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 aliases = ["/11"]
 author = "Alexandra Moxin"
 categories = []
-date = "2018-01-09T04:09:45-07:00"
+date = "2018-01-11T04:09:45-07:00"
 episode = "11"
 episode_image = "img/guest/matthew_unger.jpg"
 explicit = "no"
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-podcast_duration = "1:02:45"
+podcast_duration = "1:02:11"
 podcast_file = "advance-tech-podcast-011.mp3"
-podcast_length = "1:02:45"
+podcast_length = "1:02:11"
 tags = []
 title = "Matthew Unger, iComply Investor Services"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -30,6 +30,8 @@ Matthew Unger is CEO and Founder of iComply Investor Services Inc. (iComply ICO)
 iComply ICO streamlines legal, due diligence and accounting processes providing automated checks and balances throughout the issuance, purchase and resale of encrypted digital share certificates. Investors, accountants, lawyers, regulators, ICO issuers and marketing firms all benefit from an ecosystem that supports financial literacy, trust, democratization, decentralization and integrity. Find out more at iComplyICO.com and join their telegram channel iComplyICOofficial
 
 Matthew is passionate about unlocking the opportunities that new technology has to offer us, and future generations. Along with his mandate at iComply ICO, Matthew worked with financial services, government, small businesses, and nonprofits to identify ways to better use their technology to create sustainable and ethical automation.
+
+Matthew's team is releasing the whitelabel of their product for the end of January 2018 and a beta of their platform for private equity markets by end of Q1 2018. Their full platform, which will be able to compete directly on compliance with publically traded markets, will be released later this year.
 
 We cover a lot in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
 
@@ -69,7 +71,7 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * How iComply ICO's platform addresses the concerns SEC regulatory panel raised in their summer session
 * Smart contracts vs. natural language contracts
 * Common pitfalls people encounter when launching an ICO
-* Why an ICO not free money
+* Why an ICO is not free money
 * Security tokens vs. utility tokens
 * Suggested timeframe to launch an ICO (minimum: 6 months)
 * Key metrics to include when launching an ICO (make sure you have a solid product, build and engage your team and community)
@@ -80,8 +82,6 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * iComply ICO's Value Prop: how their platform benefits regulators, issuers, investors
 * How traditional stock exchanges may employ crypto
 * Matthew's involvement with Surfrider Foundation and the impact he made as Chair of the Vancouver Chapter and Board Member of Surfrider Canada
-
-Matthew's team is releasing the whitelabel of their product for the end of January 2018 and a beta of their platform for private equity markets by end of Q1 2018. Their full platform, which will be able to compete directly on compliance with publically traded markets, will be released later this year.
 
 Look for Matthew and the iComply ICO team at the Bitcoin Superconference in Dallas, Money 2020 in Singapore and many other conferences in Europe and Australia throughout 2018!
 
