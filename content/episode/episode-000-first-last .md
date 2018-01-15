@@ -5,7 +5,7 @@
 aliases = ["/10"]
 #author = "Alexandra Moxin"
 categories = []
-#date = "2017-09-29T04:09:45-07:00"
+#date = "2018-09-29T04:09:45-07:00"
 #episode = "6"
 #episode_image = "img/guest/brian_benz.png"
 #explicit = "no"
