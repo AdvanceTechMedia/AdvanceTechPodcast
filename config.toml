@@ -1,5 +1,5 @@
 baseurl = "https://advancetechmedia.org/"
-languageCode = "en-us"
+languageCode = "en-US"
 title = "Advance Tech Podcast"
 theme = "castanet"
 googleAnalytics = "UA-98351650-1"
