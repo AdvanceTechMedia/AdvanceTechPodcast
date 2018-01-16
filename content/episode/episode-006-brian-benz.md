@@ -15,6 +15,7 @@ news_keywords = []
 podcast_duration = "1:16:27"
 podcast_file = "advance-tech-podcast-006.mp3"
 podcast_length = "1:16:27"
+podcast_bytes = "54064527"
 tags = []
 title = "Brian Benz"
 youtube = ""

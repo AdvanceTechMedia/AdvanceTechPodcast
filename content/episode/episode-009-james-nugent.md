@@ -15,6 +15,7 @@ news_keywords = []
 podcast_duration = "1:01:52"
 podcast_file = "advance-tech-podcast-009.mp3"
 podcast_length = "1:01:52"
+podcast_bytes = "45050633"
 tags = []
 title = "James Nugent"
 youtube = ""

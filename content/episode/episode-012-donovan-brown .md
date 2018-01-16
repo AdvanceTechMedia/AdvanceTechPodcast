@@ -15,6 +15,7 @@ news_keywords = []
 #podcast_duration = "1:16:27"
 #podcast_file = "advance-tech-podcast-012.mp3"
 #podcast_length = "1:16:27"
+#podcast_bytes = "81568978"
 tags = []
 title = "Donovan Brown, Principal DevOps Manager, Microsoft"
 youtube = ""

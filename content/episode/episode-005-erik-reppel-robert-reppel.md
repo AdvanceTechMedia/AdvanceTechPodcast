@@ -13,6 +13,7 @@ news_keywords = []
 podcast_duration = "1:04:53"
 podcast_file = "advance-tech-podcast-005.mp3"
 podcast_length = "1:04:53"
+podcast_bytes = "46976714"
 tags = []
 title = "Erik Reppel and Robert Reppel"
 youtube = ""

@@ -15,6 +15,7 @@ news_keywords = []
 podcast_duration = "1:06:10"
 podcast_file = "advance-tech-podcast-008.mp3"
 podcast_length = "1:06:10"
+podcast_bytes = "49981993"
 tags = ["cryptography","cryptographic",]
 title = "Martin Kleppmann"
 youtube = ""

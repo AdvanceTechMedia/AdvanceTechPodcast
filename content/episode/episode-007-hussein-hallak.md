@@ -13,6 +13,7 @@ news_keywords = []
 podcast_duration = "1:01:00"
 podcast_file = "advance-tech-podcast-007.mp3"
 podcast_length = "1:01:00"
+podcast_bytes = "42722342"
 tags = []
 title = "Hussein Hallak"
 youtube = ""

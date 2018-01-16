@@ -16,6 +16,7 @@ news_keywords = []
 podcast_duration = "24:54"
 podcast_file = "advance-tech-podcast-010.mp3"
 podcast_length = "24:54"
+podcast_bytes = "20265672"
 tags = []
 title = "Mitchell Loureiro, SingularityNET"
 youtube = ""

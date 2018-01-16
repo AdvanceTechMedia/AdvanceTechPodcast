@@ -13,6 +13,7 @@ news_keywords = []
 podcast_duration = "28:38"
 podcast_file = "advance-tech-podcast-003.mp3"
 podcast_length = "28:38"
+podcast_bytes = "22225049"
 tags = []
 title = "Dustin Krysak"
 youtube = ""

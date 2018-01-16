@@ -15,6 +15,7 @@ news_keywords = []
 #podcast_duration = "1:16:27"
 #podcast_file = "advance-tech-podcast-006.mp3"
 #podcast_length = "1:16:27"
+#podcast_bytes = "81568978"
 tags = []
 #title = "Brian Benz, Senior Developer Advocate for Microsoft"
 youtube = ""

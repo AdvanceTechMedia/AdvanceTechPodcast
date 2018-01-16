@@ -13,6 +13,7 @@ news_keywords = []
 podcast_duration = "51:54"
 podcast_file = "advance-tech-podcast-002.mp3"
 podcast_length = "51:54"
+podcast_bytes = "35406310"
 tags = []
 title = "Michael Feathers"
 youtube = ""

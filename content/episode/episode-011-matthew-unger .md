@@ -15,6 +15,7 @@ news_keywords = []
 podcast_duration = "1:02:11"
 podcast_file = "advance-tech-podcast-011.mp3"
 podcast_length = "1:02:11"
+podcast_bytes = "42512185"
 tags = []
 title = "Matthew Unger, iComply Investor Services"
 youtube = ""
