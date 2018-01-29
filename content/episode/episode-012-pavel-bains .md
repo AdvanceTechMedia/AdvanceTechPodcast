@@ -31,21 +31,38 @@ We cover a lot about the distributed economy, decentralized applications and inf
 
 ### In this episode we cover
 * Pavel's background
-* What motivated Pavel to create Bluzelle, and a little bit about its origin story
+* How Pavel became involved with Blockchain, Bitcoin and the Decentralized space
+* What motivated Pavel and Neerage to create Bluzelle and a little bit about its origin story
+* Current issues handling volume of data storage, security and scalability in the centralized Internet model
+* Why moving to a decentralized Internet model improves storage, security and scalability
 * Some of the goals Pavel and his team are hoping Bluzelle will achieve
-* The strengths and services the platform will provide
+* The infrastructure services the Bluzelle platform will provide and some of its strengths
 * Some of the challenges Pavel faces as CEO
-* When Bluzelle has needed to pivot; learning and outcomes
-* Some of the emerging trends Pavel sees in the blockchain product and development community
-* What Pavel and his team have planned for 2018: product roadmap
-* Bluzelle's Platform:
-* In April 2018 -
-* In July 2018 -
-* Bluzelle's Value Prop:
-* Pavel's request for our audience and how you can find out more about Bluzelle.
+* Executing their now closed ICO, finding the right depth of information to share and ensuring the platform remains secure
+* Product development and supporting the developer community who will be using Bluzelle
+* Bluzelle's product roadmap and what Pavel and his team have planned for 2018
+* In April 2018 - initial technology, swarming, initial customers
+* In July 2018 - beta, available to everyone and enabling users to earn Bluzelle coin
+* Developing their target market (developers)
+* The benefits of focusing on decentralized and open source technology and what it can do
+* When Bluzelle needed to pivot; some of the learning and outcomes
+* The evolution that led to discovering the need to build a decentralized database layer
+* Moving from an enterprise first service model to supporting small to midsize blockchain developers then general developers
+* Some of the emerging trends and applications Pavel sees in the blockchain community
+* Building out infrastructure for the decentralized intranet
+* Building products to solve immediate needs of the cryptocommunity such as better wallets, decentralized exchange protocols that allow the exchange of different tokens, security
+* Building better supply chain and logistics for existing businesses
+* Pavel's thoughts on some of the first useful decentralized applications to build: better logistics, better digital rights management
+* Broken systems and how decentralizing authority and services improves things
+* Pavel's upcoming conference appearances
+* Understanding the implications of handling your own security in the decentralized economy, protecting yourself from fraud
+* Why heavy regulation is not the answer
+* Wealth and asset creation in developing countries
+* Pavel's request for our audience: if you're looking to invest in cryptocurrency, ICOs and token sales please educate yourself!
 
-Look for Pavel at Money 2020 in Singapore and many other conferences in Europe and Australia throughout 2018!
+You can find out more about Bluzelle by going to their website, and signing up for their weekly newsletter which covers product development, recent articles and appearances.
 
+Look for Pavel on the Neo DevCon Mainstage January 30th to 31st, at Money 2020 in Singapore, Tokenfest in San Francisco in March and many other conferences throughout 2018!
 
 ### Show Links
 * [Bluzelle](https://bluzelle.com/#frontpre-video-area)
@@ -53,7 +70,12 @@ Look for Pavel at Money 2020 in Singapore and many other conferences in Europe a
 * [The Blueprint - the official blog of Bluzelle](https://blog.bluzelle.com/)
 * [Bluzelle - Official Telegram Channel](https://t.me/bluzelle)
 * [Bluzelle on twitter](https://twitter.com/bluzellehq)
+* [Article on StoryPanda from Wired](https://www.wired.com/2012/09/storypanda/)
+* [Neeraj Murarka](https://www.linkedin.com/in/neeraj-murarka-167b392/)
+* [ZeroBlock](https://zeroblock.com/)
+* [Satoshi Nakamoto's Whitepaper on Bitcoin](https://bitcoin.org/bitcoin.pdf)
 * [Blockchain](https://www.blockchain.com/)
 * [Ethereum](https://www.ethereum.org/)
-
-* [Money 2020 in Singapore](https://asia.money2020.com/)
+* [Neo DevCon](http://devcon.neo.org/)
+* [Money 2020](https://asia.money2020.com/)
+* [Tokenfest](https://tokenfest.adria.digital/)
