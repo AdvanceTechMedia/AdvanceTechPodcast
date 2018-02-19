@@ -12,14 +12,14 @@ explicit = "no"
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:02:11"
-#podcast_file = "advance-tech-podcast-012.mp3"
-#podcast_length = "1:02:11"
-#podcast_bytes = "42512185"
+podcast_duration = "0:41:48"
+podcast_file = "advance-tech-podcast-012.mp3"
+podcast_length = "0:41:48"
+podcast_bytes = "29837285"
 tags = []
 title = "Pavel Bains, Bluzelle"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin

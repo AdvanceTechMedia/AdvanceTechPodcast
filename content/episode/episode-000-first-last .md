@@ -27,8 +27,7 @@ draft = "True"
 #Guest Bio
 
 
-
-We cover a lot in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
+We cover a lot about _________________ in this episode, so get comfortable and hope you enjoy listening to this episode as much as we enjoyed making it!
 
 
 ### In this episode we cover
@@ -45,7 +44,9 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * Sophia's new development planned for 2018 (a better body and better mind)
 
 
- #ask for listeners and how to reach out to guest messaging
+ #You can find out more about ___________ by going to their website, and signing up for their weekly newsletter which covers product development, recent articles and appearances.
+
+   Look for Pavel on the Neo DevCon Mainstage January 30th to 31st, at Money 2020 in Singapore, Tokenfest in San Francisco in March and many other conferences throughout 2018!
 
 
 ### Show Links
@@ -54,34 +55,6 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [Brian’s LinkedIn Profile](https://www.linkedin.com/in/brianbenz/)
 * [Scott Guthrie's 5 City Tour](http://aka.ms/rst)
 * [MS Dev Advocate Jobs](https://aka.ms/devadvocatejobs)
-* [Azure Case Studies](https://azure.microsoft.com/en-ca/case-studies/)
-* [Microsoft's Java offerings](http://azure.com/java)
-* [Java One](https://www.oracle.com/javaone/index.html)
-* [XML Programming Bible](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0764538292.html)
-* [GitHub - State of the Octoverse 2016](https://github.com/blog/2257-the-state-of-the-octoverse)
-* [Microsoft response to DACA](https://www.cnbc.com/2017/09/05/microsoft-response-to-daca-will-defend-dreamers-in-court.html)
-* [Azul Systems](https://www.azul.com/)
-* [Hazelcast](https://hazelcast.com/)
-* [EclipseCon EU](https://www.eclipsecon.org/europe2017/)
-* [J-Fall](http://jfall.nl/)
-* [Devoxx Belgium](https://devoxx.be/)
-* [Devoxx Morocco](https://www.devoxx.ma/)
-* [Spring One](https://springoneplatform.io/)
-* [Working Holiday Visa](http://www.cic.gc.ca/english/work/iec/eligibility.asp)
-* [MIT Free OS Java course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
-* [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
-* [Microsoft Azure Virtual Machines for Linux and Windows](https://azure.microsoft.com/en-ca/services/virtual-machines/?&WT.srch=1&wt.mc_id=AID631143_SEM_GoBVijHk)
-* [Tomcat](http://tomcat.apache.org/)
-* [Spring Framework, by Pivotal](https://spring.io/docs)
-* [MySQL](https://www.mysql.com/)
-* [Mongo DB](https://www.mongodb.com/)
-* [JRE Java Runtime Environment](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
-* [Oracle Java](https://www.oracle.com/java/index.html)
-* [Open JDK](http://openjdk.java.net/)
-* [Geekwire](https://www.geekwire.com/)
-* [Swiss Re](http://www.swissre.com/)
-* [Geico](https://www.geico.com/)
-* [Citrix](https://www.citrix.com/)
 * [Azure Cloud Services](https://azure.microsoft.com/en-ca/services/cloud-services/)
 * [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
 * [VSTS (Visual Studio Team Services)](https://www.visualstudio.com/team-services/)
