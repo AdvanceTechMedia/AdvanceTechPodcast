@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-013.mp3"
 #podcast_length = "1:16:27"
 #podcast_bytes = "81568978"
 tags = []
-title = "Peter Paul Van Hoeken, Frontfundr"
+title = "Peter-Paul Van Hoeken, Frontfundr"
 youtube = ""
 draft = "True"
 +++
@@ -44,7 +44,7 @@ We cover a lot about equity crowdfunding and democratic capital markets so get c
 * How to use the Frontfundr platform to research companies, create an investment portfolio and invest in 12 minutes
 * What sets Frontfundr apart from other funding platforms such as Kickstarter and Indigogo
 * Details about Peter-Paul's upcoming speaking engagement at the 4th Annual National Crowdfunding Association Canada Conference (NCAC) in Toronto
-* Questions and requests Peter has for our audience and how you can reach him
+* Questions and requests Peter-Paul has for our audience and how you can reach him
 
 You can find out more about Frontfundr by going to their [website](https://www.frontfundr.com/), [facebook](https://www.facebook.com/frontfundr1/) and [@frontfundr](https://twitter.com/frontfundr) on twitter.
 
