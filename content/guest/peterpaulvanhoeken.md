@@ -10,9 +10,9 @@ Linkedin = "peterpaulvanhoeken/"
 #GitHub = ""
 Thumbnail = "img/guest/peter_paul_van_hoeken.jpg"
 #Pinterest = ""
-#Instagram = "HHUnleashed"
-#YouTube = "channel/UCGApyl652hqX8l4RBdHI7yQ"
-draft = "True"
+#Instagram = ""
+#YouTube = ""
+draft = "False"
 
 +++
 [Peter-Paul Van Hoeken](linkedin.com/in/peterpaulvanhoeken/) has over 15 years of experience in finance, investment management, and business consultancy. He's held multiple senior management positions with global banks including ABN AMRO Bank and Royal Bank of Scotland in the areas of corporate strategy, commercial and investment banking.

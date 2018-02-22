@@ -12,14 +12,14 @@ explicit = "no"
 #sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "1:16:27"
+podcast_duration = "0:25:57"
 podcast_file = "advance-tech-podcast-013.mp3"
-#podcast_length = "1:16:27"
-#podcast_bytes = "81568978"
+podcast_length = "0:25:57"
+podcast_bytes = "17884238"
 tags = []
 title = "Peter-Paul Van Hoeken, FrontFundr"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -52,7 +52,7 @@ We cover a lot about equity crowdfunding and democratic capital markets in this 
 
 You can find out more about FrontFundr by going to their [website](https://www.frontfundr.com/), [facebook](https://www.facebook.com/frontfundr1/) and [@frontfundr](https://twitter.com/frontfundr) on twitter.
 
-Look for Peter-Paul speaking at the NCFA 4th Annual National Conference in Toronto on March 5th and 6th and on their upcoming campaign launch, open to everyone, running February 27th through March!
+Look for Peter-Paul speaking at the NCFA 4th Annual National Conference in Toronto on March 5th and 6th and their upcoming campaign launch event, open to everyone, running February 27th through March!
 
 
 ### Show Links
