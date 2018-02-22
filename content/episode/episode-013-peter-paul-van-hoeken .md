@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-013.mp3"
 podcast_length = "0:25:57"
 podcast_bytes = "17884238"
 tags = []
-title = "Peter-Paul Van Hoeken, FrontFundr"
+title = "Peter Paul Van Hoeken, FrontFundr"
 youtube = ""
 draft = "False"
 +++
@@ -34,7 +34,6 @@ We cover a lot about equity crowdfunding and democratic capital markets in this 
 
 
 ### In this episode we cover
-
 * Peter-Paul's background
 * What motivated Peter-Paul to start FrontFundr and a little bit about the company's origin
 * Some of the goals FrontFundr hopes to achieve and plans for 2018
@@ -56,7 +55,6 @@ Look for Peter-Paul speaking at the NCFA 4th Annual National Conference in Toron
 
 
 ### Show Links
-
 * [FrontFundr](https://www.frontfundr.com/)
 * [Peter-Paul Van Hoeken on LinkedIn](linkedin.com/in/peterpaulvanhoeken/)
 * [FrontFundr's upcoming campaign launch event on Feb 27th](https://www.picatic.com/ownyourshare)
