@@ -38,11 +38,14 @@ We cover a lot about the cryptocurrency and blockchain initiatives MaRi is leadi
 * The motivation behind MaRi cofounding these organizations and their origin story
 * What makes BC Blockchain Forum unique and some of the goals it hopes to achieve in 2018
 * The upcoming Emilie De Chatelet Salon and Roundtables
-11:02 * MaRi's Leadership Book and Program in crypto and blockchain, Cryptomuse on GitBook
+* MaRi's Leadership Book and Program in crypto and blockchain, Cryptomuse on GitBook
 MaRi's book on the Crypto and Blockchain Generation on Medium
 Trends in the cryptocurrency space
 More about the cryptogeneration
-
+How to reach out to MaRi if you're interested in contributing
+Digging into MaRi's background and her early involvement in cryptography
+MaRi's thoughts on the good,(creating a more distributed economy and its positive effect on mental and physical health) the bad  (people getting wrapped up solely in the wealth generation aspect, exchanges being hacked and money being locked in wallets) and the ugly (people setting up paper ICOs - with no intent to build a product - and draining wallets by preying on FOMO) in the cryptospace
+~26:30
 * MaRi's upcoming speaking engagements at _______________
 * Questions and requests MaRi has for our audience and how you can reach her
 
@@ -58,7 +61,13 @@ Look for MaRi speaking at and running (dates)!
 [Marie DeChatelet Salon, March 8th]()
 [MaRi's Leadership Book and Program in crypto and blockchain, Cryptomuse on GitBook]()
 [MaRi's book on the Crypto and Blockchain Generation on Medium]()
-
+Peter Todd]()
+Magical Crypto Friends]()
+WhalePanda]()
+Charlie Lee]()
+Satoshi Roundtable]()
+Dash]()
+Cardano]()
 
 
 
