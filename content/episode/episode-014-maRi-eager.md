@@ -1,11 +1,11 @@
 +++
 
-Description = "[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development) and Founder of the BC Blockchain Forum. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas. For comprehensive shownotes and links in the episode take a look below or click the episode title."
+Description = "[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development) and Founder of the BC Blockchain Forum. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in many areas. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 aliases = ["/14"]
 author = "Alexandra Moxin"
 categories = []
-date = "2018-03-04T04:09:45-07:00"
+date = "2018-03-05T04:09:45-07:00"
 episode = "14"
 episode_image = "img/guest/maRi_eager.jpg"
 explicit = "no"
@@ -17,7 +17,7 @@ news_keywords = []
 #podcast_length = "0:25:57"
 #podcast_bytes = "17884238"
 tags = []
-title = "MaRi Eagar, Cryptophilsopher"
+title = "MaRi Eagar, Crypto Philsopher, DigitalFutures B.U.I.L.D."
 youtube = ""
 draft = "True"
 +++
@@ -109,17 +109,17 @@ Look for MaRi leading the upcoming [Émilie du Châtelet Crypto Philosophy Salon
 * [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out), [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt), [chaos](https://en.wiktionary.org/wiki/chaos), [volatility](https://www.investopedia.com/terms/v/volatility.asp)
 * [Nicosia Introduction to Digital Currencies MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 * [Swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence)
-The Cryptovalues project in Switzerland]()
 * [Blockchain@UBC](https://blockchainubc.ca/)
 * [Lifeboat Foundation New Money Systems Board and Human Trajectories Board](https://lifeboat.com/ex/boards#human_trajectories)
 * [John Willock](https://www.linkedin.com/in/john-willock-blockchain/)
 * [StrengthsFinder Profiling - Themes and Domains](https://www.gallupstrengthscenter.com/Home/en-US/CliftonStrengths-Themes-Domains)
 * [Forbes first list of the Top Cryptocurrency Influencers](https://www.forbes.com/sites/jeffkauflin/2018/02/07/cryptocurrency-richest-people-crypto-bitcoin-ether-xrp/#9fb71c372d3e)
-The Cryptoblock Forum
-* World Economic Forum at Davos, Switzerland](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018)
+* [World Economic Forum at Davos, Switzerland](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018)
 * [Crypto Valley](https://cryptovalley.swiss/)
 * [TechWorld](https://www.techworld.com/)
 * [World's first Bitcoin ATM opens in Vancouver, CBC article](http://www.cbc.ca/news/technology/world-s-first-bitcoin-atm-opens-in-vancouver-1.2286877)
+The Cryptovalues project in Switzerland
+The Cryptoblock Forum
 
 
 
