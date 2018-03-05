@@ -17,4 +17,4 @@ draft = "True"
 +++
 [Guest Name](LinkedIn)
 
-Guest Bio
+bio - (title, initiatives, background)

@@ -27,8 +27,8 @@ MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric 
 
 A distinguished leader, MaRi was nominated for finalist Innovator Idol 2012 (Ontario Centres of Excellence) and was listed on Thomson Reuters Top 40 Social Influencers in Finance, Innovation and Risk, 2017.
 
-
-
+include?
+*****************************
 Experience:
 
 MaRi developed the delivery model, governance and strategic performance scorecard for Development Bank to become Centre of Excellence in Infrastructure Development (more than $40 billion funding platform). She was the strategic lead consultant for new distributed leadership & cultural change model for a BC Crown Corporation, lead designer of openaxyz: a distributed strategy design and performance management, open-sourced, cloud-based collaboration application with clients such as Barclays Africa.
