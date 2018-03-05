@@ -26,7 +26,7 @@ Written by Alexandra Moxin
 
 [MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development). She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas including:
 
-* Medium Author of "The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways, Principles and Practices."
+* Medium Author of "The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways and Practices."
 
 * Creator of the World's First Crypto and Blockchain Leadership Development Book and Program - a Project of the Invisible College (published on GitBook).
 
@@ -94,9 +94,9 @@ Look for MaRi leading the upcoming [Émilie du Châtelet Crypto Philosophy Salon
 * [BC Blockchain Forum](http://bcblockchainforum.ca/)
 * [MaRi Eagar on LinkedIn](linkedin.com/in/marieagar/)
 * [Émilie du Châtelet Crypto Philosophy Salon, March 8th](https://www.picatic.com/event15130591965425)
-
-[MaRi's Crypto and Blockchain Leadership Development Book and Program - Cryptomuse: a Project of the Invisible College on GitBook]()
-[MaRi's book The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways, Principles and Practices on Medium]()
+* [MaRi's Crypto and Blockchain Leadership Development Book and Program - Cryptomuse: A Project of the Invisible College on GitBook](https://cryptomuse.gitbooks.io/personal-leadership-for-the-crypto-and-blockchain/content/)
+* [The Crypto and Blockchain Generation Master(N)ode: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways and Practices on Medium](https://medium.com/distributed-economy)
+* [Blockchain and Emerging Financial Technologies Report, by DigitalFutures B.U.I.L.D. and Advantage BC](https://www.slideshare.net/slideshow/embed_code/key/ttJGEO7mf9tbPW)
 * [Peter Todd](https://petertodd.org/)
 * [Magical Crypto Friends](https://www.youtube.com/channel/UCVVDsIYJBQ_C7Bh_aI3ZMxQ)
 * [WhalePanda](https://twitter.com/WhalePanda)
@@ -106,21 +106,20 @@ Look for MaRi leading the upcoming [Émilie du Châtelet Crypto Philosophy Salon
 * [Satoshi Roundtable](https://satoshiroundtable.org/)
 * [Dash](https://www.dash.org/)
 * [Cardano](https://www.cardanohub.org/en/home/)
-Peter Todd's explanation of how trust works]()
-FOMO, FUD, antifragile, ambiguity, chaos, volatility]()
+* [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out), [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt), [chaos](https://en.wiktionary.org/wiki/chaos), [volatility](https://www.investopedia.com/terms/v/volatility.asp)
 * [Nicosia Introduction to Digital Currencies MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 * [Swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence)
 The Cryptovalues project in Switzerland]()
-Blockchain@UBC]()
+* [Blockchain@UBC](https://blockchainubc.ca/)
 * [Lifeboat Foundation New Money Systems Board and Human Trajectories Board](https://lifeboat.com/ex/boards#human_trajectories)
-John Willock]()
+* [John Willock](https://www.linkedin.com/in/john-willock-blockchain/)
 * [StrengthsFinder Profiling - Themes and Domains](https://www.gallupstrengthscenter.com/Home/en-US/CliftonStrengths-Themes-Domains)
 * [Forbes first list of the Top Cryptocurrency Influencers](https://www.forbes.com/sites/jeffkauflin/2018/02/07/cryptocurrency-richest-people-crypto-bitcoin-ether-xrp/#9fb71c372d3e)
 The Cryptoblock Forum
-Davos
+* World Economic Forum at Davos, Switzerland](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018)
 * [Crypto Valley](https://cryptovalley.swiss/)
 * [TechWorld](https://www.techworld.com/)
-The first bitcoin ATM in the world
+* [World's first Bitcoin ATM opens in Vancouver, CBC article](http://www.cbc.ca/news/technology/world-s-first-bitcoin-atm-opens-in-vancouver-1.2286877)
 
 
 

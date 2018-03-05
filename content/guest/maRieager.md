@@ -19,7 +19,7 @@ draft = "True"
 
 MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas including:
 
-* Medium Author of "The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways, Principles and Practices."
+* Medium Author of "The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways and Practices."
 
 * Creator of the World's First Crypto and Blockchain Leadership Development Book and Program - a Project of the Invisible College (published on GitBook).
 
