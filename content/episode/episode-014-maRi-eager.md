@@ -55,8 +55,6 @@ We cover a lot about the cryptocurrency and blockchain initiatives MaRi is leadi
 * the good: creating a more distributed economy and its positive effect on mental and physical health
 * the bad: people getting wrapped up solely in the wealth generation aspect, exchanges being hacked and money being locked in wallets
 * the ugly: people setting up paper ICOs - with no intent to build a product - and draining wallets by preying on the fear of missing out (FOMO)
-26:30 (confirm points)
-* More on the upcoming Émilie du Châtelet Crypto Philosophy Salon
 * The early days of cryptocurrency (2013, 2014), Peter Todd and understanding how trust works
 * Explaining some of the terminology in crypto such as FOMO, FUD, antifragile, ambiguity and being comfortable with chaos and volatility
 * The importance of spending the time reading and researching about cryptocurrency
@@ -82,19 +80,16 @@ We cover a lot about the cryptocurrency and blockchain initiatives MaRi is leadi
 * Retaining the human element in the cryptocurrency community as innovation and business in this space evolves
 * The human dynamic of this space and regenerative technology
 * Heathier forms of environmental stewardship such as Agriforestry using blockchain to enable proof of vitality or proof of regenerative process
-* The Cryptoblock Forum, an organization of Asian, European and North American partners engaging with the World Bank, the World Economic Forum and other organizations to look at how we innovate and create codes of conduct, regulation and governance
-*
+* The Cryptoblock Forum, an organization of Asian, European and North American partners and members engaging with the World Bank, the World Economic Forum and other organizations to look at innovate and create codes of conduct, regulation and governance in the cryptospace
+* Plans to start BC and Ontario Cryptoblock Forum chapters in 2018
+* Details about the leaders and MaRi's style of leadership development behind the upcoming Émilie du Châtelet Crypto Philosophy Salon
+* Also at the event - a surprise guest, the CEO from TechWorld who will be presenting their report on some of the challenges women face
 
-34.41
-
-
-
-* MaRi's upcoming speaking engagements at _______________
-* Questions and requests MaRi has for our audience and how you can reach her
+MaRi's is passionate about community and there is a lot of work to be done. If you're interested in getting involved reach out to MaRi by email, link with her on [LinkedIn]() and connect with her [@]() on twitter.
 
 You can find out more about DigitalFutures B.U.I.L.D. and the BC Blockchain Forum by going to their [website](), [facebook]() and [@]() on twitter.
 
-Look for MaRi leading the upcoming The Émilie du Châtelet Crypto Philosophy Salon on International Women's Day, March 8th. MaRi will also be speaking at ___________ and running (events/dates)!
+Look for MaRi leading the upcoming The Émilie du Châtelet Crypto Philosophy Salon on International Women's Day, March 8th!
 
 
 ### Show Links
@@ -122,7 +117,10 @@ John Willock]()
 Strengthsfinder Profiling]()
 Forbes list of the Top Crypto Influencers]()
 The Cryptoblock Forum
-
+Davos
+Cryptovalley
+TechWorld
+The first bitcoin ATM in the world
 
 
 
