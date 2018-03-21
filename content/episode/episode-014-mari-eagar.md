@@ -5,21 +5,21 @@ Description = "[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blo
 aliases = ["/14"]
 author = "Alexandra Moxin"
 categories = []
-date = "2018-03-05T04:09:45-07:00"
+date = "2018-03-06T04:09:45-07:00"
 episode = "14"
 episode_image = "img/guest/maRi_eager.jpg"
 explicit = "no"
 #sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "0:25:57"
-#podcast_file = "advance-tech-podcast-014.mp3"
-#podcast_length = "0:25:57"
-#podcast_bytes = "17884238"
+#podcast_duration = "0:48:29"
+podcast_file = "advance-tech-podcast-014.mp3"
+podcast_length = "0:48:29"
+podcast_bytes = "34841982"
 tags = []
-title = "MaRi Eagar, Crypto Philsopher, DigitalFutures B.U.I.L.D."
+title = "MaRi Eagar, Crypto Philosopher, DigitalFutures B.U.I.L.D."
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
