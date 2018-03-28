@@ -2,7 +2,7 @@
 
 Description = "Peter-Paul Van Hoeken is Founder and CEO of FrontFundr the leading online funding and investment platform in Canada with a proven track record of successfully completing the first equity crowdfunding transactions in Canada. FrontFundr advocates an open and transparent market in which companies and investors understand the risks and potential returns (or losses). FrontFundr has developed a secure proprietary technology platform and has strong relationships with all stakeholders including the provincial securities regulators in Canada, as a fully registered Exempt Market Dealer in eight provinces. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
-aliases = ["/13"]
+aliases = ["/15"]
 author = "Alexandra Moxin"
 categories = []
 date = "2018-02-21T04:09:45-07:00"
@@ -19,7 +19,7 @@ podcast_bytes = "17884238"
 tags = []
 title = "Peter Paul Van Hoeken, FrontFundr"
 youtube = ""
-draft = "False"
+draft = "True"
 +++
 
 Written by Alexandra Moxin
