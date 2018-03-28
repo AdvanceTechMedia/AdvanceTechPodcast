@@ -15,7 +15,7 @@ Thumbnail = "img/guest/maRi_eager.jpg"
 draft = "False"
 
 +++
-[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies.
+[MaRi Eagar](linkedin.com/in/marieagar/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies.
 
 MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas including:
 

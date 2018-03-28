@@ -1,6 +1,6 @@
 +++
 
-Description = "[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development) and Founder of the BC Blockchain Forum. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in many areas. For comprehensive shownotes and links in the episode take a look below or click the episode title."
+Description = "[MaRi Eagar](linkedin.com/in/marieagar/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development) and Founder of the BC Blockchain Forum. She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in many areas. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 aliases = ["/14"]
 author = "Alexandra Moxin"
@@ -12,7 +12,7 @@ explicit = "no"
 #sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
-#podcast_duration = "0:48:29"
+podcast_duration = "0:48:29"
 podcast_file = "advance-tech-podcast-014.mp3"
 podcast_length = "0:48:29"
 podcast_bytes = "34841982"
@@ -24,7 +24,7 @@ draft = "False"
 
 Written by Alexandra Moxin
 
-[MaRi Eagar](linkedin.com/in/marieager/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development). She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas including:
+[MaRi Eagar](linkedin.com/in/marieagar/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies. MaRi is Founder and Chair of DigitalFutures B.U.I.L.D. (Blockchain User-Centric Innovation and Leadership Development). She is passionate about the cryptocurrency and blockchain space and is a leader and core contributor in multiple areas including:
 
 * Medium Author of "The Crypto and Blockchain Generation: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways and Practices."
 
