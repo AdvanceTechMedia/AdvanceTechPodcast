@@ -34,6 +34,8 @@ We cover a lot about _____________________________________ in this episode so ge
 ### In this episode we cover
 *
 * Universal Basic Income
+* Affective Altruism
+* Macro and micro economics
 
 You can find out more about __________(initiatives) by going to their [website](), [facebook]() and [@twitterhandle]() on twitter.
 
