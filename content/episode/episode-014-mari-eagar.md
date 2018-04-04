@@ -82,7 +82,7 @@ A distinguished leader, MaRi was nominated for finalist Innovator Idol 2012 (Ont
 * Details about the leaders and MaRi's style of leadership development behind the upcoming Émilie du Châtelet Crypto Philosophy Salon
 * Also at the event - a surprise guest, the CEO from TechWorld who will be presenting their report on some of the challenges women face in the industry
 
-MaRi is passionate about community and there is a lot of work to be done. If you're interested in getting involved reach out to MaRi by [email](mailto:mari@digitalfutures.co), link with her on [LinkedIn](linkedin.com/in/marieagar/) and connect with her [@MaRiEagar](https://twitter.com/MaRiEagar) on twitter.
+MaRi is passionate about community and there is a lot of work to be done. If you're interested in getting involved reach out to MaRi by [email](mailto:mari@digitalfutures.co), link with her on [LinkedIn](https://www.linkedin.com/in/marieagar/) and connect with her [@MaRiEagar](https://twitter.com/MaRiEagar) on twitter.
 
 You can find out more about [DigitalFutures B.U.I.L.D.](http://digitalfutures.co/) and the [BC Blockchain Forum](http://bcblockchainforum.ca/) by going to their websites and connecting on with [DigitalFutures on facebook](https://www.facebook.com/futuresdigital/), [BC Blockchain Forum on facebook](https://www.facebook.com/bcblockchainforum/) and [@futuresdigital](https://twitter.com/futuresdigital) on twitter.
 
@@ -92,7 +92,7 @@ Look for MaRi leading the upcoming [Émilie du Châtelet Crypto Philosophy Salon
 ### Show Links
 * [DigitalFutures B.U.I.L.D.](http://digitalfutures.co/)
 * [BC Blockchain Forum](https://www.meetup.com/BCBlockchainForum/)
-* [MaRi Eagar on LinkedIn](linkedin.com/in/marieagar/)
+* [MaRi Eagar on LinkedIn](https://www.linkedin.com/in/marieagar/)
 * [Émilie du Châtelet Crypto Philosophy Salon, March 8th](https://www.picatic.com/event15130591965425)
 * [MaRi's Crypto and Blockchain Leadership Development Book and Program - Cryptomuse: A Project of the Invisible College on GitBook](https://cryptomuse.gitbooks.io/personal-leadership-for-the-crypto-and-blockchain/content/)
 * [The Crypto and Blockchain Generation Master(N)ode: Distributed Leadership and Organizational Development in the Crypto and Token Economy: Principles, Pathways and Practices on Medium](https://medium.com/distributed-economy)

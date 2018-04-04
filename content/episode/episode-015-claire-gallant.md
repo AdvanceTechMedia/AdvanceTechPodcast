@@ -43,10 +43,12 @@ Look for Claire speaking at the _______________(conferences/events)!
 
 
 ### Show Links
+
 * [ on Facebook]()
 * [ on Twitter]()
 * [ on LinkedIn]()
 * [ on Google +]()
+
 
 
 

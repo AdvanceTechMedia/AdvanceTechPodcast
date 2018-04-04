@@ -56,7 +56,7 @@ Look for Peter-Paul speaking at the NCFA 4th Annual National Conference in Toron
 
 ### Show Links
 * [FrontFundr](https://www.frontfundr.com/)
-* [Peter-Paul Van Hoeken on LinkedIn](linkedin.com/in/peterpaulvanhoeken/)
+* [Peter-Paul Van Hoeken on LinkedIn](https://www.linkedin.com/in/peterpaulvanhoeken/)
 * [FrontFundr's upcoming campaign launch event on Feb 27th](https://www.picatic.com/ownyourshare)
 * [NCFA in Toronto on March 5th and 6th](http://ncfacanada.org/)
 * [FrontFundr's Coming Soon - Prospect Lounge](https://www.frontfundr.com/Home/ProspectLounge)
