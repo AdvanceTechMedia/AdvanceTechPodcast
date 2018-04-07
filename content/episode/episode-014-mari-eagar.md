@@ -55,7 +55,7 @@ A distinguished leader, MaRi was nominated for finalist Innovator Idol 2012 (Ont
 * The early days of cryptocurrency (2013, 2014), Peter Todd and understanding how trust works
 * Explaining some of the terminology in crypto such as FOMO, FUD, antifragile, ambiguity and being comfortable with chaos and volatility
 * The importance of spending the time reading and researching about cryptocurrency
-* Nicotsia Introduction to Digital Currencies mook
+* Nicosia Introduction to Digital Currencies MOOC
 * Swarm intelligence
 * The importance of keeping an emotional levelness while navigating a new industry
 * The changing dynamics of trust and abstracting identity out of the equation
