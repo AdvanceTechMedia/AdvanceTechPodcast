@@ -12,7 +12,7 @@ Thumbnail = "img/guest/claire_gallant.jpg"
 #Pinterest = ""
 #Instagram = "HHUnleashed"
 #YouTube = "channel/UCGApyl652hqX8l4RBdHI7yQ"
-draft = "True"
+draft = "False"
 
 +++
 Claire Gallant is a talented cryptoasset and blockchain technologies researcher, token designer and educator. She is a payment advisor for Payfirma, and a well-known community organizer and advocate for technology innovation as opportunities to establish new forms of value creation and social transformation.
