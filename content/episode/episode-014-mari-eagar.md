@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-014.mp3"
 podcast_length = "0:48:29"
 podcast_bytes = "34841982"
 tags = []
-title = "MaRi Eagar, Crypto Philosopher, DigitalFutures B.U.I.L.D."
+title = "MaRi Eagar - Crypto Philosopher, DigitalFutures B.U.I.L.D."
 youtube = ""
 draft = "False"
 +++

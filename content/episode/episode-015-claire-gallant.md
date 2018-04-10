@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-015.mp3"
 podcast_length = "0:47:00"
 podcast_bytes = "58725605"
 tags = []
-title = "Claire Gallant, Payfirma"
+title = "Claire Gallant - Gender, Tech and Futurism"
 youtube = ""
 draft = "False"
 +++
