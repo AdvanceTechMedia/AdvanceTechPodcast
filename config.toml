@@ -33,9 +33,9 @@ themesdir = "themes"
     url = "about"
 
  [[Menu.Main]]
-   name = "Sponsors"
-   identifier = "sponsors"
-   url = "sponsors"
+   name = "Support"
+   identifier = "support"
+   url = "support"
 
 #[[Menu.Main]]
 #    name = "Books"
