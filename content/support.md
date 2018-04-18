@@ -5,7 +5,7 @@ title = "Support"
 aliases = "/support"
 +++
 
-Like our work? You can sponsor us by sending us bitcoin here:
+Like our work? You can sponsor the **Advance Tech Podcast** by sending us bitcoin here:
 
 ![img](/img/sponsors/wallet.png)
 

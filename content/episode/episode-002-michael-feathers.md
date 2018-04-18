@@ -24,7 +24,7 @@ Written by Alexandra Moxin and Adam Dymitruk
 
 **“Symbiosis is a way of seeing organizations that reflects the reality of our impact on software and its impact upon us.” – Michael Feathers**
 
-[Michael Feathers](@mfeathers) is Founder and Director of [R7K Research & Conveyance](https://www.r7krecon.com/) a company specializing in software and organization design. Michael wrote [Working Effectively with Legacy Code](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (Prentice Hall, 2004) and specializes supporting organizations with general software design issues, process change and code revitalization.
+[Michael Feathers](https://twitter.com/mfeathers) is Founder and Director of [R7K Research & Conveyance](https://www.r7krecon.com/) a company specializing in software and organization design. Michael wrote [Working Effectively with Legacy Code](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (Prentice Hall, 2004) and specializes supporting organizations with general software design issues, process change and code revitalization.
 
 Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the past 20 years he has consulted with hundreds of organizations and is a frequent presenter at national and international conferences.
 

@@ -57,7 +57,7 @@ This podcast illustrates the power of partnerships and community which I'm honor
 
 
 ### Show Links
-* [SingularityNET](singularitynet.io)
+* [SingularityNET](https://singularitynet.io/)
 * [Dr. Ben Goertzel, CEO, Chief Scientist and Project Lead](http://goertzel.org/)
 * [Dr. Ben Goertzel - blog](http://multiverseaccordingtoben.blogspot.ca/)
 * [Dr. Ben Goertzel, Chief Scientist at Hanson Robotics and Chairman of the AGI Society: "AGI will obsolete human life as we know it - thank goodness", produced by Adam Ford, featured on scifuture.org](https://www.youtube.com/watch?v=qQvoVzDt2yk&list=PL0vRc4ulw-mxlxCyCkl-bTpKC6BeFZgjt&index=53)
