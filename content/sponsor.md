@@ -1,8 +1,8 @@
 +++
 date = "2017-04-27T15:18:55-05:00"
 description = "The Advance Tech Podcast would like to thank our sponsors!"
-title = "Support"
-aliases = "/support"
+title = "Sponsor"
+aliases = "/sponsor"
 +++
 
 Like our work? You can sponsor the **Advance Tech Podcast** by sending us bitcoin here:

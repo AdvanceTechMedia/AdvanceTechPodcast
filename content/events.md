@@ -1,8 +1,10 @@
 +++
 date = "2017-04-27T15:19:36-05:00"
-title = "Advance Tech Social"
+title = "Events"
 
 +++
+
+<h3 class="grid_episode_title">Advance Tech Social</h3>
 
 The **Advance Tech Social** event connects Founders, Investors, the C-Suite and a group of like-minded technologists, disruptors and innovators, who are committed to pushing the boundaries and advancing bleeding edge tech, thinking and product.
 

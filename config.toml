@@ -18,9 +18,9 @@ themesdir = "themes"
 # The menus are sorted based upon their identifier
 
 [[Menu.Main]]
-    name = "Advance Tech Social"
-    identifier = "contact"
-    url = "contact"
+    name = "Events"
+    identifier = "events"
+    url = "events"
 
 [[Menu.Main]]
     name = "Guests"
@@ -33,9 +33,9 @@ themesdir = "themes"
     url = "about"
 
  [[Menu.Main]]
-   name = "Support"
-   identifier = "support"
-   url = "support"
+   name = "Sponsor"
+   identifier = "sponsor"
+   url = "sponsor"
 
 #[[Menu.Main]]
 #    name = "Books"
@@ -52,7 +52,7 @@ themesdir = "themes"
 site_theme = "blue"
 site_layout = "row"
 enable_jumbo = "true"
-#truncate = "100"
+truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
 
 copyright_notice = "Copyright 2017 - 2018 [Advance Tech Media](https://advancetechmedia.org)"
