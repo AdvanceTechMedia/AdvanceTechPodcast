@@ -37,11 +37,11 @@ themesdir = "themes"
    identifier = "sponsor"
    url = "sponsor"
 
-#[[Menu.Main]]
-#    name = "Books"
-#    identifier = "books"
-#    url = "books"
-#    parent = "resources"
+[[Menu.Main]]
+    name = "Community"
+    identifier = "community"
+    url = "community"
+
 #[[Menu.Main]]
 #    name = "Podcasts"
 #    identifier = "podcasts"
