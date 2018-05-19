@@ -24,18 +24,17 @@ youtube = ""
 
 Written by Alexandra Moxin and Adam Dymitruk
 
-Yurii Rashkovskii is
+Yurii Rashkovskii is a Software Developer, Entrepreneur and Blockchain expert. He's passionate about edge computing (aka true serverless) and creating free and open solutions for developers that liberate them from vendor lock-ins. He's recently released SIT: Serverless Information Tracker and has been around Bitcoin and Blockchain since 2012.
 
-Vancouver, BC & Krung Thep
+Yurii co-founded two startups in the space and has worked on a number of projects such as PumpkinDB, GraphQL Java, Elixir, erlzmq2, and a number of smaller libraries for Rust, Java, JavaScript, Erlang, Elixir and Ruby. Yurii spends his time between Vancouver, BC, Canada and Krung Thep, Thailand. He has a bunch of interesting projects in the pipeline and is still very interested in Bitcoin and Blockchain initiatives and projects.
 
 Look for Yurii at [upcoming conferences and talks]!
 
 
 ### In this episode we cover
-* stuff
+* show notes
 
-You can reach Yurii at [@yrashk](https://twitter.com/yrashk) and [@Etcetera Labs]() on twitter and [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work at http://patreon.com/yrashk
-
+You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on twitter, at [Etcetera Labs](https://github.com/EtceteraLabs) and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work on [Patreon](http://patreon.com/yrashk].
 
 ### Show Links
 
@@ -43,6 +42,8 @@ You can reach Yurii at [@yrashk](https://twitter.com/yrashk) and [@Etcetera Labs
 * [Yurii on Twitter](https://twitter.com/yrashk)
 * [Yurii on Patreon](http://patreon.com/yrashk )
 * [SIT, Serverless Information Tracker](https://sit.sh)
+* [Etcetera Labs](https://github.com/EtceteraLabs)
+
 
 
 
