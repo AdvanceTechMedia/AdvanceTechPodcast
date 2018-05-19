@@ -41,7 +41,7 @@ You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [
 
 * [Yurii Rashkovskii on LinkedIn](https://www.linkedin.com/in/yrashk/)
 * [Yurii on Twitter](https://twitter.com/yrashk)
-* [Yurii on Patreon](http://patreon.com/yrashk )
+* [Yurii on Patreon](http://patreon.com/yrashk)
 * [SIT, Serverless Information Tracker](https://sit.sh)
 * [Etcetera Labs](https://github.com/EtceteraLabs)
 
