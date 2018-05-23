@@ -5,21 +5,21 @@ Description = "Yurii Rashkovskii is a Software Developer, Entrepreneur and Block
 aliases = ["/17"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2018-05-08T04:09:45-07:00"
+date = "2018-05-23T16:09:45-07:00"
 episode = "17"
 episode_image = "img/guest/yurii_rashkovskii.jpg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "0:47:31"
-#podcast_file = "advance-tech-podcast-016.mp3"
-#podcast_length = "0:47:31"
-#podcast_bytes = "37769010"
+podcast_duration = "2:12:25"
+podcast_file = "advance-tech-podcast-017.mp3"
+podcast_length = "2:12:25"
+podcast_bytes = "100306554"
 tags = []
-#title = "Yurii Rashkovskii, "
+title = "Yurii Rashkovskii, Open Source Entrepreneur"
 youtube = ""
-#draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin and Adam Dymitruk
@@ -34,6 +34,14 @@ Look for Yurii at upcoming conferences and talks (to be announced)!
 
 ### In this episode we cover
 * show notes
+
+* [The SIT Project - sit.fyi](https://sit.fyi)
+* [NixOS](https://nixos.org/)
+* [Pieter Hintjens C4 contribution protocol](http://hintjens.com/blog:93)
+* [Pieter Hintjens - How to Build Open Source Communities](https://www.youtube.com/watch?v=uzxcILudFWM)
+* [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+
+More show notes coming!
 
 You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work on [Patreon](http://patreon.com/yrashk].
 
