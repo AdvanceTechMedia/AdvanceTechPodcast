@@ -33,7 +33,6 @@ He has contributed to a number of open source projects such as Elixir, erlzmq2, 
 Look for Yurii at upcoming conferences and talks (to be announced)!
 
 ### In this episode we cover
-* show notes
 
 * [The SIT Project - sit.fyi](https://sit.fyi)
 * [NixOS](https://nixos.org/)
@@ -43,14 +42,14 @@ Look for Yurii at upcoming conferences and talks (to be announced)!
 
 More show notes coming!
 
-You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work on [Patreon](http://patreon.com/yrashk].
+You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work on [Patreon](http://patreon.com/yrashk).
 
 ### Show Links
 
 * [Yurii Rashkovskii on LinkedIn](https://www.linkedin.com/in/yrashk/)
 * [Yurii on Twitter](https://twitter.com/yrashk)
 * [Yurii on Patreon](http://patreon.com/yrashk)
-* [SIT, Serverless Information Tracker](https://sit.sh)
+* [SIT, Serverless Information Tracker](https://sit.fyi )
 * [Etcetera Labs](https://github.com/EtceteraLabs)
 
 
