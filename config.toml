@@ -37,10 +37,10 @@ themesdir = "themes"
    identifier = "sponsor"
    url = "sponsor"
 
-[[Menu.Main]]
-    name = "Community"
-    identifier = "community"
-    url = "community"
+#[[Menu.Main]]
+#    name = "Community"
+#    identifier = "community"
+#    url = "community"
 
 #[[Menu.Main]]
 #    name = "Podcasts"
@@ -117,6 +117,7 @@ media_prefix = "http://advancetechmedia.org/"
         facebook = "alexandra.moxin"
         github = "lexi933"
         instagram = "lexi_933/?hl=en"
+        medium = "https://medium.com/@Cnecct"
 
 
     [params.links]
