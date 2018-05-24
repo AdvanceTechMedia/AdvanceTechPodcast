@@ -42,7 +42,7 @@ Look for Yurii at upcoming conferences and talks (to be announced)!
 
 More show notes coming!
 
-You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.sh and support his OSS work on [Patreon](http://patreon.com/yrashk).
+You can reach Yurii at [@yrashk](https://twitter.com/yrashk) on Twitter and on [LinkedIn](https://www.linkedin.com/in/yrashk/). You can find out more about SIT, Serverless Information Tracker at https://sit.fyi and support his OSS work on [Patreon](http://patreon.com/yrashk).
 
 ### Show Links
 
