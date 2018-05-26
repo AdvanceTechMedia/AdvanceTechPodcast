@@ -1,6 +1,6 @@
 +++
 
-Description = "Yurii Rashkovskii is a Software Developer, Entrepreneur and Blockchain expert. He's passionate about edge computing and creating free and open solutions that liberate us from vendor lock-ins. He's recently released SIT: Serverless Information Tracker and has been around Bitcoin and Blockchain since 2012. He previously co-founded two startups in the space, and is looking forward to participating in thoughtful initiatives and projects in the future. For comprehensive shownotes and links in the episode take a look below or click the episode title."
+Description = "Yurii Rashkovskii is a Software Developer, Entrepreneur and Blockchain expert. Yurii is passionate about edge computing and creating free and open solutions that liberate us from vendor lock-ins. Yurii recently released SIT: Serverless Information Tracker and has been around Bitcoin and Blockchain since 2012. He previously co-founded two startups in the space, and is looking forward to participating in thoughtful initiatives and projects in the future. For comprehensive shownotes and links in the episode take a look below or click the episode title."
 
 aliases = ["/17"]
 author = "Alexandra Moxin"

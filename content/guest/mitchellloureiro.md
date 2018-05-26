@@ -1,6 +1,6 @@
 +++
 Title = "Mitchell Loureiro"
-#date = "2017-12-21T09:12:37-05:00"
+date = "2017-12-21T09:12:37-05:00"
 #Twitter = "@HHUnleashed"
 Website = "https://blog.singularitynet.io/@mjloureiro"
 Type = "guest"

@@ -10,6 +10,6 @@ The **Advance Tech Social** event connects Founders, Investors, the C-Suite and 
 
 We meet on a monthly basis and cover topics ranging from bleeding edge tech (AI, crypto, blockchain, quantum computing, nanotechnology) to entrepreneurship, community and practices changing the world.
 
-We're a small, connected crew who make things happen!
+We are a small, connected crew who make things happen!
 
 **[join us here](https://www.meetup.com/Advance-Tech-Social/)**

@@ -1,7 +1,7 @@
 +++
 date = "2017-04-27T15:18:55-05:00"
 description = "The Advance Tech Podcast would like to thank our sponsors!"
-title = ""
+title = "Sponsor"
 aliases = "/sponsor"
 +++
 
