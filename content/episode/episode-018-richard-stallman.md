@@ -1,25 +1,25 @@
 +++
 
-Description = "Richard Matthew Stallman is a software developer and software freedom activist. He worked at the Artificial Intelligence Lab at MIT from 1971 to 1984, learning operating system development and wrote the first extensible Emacs text editor there in 1976. He also developed the AI technique of dependency-directed backtracking, known as truth maintenance. In 1983 Stallman announced the project to develop the GNU operating system, a Unix-like operating system meant to be entirely free software, and has been the leader of the project ever since. With that announcement he also launched the Free Software Movement. Stallman pioneered the concept of copyleft, is the main author of the GNU General Public License and gives speeches frequently about free software and related topics. For comprehensive shownotes, a complete bio and links in the episode take a look below or click the episode title."
+Description = "Dr. Richard Matthew Stallman is a software developer and software freedom activist. He worked at the Artificial Intelligence Lab at MIT from 1971 to 1984, learning operating system development and wrote the first extensible Emacs text editor there in 1976. He also developed the AI technique of dependency-directed backtracking, known as truth maintenance. In 1983 Stallman announced the project to develop the GNU operating system, a Unix-like operating system meant to be entirely free software, and has been the leader of the project ever since. With that announcement he also launched the Free Software Movement. Stallman pioneered the concept of copyleft, is the main author of the GNU General Public License and gives speeches frequently about free software and related topics. For comprehensive shownotes, a complete bio and links in the episode take a look below or click the episode title."
 
 aliases = ["/18"]
 author = "Alexandra Moxin"
 categories = []
-date = "2018-06-09T16:09:45-07:00"
+date = "2018-06-12T16:09:45-07:00"
 episode = "18"
 episode_image = "img/guest/richard_stallman2.jpg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "2:12:25"
-#podcast_file = "advance-tech-podcast-018.mp3"
-#podcast_length = "2:12:25"
-#podcast_bytes = "100306554"
+podcast_duration = "1:36:49"
+podcast_file = "advance-tech-podcast-018.mp3"
+podcast_length = "1:36:49"
+podcast_bytes = "74535492"
 tags = []
-title = "Richard Stallman, Software Freedom Activist"
+title = "Dr. Richard M. Stallman, Software Freedom Activist"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin and Adam Dymitruk
@@ -98,13 +98,15 @@ He has received the following awards:
 
 More show notes coming!
 
-You can reach Richard via his [personal website](https://stallman.org/) and find out more about what he's working on and how you can help at [GNU.org](http://www.gnu.org/) and the [Free Software Foundation](https://www.fsf.org/).
+You can reach Richard via his [personal website](https://stallman.org/) and to find out more about what he's working on and how you can help check out [GNU.org](http://www.gnu.org/) and the [Free Software Foundation](https://www.fsf.org/).
 
 ### Show Links
 
 * [Free Software Foundation](https://www.fsf.org/)
 * [GNU.org](http://www.gnu.org/)
-* [Richard Stallman's Personal Website](https://stallman.org/)
+* [GNU.org - Philosophy](http://www.gnu.org/philosophy/philosophy.html)
+* [GNU.org - Licenses](http://www.gnu.org/licenses/licenses.html)
+* [Dr. Richard M. Stallman's Personal Website](https://stallman.org/)
 
 
 

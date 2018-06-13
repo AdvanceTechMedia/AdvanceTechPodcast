@@ -1,6 +1,6 @@
 +++
-Title = "Richard Stallman"
-date = "2018-06-09T09:12:37-05:00"
+Title = "Dr. Richard M. Stallman"
+date = "2018-06-12T09:12:37-05:00"
 #Twitter = ""
 Website = "https://stallman.org/"
 Type = "guest"
@@ -12,10 +12,10 @@ Thumbnail = "img/guest/richard_stallman2.jpg"
 #Pinterest = ""
 #Instagram = "cm00d/"
 #YouTube = "channel/userhash"
-draft = "True"
+draft = "False"
 
 +++
-Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.
+Dr. Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.
 
 He worked at the Artificial Intelligence Lab at MIT from 1971 to 1984, learning operating system development by doing it, except for the year he was a graduate student. He wrote the first extensible Emacs text editor there in 1976, and developed the AI technique of dependency-directed backtracking, also known as truth maintenance.
 
