@@ -47,6 +47,11 @@ themesdir = "themes"
 #    identifier = "syndicatedpodcasts"
 #    url = "syndicate"
 
+#[[Menu.Main]]
+#    name = "Blog"
+#    identifier = "blog"
+#    url = "blog"
+
 [params]
 site_theme = "blue"
 site_layout = "row"
@@ -63,7 +68,7 @@ soundcloud_subscribe = "https://soundcloud.com/user-716837148"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:716837148/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>Welcome to the Advance Tech Podcast bringing you timeless and engaging content you won&rsquo;t hear in the mainstream media. Hosted by Alexandra Moxin and Adam Dymitruk. We provide a spotlight for innovative and disruptive initiatives and interview guests defining the technology of tomorrow.</p><p>Advance Tech Media is dedicated to advancing research and supporting the responsible application of bleeding edge technology and practices that foster quality, equality and sustainability."
+description = "<p>Welcome to the Advance Tech Podcast providing a spotlight for innovative and disruptive initiatives and interviewing guests building the technology of tomorrow. Hosted by Alexandra Moxin and Adam Dymitruk. </p><p>Advance Tech Media is dedicated to advancing research and supporting the responsible application of bleeding edge technology and practices that foster quality, equality and sustainability."
 media_prefix = "http://advancetechmedia.org/"
   [params.feed]
     feed_copyright = "Copyright 2017 - 2018 Advance Tech Media" #do not use markdown in this field; it is used in the feed
