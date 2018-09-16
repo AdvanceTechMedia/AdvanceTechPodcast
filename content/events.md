@@ -7,15 +7,15 @@ title = "Events"
 
 <br></br>
 
-<h3> Black Hat USA 2018 </h3>
+<h3> Baltic Honeybadger 2018 </h3>
 
-Now in its 21st year, [**Black Hat USA 2018**](https://www.blackhat.com/us-18/) is the world's leading information security event, providing attendees with the very latest in research, development and trends. Black Hat USA 2018 opens with four days of technical Trainings (August 4 – 7) followed by the two-day main conference (August 8 – 9) featuring Briefings, Arsenal, Business Hall, and more.
+<img src="/img/sponsors/BalticHoneybadger2018.jpg" alt="drawing" style="width: 200px;"/>
 
-For more than 20 years, Black Hat has provided attendees with the very latest in information security research, development, and trends. These high-profile global events and trainings are driven by the needs of the security community, striving to bring together the best minds in the industry. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors. Black Hat Briefings and Trainings are held annually in the United States, Europe and Asia. More information is available at: blackhat.com. Black Hat is organized by UBM, which in June 2018 combined with Informa PLC to become a leading B2B information services group and the largest B2B Events organizer in the world.
+The [**Baltic Honeybadger**](https://bh2018.hodlhodl.com/) conference is the Bitcoin conference of the year. Baltic Honeybadger will be held in Riga, Latvia on September 22 and 23 and features world renown speakers and panelists including Adam Back, Saifedean Ammous, Elizabeth Stark, Jameson Lopp, Peter Todd, Tuur Demeester, WhalePanda, Florian Maier, Tone Vays, Matt Corallo, Yurii Rashkovskii, Mir, Nic Carter and more.
 
-To learn more and for the latest news and information, visit www.ubm.com and www.informa.com.
+The Baltic Honeybadger conference is driven by the cypherpunk movement with the goal of creating an educational and community-driven event with high-profile speakers from all around the world with diverse backgrounds — from technical engineers and cybersecurity professionals to business owners and bestselling authors.
 
-To register for this event, please click **[here](https://www.blackhat.com/us-18/registration.html)**
+You can get tickets **[here](https://bh2018.hodlhodl.com/tickets)** while they're still available!
 
 <br></br>
 
@@ -29,19 +29,17 @@ Open Source Summit connects the open source ecosystem under one roof. It covers 
 
 You can get tickets **[here](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/attend/register/)**!
 
-
-
 <br></br>
 
-<h3> Baltic Honeybadger 2018 </h3>
+<h3> Black Hat USA 2018 </h3>
 
-<img src="/img/sponsors/BalticHoneybadger2018.jpg" alt="drawing" style="width: 200px;"/>
+Now in its 21st year, [**Black Hat USA 2018**](https://www.blackhat.com/us-18/) is the world's leading information security event, providing attendees with the very latest in research, development and trends. Black Hat USA 2018 opens with four days of technical Trainings (August 4 – 7) followed by the two-day main conference (August 8 – 9) featuring Briefings, Arsenal, Business Hall, and more.
 
-The [**Baltic Honeybadger**](https://bh2018.hodlhodl.com/) conference is the Bitcoin conference of the year. Baltic Honeybadger will be held in Riga, Latvia on September 22 and 23 and features world renown speakers and panelists including Adam Back, Saifedean Ammous, Elizabeth Stark, Jameson Lopp, Peter Todd, Tuur Demeester, WhalePanda, Florian Maier, Tone Vays, Matt Corallo, Yurii Rashkovskii, Mir, Nic Carter and more.
+For more than 20 years, Black Hat has provided attendees with the very latest in information security research, development, and trends. These high-profile global events and trainings are driven by the needs of the security community, striving to bring together the best minds in the industry. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors. Black Hat Briefings and Trainings are held annually in the United States, Europe and Asia. More information is available at: blackhat.com. Black Hat is organized by UBM, which in June 2018 combined with Informa PLC to become a leading B2B information services group and the largest B2B Events organizer in the world.
 
-The Baltic Honeybadger conference is driven by the cypherpunk movement with the goal of creating an educational and community-driven event with high-profile speakers from all around the world with diverse backgrounds — from technical engineers and cybersecurity professionals to business owners and bestselling authors.
+To learn more and for the latest news and information, visit www.ubm.com and www.informa.com.
 
-You can get tickets **[here](https://bh2018.hodlhodl.com/tickets)** while they're still available!
+To register for this event, please click **[here](https://www.blackhat.com/us-18/registration.html)**
 
 <br></br>
 
