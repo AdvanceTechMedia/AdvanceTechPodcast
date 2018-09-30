@@ -7,6 +7,18 @@ title = "Events"
 
 <br></br>
 
+<h3> HackIT 4.0 - The 4th Global CyberSecurity Forum</h3>
+
+<img src="/img/sponsors/hackit.png" alt="drawing" style="width: 200px;"/>
+
+Tired of boring conferences and meaningless speeches without any practical usage? When was the last time you met great minds instead of great salesmen? [**HackIT**](https://hackit.ua/) is all about bringing hackers and crypto community together.
+
+HACKIT FORUM is aimed to become a place for strong security networking gathering of professional tech developers and leading security experts. New knowledge, the best solutions, idea sharing, unique opportunities to take part in methodology creation and much more. Check it out.
+
+Find out more and get tickets **[here](https://hackit.ua/order/)** while they're still available!
+
+<br></br>
+
 <h3> Baltic Honeybadger 2018 </h3>
 
 <img src="/img/sponsors/BalticHoneybadger2018.jpg" alt="drawing" style="width: 200px;"/>
