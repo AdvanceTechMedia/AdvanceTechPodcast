@@ -2,7 +2,7 @@
 
 Description = "This week we interview John Walicki and Animesh Singh from IBM and Trevor Riggen from the American Red Cross in part one of a three part series IBM Innovates. This episode was recorded live at the Linux Foundation Open Source Summit, August 28 to 31 in our hometown Vancouver, British Columbia, Canada. For comprehensive shownotes, complete bios of our guests and links mentioned in the episode take a look below or click the episode title."
 
-aliases = ["/20"]
+aliases = ["/21"]
 author = "Alexandra Moxin"
 categories = []
 date = "2018-09-17T00:00:01-07:00"
@@ -19,7 +19,7 @@ podcast_bytes = "47666966"
 tags = []
 title = "IBM Innovates, Part 1: Artificial Intelligence and Call for Code"
 youtube = ""
-draft = "False"
+draft = "True"
 +++
 
 Written by Alexandra Moxin
