@@ -108,7 +108,7 @@ media_prefix = "http://advancetechmedia.org/"
         youtube = "adaptech"
     [params.authors.Alex]
       name = "Alexandra Moxin"
-      thumbnail = "img/host/Alex.jpg"
+      thumbnail = "img/host/Alex1.jpg"
       bio = "Founder and CEO of Advance Tech Media and Host of the Advance Tech Podcast, Alexandra is dedicated to advancing the research and responsible application of bleeding edge technology and in just one year has grown a global audience base to over 250,000 listens. Alexandra is CEO and CoFounder of a digital services company with an early stage social blockchain project and is a featured Speaker and Educator with the BC Blockchain Forum. She is a strong proponent of open source communities."
       [params.authors.Alex.social]
         twitter = "Alexandra933"
