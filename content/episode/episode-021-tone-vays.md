@@ -1,6 +1,6 @@
 +++
 
-Description = "This week we interview Tone Vays. For comprehensive shownotes, complete bios of our guests and links mentioned in the episode take a look below or click the episode title."
+Description = "This week we interview Tone Vays. Tone is a Blockchain and Bitcoin Researcher and Consultant and a very experienced Traditional Derivatives Trader. We dive into his background in the traditional finance world and ask Tone about how he got into Bitcoin. We ask Tone a number of questions about the properties including the price of Bitcoin, what makes sound money and what determines value. For comprehensive shownotes, complete bios of our guests and links mentioned in the episode take a look below or click the episode title."
 
 aliases = ["/21"]
 author = "Alexandra Moxin"
@@ -12,10 +12,10 @@ explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "1:06:15"
-#podcast_file = "advance-tech-podcast-021.mp3"
-#podcast_length = "1:06:15"
-#podcast_bytes = "47666966"
+podcast_duration = "1:08:29"
+podcast_file = "advance-tech-podcast-021.mp3"
+podcast_length = "1:08:29"
+podcast_bytes = "48407266"
 tags = []
 title = "Tone Vays, Blockchain/Bitcoin Researcher and Derivatives Trader"
 youtube = ""
@@ -24,8 +24,7 @@ draft = "True"
 
 Written by Alexandra Moxin
 
-This week we interview Tone Vays. Tone is a Blockchain and Bitcoin Researcher and Consultant and a very experienced Traditional Derivatives Trader. We dive into his background in the traditional finance world and ask Tone about how he got into Bitcoin. We ask Tone about a number of questions about the properties of Bitcoin, what makes sound money and what determines value. We ask Tone his thoughts about the price of
-Bitcoin, trading, technical analysis and indicators and how these apply to Bitcoin, along with market makers and arbitrage.
+This week we interview Tone Vays. Tone is a Blockchain and Bitcoin Researcher and Consultant and a very experienced Traditional Derivatives Trader. We dive into his background in the traditional finance world and ask Tone about how he got into Bitcoin. We ask Tone a number of questions about the properties of Bitcoin, what makes sound money and what determines value. We ask Tone his thoughts about the price of Bitcoin, trading, technical analysis and indicators and how these apply to Bitcoin, along with market makers and arbitrage.
 
 We ask Tone about his Youtube channel and podcasts including some returning shows subscribers can look forward to watching. We talk about companies in the space who are getting it right and our mutual affinity for Blockstream. We discuss Baltic Honeybadger and Tone's upcoming Bitcoin conference Unconfiscatable which will be held January 23 - 26, 2019 in Las Vegas and include a celebrity Bitcoin poker game.
 
