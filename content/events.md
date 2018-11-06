@@ -7,6 +7,16 @@ title = "Events"
 
 <br></br>
 
+<h3>  Linux Plumbers Conference 2018 </h3>
+
+<img src="/img/sponsors/linuxplumbersvan2018.png" alt="drawing" style="width: 200px;"/>
+
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond.  LPC 2018 will be held November 13 to 15 in Vancouver, BC, Canada.  If you are interested in speaking, Microconference proposals are still being considered. Find out more and submit your abstract [here](https://linuxplumbersconf.org/event/2/abstracts/). We are looking forward to seeing you at the conference!
+
+Find out more about LPC 2018 and register **[here](https://linuxplumbersconf.org/event/2/page/7-attend)**
+
+<br></br>
+
 <h3> HackIT 4.0 - The 4th Global CyberSecurity Forum</h3>
 
 <img src="/img/sponsors/hackit.png" alt="drawing" style="width: 200px;"/>
