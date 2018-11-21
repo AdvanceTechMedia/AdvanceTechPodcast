@@ -19,7 +19,7 @@ podcast_bytes = "48407266"
 tags = []
 title = "Tone Vays, Blockchain/Bitcoin Researcher and Derivatives Trader"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
