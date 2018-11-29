@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode I spend some time with Dr. Angel Diaz, Vice President of Developer Technology, Open Source & Advocacy at IBM, Bryan Knouse and Nick Feuer of Project OWL the winning team of the Call for Code hackathon. For comprehensive shownotes, complete bios of our guests and links mentioned in the episode take a look below or click the episode title."
+Description = "In this episode I spend some time with Dr. Angel Diaz, Vice President of Developer Technology, Open Source and Advocacy at IBM, Bryan Knouse and Nick Feuer of Project OWL the winning team of the Call for Code hackathon. For comprehensive shownotes, complete bios of our guests and links mentioned in the episode take a look below, click the episode title or go to advancetechmedia.org."
 
 aliases = ["/22"]
 author = "Alexandra Moxin"

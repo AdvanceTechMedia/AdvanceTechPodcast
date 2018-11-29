@@ -1,7 +1,7 @@
 +++
 Title = "Taraqur Rahman"
 date = "2018-11-28T00:00:37-07:00"
-#Twitter = "tonevays"
+Twitter = "taraqur"
 #Website = "https://tonevays.com/"
 Type = "guest"
 #Facebook = "ToneVays"
