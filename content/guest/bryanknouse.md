@@ -1,23 +1,23 @@
 +++
-Title = "Tone Vays"
-date = "2018-10-16T00:00:37-07:00"
-Twitter = "tonevays"
-Website = "https://tonevays.com/"
+Title = "Bryan Knouse"
+date = "2018-11-28T00:00:37-07:00"
+Twitter = "bryanknouse"
+Website = "http://www.knou.se/"
 Type = "guest"
-Facebook = "ToneVays"
-Linkedin = "tone-vays-a5243899/"
+#Facebook = "ToneVays"
+Linkedin = "bryan-knouse/"
 #Pronouns = ""
-#GitHub = "jlopp"
-Thumbnail = "img/guest/tone_vays.jpg"
+GitHub = "knouse1344"
+Thumbnail = "img/guest/bryan_knouse.jpg"
 #Pinterest = ""
 #Instagram = "tonevays/"
-YouTube = "/tonevayslibertylifetrail"
+#YouTube = "/tonevayslibertylifetrail"
 draft = "False"
 
 +++
-Tone has worked on Wall Street for almost 10 years starting as a Risk Analyst at Bear Stearns and later becoming a VP at JP Morgan Chase in the aftermath of the 2008 financial crisis. His expertise is in Economic Trends, Trading and Risk Analysis. Ever since getting involved in the Crypto Currency ecosystem in early 2013, he has been very active in spreading the relevance and importance of this technology as it helps promote economic freedom. Tone has been featured in several Documentaries like [Magic Money & Bitcoin - Beyond the Bubble](https://www.magicmoneyfilm.com/). Tone is now an independent content creator at [ToneVays.com](https://tonevays.com/), [Liberty Life Trail](http://www.libertylifetrail.com/) and on his [YouTube Channel](https://www.youtube.com/tonevayslibertylifetrail) focused on sound economics & finance. Tone holds a Masters Degree in Financial Engineering from Florida State University along with Bachelor Degrees in Mathematics and Geology.
 
+Bryan is a software developer based out of New York City and is part of Project Owl - the winning team from the first Call for Code Hackathon.  Over the last decade, he has built a variety of cloud software tools for marketing agencies and enterprise companies in need of web development and data analytics.  He has competed in numerous software competitions viewing them as an outlet to quickly ideate, design, and prototype software solutions for a wide array of customers.
 
+Recently, Bryan has focused his efforts on AI technologies and how they are going to evolve much of the technology we use in everyday life.  In particular, he is focused on natural language technology and its developing ability to improve the speed and simplicity of traditional enterprise processes such as accumulating, cleansing, and analyzing data.
 
-
-
+You can find out more about Bryan via his [website](http://www.knou.se/)

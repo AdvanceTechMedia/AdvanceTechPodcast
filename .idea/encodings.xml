@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Encoding">
     <file url="file://$USER_HOME$/Desktop/edit/IBM_C4C2.aup" charset="US-ASCII" />
   </component>
+=======
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+>>>>>>> 457795eb21afc91ef48370ee5b6290dec8cfc0b2
 </project>

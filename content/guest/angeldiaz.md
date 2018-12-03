@@ -1,23 +1,22 @@
 +++
-Title = "Tone Vays"
-date = "2018-10-16T00:00:37-07:00"
-Twitter = "tonevays"
-Website = "https://tonevays.com/"
+Title = "Dr. Angel Diaz"
+date = "2018-11-28T00:00:37-07:00"
+Twitter = "angelluisdiaz"
+#Website = "https://tonevays.com/"
 Type = "guest"
-Facebook = "ToneVays"
-Linkedin = "tone-vays-a5243899/"
+#Facebook = "ToneVays"
+Linkedin = "diazangel/"
 #Pronouns = ""
 #GitHub = "jlopp"
-Thumbnail = "img/guest/tone_vays.jpg"
+Thumbnail = "img/guest/angel_diaz.jpeg"
 #Pinterest = ""
 #Instagram = "tonevays/"
-YouTube = "/tonevayslibertylifetrail"
+#YouTube = "/tonevayslibertylifetrail"
 draft = "False"
 
 +++
-Tone has worked on Wall Street for almost 10 years starting as a Risk Analyst at Bear Stearns and later becoming a VP at JP Morgan Chase in the aftermath of the 2008 financial crisis. His expertise is in Economic Trends, Trading and Risk Analysis. Ever since getting involved in the Crypto Currency ecosystem in early 2013, he has been very active in spreading the relevance and importance of this technology as it helps promote economic freedom. Tone has been featured in several Documentaries like [Magic Money & Bitcoin - Beyond the Bubble](https://www.magicmoneyfilm.com/). Tone is now an independent content creator at [ToneVays.com](https://tonevays.com/), [Liberty Life Trail](http://www.libertylifetrail.com/) and on his [YouTube Channel](https://www.youtube.com/tonevayslibertylifetrail) focused on sound economics & finance. Tone holds a Masters Degree in Financial Engineering from Florida State University along with Bachelor Degrees in Mathematics and Geology.
+Always on the move, Dr. Angel Diaz is IBM’s Vice President of Developer Technology, Open Source & Advocacy. His passion is to leverage technology to drive positive change. Specifically to empower developers to solve the world’s problems – smarter, faster, together – all in the open source world. Prior to this role, as IBM’s VP of Cloud Technology and Architecture, Angel and his team were responsible for the technology, architecture and strategy behind IBM’s Hybrid, open and secure cloud – empowering our clients with a new way to work.
 
+When he’s not working to bring greater value to clients through a flexible & interoperable cloud, he’s IBM’s leader for open technology where he is spearheading an industry IT renaissance driven by open source code, community and culture. A master of the art-of- the-possible, Dr. Diaz has been the driving force behind many of the most important Cloud, Data and Mobile open technology industry movements – all focused on enabling innovation that is built on simple, practical solutions.
 
-
-
-
+With a career rooted in IBM Research, building the standards upon which the web runs, and having successfully lead both business & development teams at IBM, Dr. Diaz has a unique perspective on technology’s effect on today’s opportunities. In those rare moments of stillness, you might find Dr. Diaz vanquishing his foes across Azeroth, or forging amazing new worlds in Minecraft with his daughter.
