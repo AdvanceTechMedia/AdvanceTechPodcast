@@ -109,7 +109,10 @@ media_prefix = "http://advancetechmedia.org/"
     [params.authors.Alex]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex1.jpg"
-      bio = "Founder and CEO of Advance Tech Media and Host of the Advance Tech Podcast, Alexandra is dedicated to advancing the research and responsible application of bleeding edge technology and in just one year has grown a global audience base to over 250,000 listens. Alexandra is CEO and CoFounder of a digital services company with an early stage social blockchain project and is a featured Speaker and Educator with the BC Blockchain Forum. She is a strong proponent of open source communities."
+      bio = "<p>Founder and CEO of Advance Tech Media and Host of the Advance Tech Podcast, Alexandra is dedicated to advancing the research and responsible application of bleeding edge technology and in just over a year has grown a global audience base to 1M listens. Alexandra advises companies in the Blockchain space and speaks about Bitcoin and why Blockchain is not a solution for every project.</p><p>Alexandra is the CoFounder and President of a digital services company working on a distributed social networking platform currently operating in stealth mode. Alexandra is developing her experience in the field of Artificial Intelligence and Machine Learning and has given talks at conferences and for private groups both nationally and internationally. She is a strong proponent of open source communities.</p>"
+
+
+
       [params.authors.Alex.social]
         twitter = "Alexandra933"
         linkedin = "alexandra-moxin"

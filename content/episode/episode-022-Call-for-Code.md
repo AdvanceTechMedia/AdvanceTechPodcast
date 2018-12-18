@@ -13,13 +13,13 @@ explicit = "no"
 #images = [""]
 news_keywords = []
 podcast_duration = "1:10:04"
-#podcast_file = "advance-tech-podcast-022.mp3"
+podcast_file = "advance-tech-podcast-022.mp3"
 podcast_length = "1:10:04"
 podcast_bytes = "48136473"
 tags = []
 title = "Call for Code - Project OWL"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -28,8 +28,7 @@ In this episode I spend some time with Dr. Angel Diaz, Vice President of Develop
 
 Before getting into Call for Code I ask Dr. Diaz about his background which includes working with Sir Tim Berners-Lee, Director of the World Wide Web Consortium (W3C), on some of the original web standards and technologies. We talk about the Call for Code program, what it is and how it all began. Dr. Diaz comments on Project OWL's solution and how you can get involved in the next Call for Code in 2019. We also discuss the benefits of open source along with some of Dr. Diaz's favourite open source initiatives at IBM.
 
-Next up, I speak with Bryan Knouse and Nick Feuer from Project OWL the winning team of the Call for Code hackathon. Project OWL is
-
+Next up, I speak with Bryan Knouse and Nick Feuer from Project OWL the winning team of the Call for Code hackathon. We delve into Nick and Bryan's backgrounds and the fluid leadership style the team used during the competition. We chat about Project OWL, the solution which uses LoRa technology, clusterducks and duck links, some of the challenges the team faced and the personal impact behind creating the solution.
 
 
 
@@ -58,15 +57,8 @@ Next up, I speak with Bryan Knouse and Nick Feuer from Project OWL the winning t
 * [Grace Kim, Design and Research Lead at Twitter](https://www.linkedin.com/in/gracekim1/)
 * [Cloud Native Computing Foundation](https://www.cncf.io/)
 * [XML](https://www.w3.org/XML/)
-
-
-
-
-
-
-
-
-
-
-
+* [Open source at IBM](https://developer.ibm.com/open/)
+* [The World Wide Web Consortium (W3C)](https://www.w3.org/)
+* [Dr. Angel Luis Diaz on twitter](https://twitter.com/angelluisdiaz)
+* [LoRa](https://en.wikipedia.org/wiki/LoRa)
 

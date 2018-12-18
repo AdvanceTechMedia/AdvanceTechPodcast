@@ -1,6 +1,6 @@
 +++
 Title = "Dr. Angel Diaz"
-date = "2018-11-28T00:00:37-07:00"
+date = "2018-12-02T00:00:37-07:00"
 Twitter = "angelluisdiaz"
 #Website = "https://tonevays.com/"
 Type = "guest"
