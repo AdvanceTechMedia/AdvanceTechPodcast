@@ -1,6 +1,6 @@
 +++
 Title = "Andreas M. Antonopoulos "
-date = "2018-11-28T00:01:37-07:00"
+date = "2018-12-18T00:01:37-07:00"
 Twitter = "aantonop"
 Website = "https://antonopoulos.com/"
 Type = "guest"
