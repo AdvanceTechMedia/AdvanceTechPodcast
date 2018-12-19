@@ -12,7 +12,7 @@ Thumbnail = "img/guest/andreas_m_antonopoulos.jpg"
 #Pinterest = ""
 #Instagram = ""
 YouTube = "/aantonop"
-draft = "True"
+draft = "False"
 
 +++
 Andreas M. Antonopoulos is a best-selling author, speaker, educator, and one of the world’s foremost bitcoin and open blockchain experts. He is known for delivering electric talks that combine economics, psychology, technology, and game theory with current events, personal anecdote, and historical precedent effortlessly transliterating the complex issues of blockchain technology out of the abstract and into the real world.

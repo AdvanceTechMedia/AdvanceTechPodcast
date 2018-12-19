@@ -68,4 +68,4 @@ You can also sponsor the **Advance Tech Podcast** by sending us bitcoin:
 
 Special Thanks to:
 
-**Adaptech Solutions** - Building software that defies convention with modern best-practices.  Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Solutions](https://adaptechsolutions.net/) today to see why they’re different.
+**Adaptech Group** - Building software that defies convention with modern best-practices.  Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Group](https://www.adaptechgroup.com/) today to see why they’re different.
