@@ -24,7 +24,7 @@ draft = "False"
 
 Written by Alexandra Moxin
 
-Cale Moodie is CEO and Director of Neptune DASH. Neptune DASH is the first public blockchain company that is entirely focused on the DASH eco-system and the first public company to exclusively own and operate masternode assets as a business. Fidelity investments is a major and supportive shareholder of Neptune DASH.
+Cale Moodie is CEO and Director of Neptune DASH. Neptune DASH is the first public blockchain company that is entirely focused on the DASH ecosystem and the first public company to exclusively own and operate masternode assets as a business. Fidelity investments is a major and supportive shareholder of Neptune DASH.
 
 Cale's career in public market finance spans well over a decade in roles as founder, CFO, director and audit committee chair for numerous publicly traded companies on the TSX-V. He has been involved in over $100M in financings and instrumental in numerous transactions including the sale of Underworld Resources (as CFO) to Kinross Gold for $140M in 2010. Prior to working in industry, Cale worked for KPMG LLP in Vancouver and has been an avid follower and investor in the digital currency and blockchain space since 2013.
 
