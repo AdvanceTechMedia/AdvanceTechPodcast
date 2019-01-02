@@ -1,18 +1,18 @@
 +++
-Title = "Andreas M. Antonopoulos"
-date = "2018-12-18T00:01:37-07:00"
-Twitter = "aantonop"
-Website = "https://antonopoulos.com/"
+Title = "Roman Snitko"
+date = "2019-01-04T00:01:37-07:00"
+#Twitter = "aantonop"
+#Website = "https://antonopoulos.com/"
 Type = "guest"
-Facebook = "AndreasMAntonopoulos/"
-Linkedin = "amantonopoulos/"
+#Facebook = "AndreasMAntonopoulos/"
+#Linkedin = "amantonopoulos/"
 #Pronouns = ""
-GitHub = "aantonop"
-Thumbnail = "img/guest/andreas_m_antonopoulos.jpg"
+#GitHub = "aantonop"
+#Thumbnail = "img/guest/andreas_m_antonopoulos.jpg"
 #Pinterest = ""
 #Instagram = ""
-YouTube = "/aantonop"
-draft = "False"
+#YouTube = "/aantonop"
+draft = "True"
 
 +++
 Andreas M. Antonopoulos is a best-selling author, speaker, educator, and one of the world’s foremost bitcoin and open blockchain experts. He is known for delivering electric talks that combine economics, psychology, technology, and game theory with current events, personal anecdote, and historical precedent effortlessly transliterating the complex issues of blockchain technology out of the abstract and into the real world.
