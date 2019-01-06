@@ -3,7 +3,17 @@ date = "2017-04-27T15:19:36-05:00"
 title = "Events"
 
 +++
-**Advance Tech Media** is pleased to showcase and attend the following events!
+
+<br></br>
+
+<h3>  Unconfiscatable: The Bitcoin not Blockchain Conference and Celebrity Poker Tournament </h3>
+
+<img src="/img/sponsors/unconfiscatable.png" alt="drawing" style="width: 200px;"/>
+
+The Unconfiscatable Conference will be a Bitcoin event you don’t want to miss, bringing you high profile speakers from the world of Bitcoin to discuss the technology with emphasis on both scalability and privacy. There will be absolutely no product pitches or ICO’s. This will be the ultimate place to learn, listen, teach and network with fellow Bitcoiners while exposing Blockchains that don’t utilize Proof of Work.
+
+Find out more about Unconfiscatable and register **[here](https://tonevays.com/conference/unconfiscatable)**
+
 
 <br></br>
 
