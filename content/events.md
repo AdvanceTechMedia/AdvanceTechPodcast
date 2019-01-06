@@ -6,7 +6,7 @@ title = "Events"
 
 <br></br>
 
-<h3>  Unconfiscatable: The Bitcoin not Blockchain Conference and Celebrity Poker Tournament </h3>
+<h3>  Unconfiscatable - The Bitcoin not Blockchain Conference and Celebrity Poker Tournament </h3>
 
 <img src="/img/sponsors/unconfiscatable.png" alt="drawing" style="width: 200px;"/>
 
