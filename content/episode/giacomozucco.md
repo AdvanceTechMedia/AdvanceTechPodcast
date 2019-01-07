@@ -1,18 +1,18 @@
 +++
 Title = "Giacomo Zucco"
-date = "2019-01-04T00:01:37-07:00"
+date = "2019-01-05T00:01:37-07:00"
 Twitter = "giacomozucco"
 Website = "http://romansnitko.com/"
 Type = "guest"
-#Facebook = "/roman.snitko.7"
-#Linkedin = ""
+Facebook = "giacomo.zucco"
+Linkedin = "/giacomozucco"
 #Pronouns = ""
-GitHub = "snitko"
-Thumbnail = "img/guest/roman_snitko.jpg"
+GitHub = "BHBNETWORK"
+Thumbnail = "img/guest/giacomo_zucco.jpg"
 #Pinterest = ""
 #Instagram = ""
-YouTube = "/channel/UCgujEoZqX_FfDTLb3Uuhsdg"
+#YouTube = "/channel/UCgujEoZqX_FfDTLb3Uuhsdg"
 draft = "True"
 
 +++
-Roman Snitko is a Software Engineer and CTO for HODL HODL. Roman is into Bitcoin, web, voluntarism, running and eats failure for breakfast!
+Giacomo Zucco is Director at BHB.Network CEO of BHBBlockchainlab and CoFounder of the B Foundation.
