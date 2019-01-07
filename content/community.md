@@ -10,6 +10,19 @@ Check out some of the cool initiatives our friends are up to!
 
 
 <br></br>
+<img src="/img/sponsors/wsclogo.png" alt="drawing" style="width: 200px;"/>
+
+The [**Women’s Society of Cyberjutsu (WSC)**](https://womenscyberjutsu.org/?) is a 501(c)3 non-profit  passionate about helping and empowering women to succeed in the Cybersecurity field. They are a community of women supporting each other through every step of her career journey. Whether you're transitioning to cybersecurity, just entering the field, or are a seasoned vet, WSC's top-notch hands-on technical training and workshops provide the practical skills that translate into real world experience. Sponsor WSC and help train the next generation of cyber ninjas and build a pipeline to bridge the gender divide in cyber.
+
+<br></br>
+
+<img src="/img/sponsors/thrashingcodelogo.png" alt="drawing" style="width: 200px;"/>
+
+[**Thrashing Code**](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ) by Adron Hall. Adron is often referred to as the “guy with solutions”. If there’s a question about how something should be built, he is the go to guy for coming up with how to get things done, deployed, and into production. With his calm and collected demeanor, and sometimes snarky wit, Adron is the person you want building teams and creating systems. His ability to impart upon others energy, knowledge, and enthusiasm is exceptional.
+
+<br></br>
+
+<img src="/img/sponsors/singularityNET.png" alt="drawing" style="width: 200px;"/>
 
 The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is a civilized place for public discussion to share skills, knowledge and interests through ongoing conversation. Participants are encouraged to move the discussion forward by contributing to and engaging in reasoned counter-arguments that improve the conversation. The SingularityNET platform enables multiple AI computing agents to work as a whole to provide various services in a distributed and decentralized way.
 
@@ -23,6 +36,12 @@ The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is
 <br></br>
 
 [**Jameson Lopp's Bitcoin Resources**](https://lopp.net/bitcoin.html) is one of the most comprehensive sources about Bitcoin you'll find on the web and is grounded in knowledge and sound principles. Bitcoin is a revolutionary system which levels the playing field but it's not easy to understand without putting in a little time. Jameson encourages you to make sure you have a decent grasp of the system before you store a significant amount of value in it.
+
+<br></br>
+
+<img src="/img/sponsors/bucerias3raedad.jpeg" alt="drawing" style="width: 200px;"/>
+
+[**Bucerias Tercera Edad**](https://buceriasterceraedad.org/) has a mission to enhance the quality of life of Mexico’s aging, most vulnerable citizens while enabling them to retain their dignity. Through fund raising Bucerias Tercera Edad ensures the betterment of seniors and individuals in the most dire straights receive assistance through the community. They are breaking ground on a full time assisted living care home providing quality of life for elderly Mexicans in early January 2019.
 
 <br></br>
 
