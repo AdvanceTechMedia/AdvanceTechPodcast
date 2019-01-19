@@ -5,11 +5,10 @@ title = "How to Sponsor the Advance Tech Podcast"
 aliases = "/sponsor"
 +++
 
-<br></br>
 
-Please help get your favorite episodes out there and widen our reach by visiting us on your favourite podcast platform and giving us a rating or leaving a review. You can also like, follow and endorse our content on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), and [Instagram](https://www.instagram.com/advance_tech_media/)!
+Help get your favorite episodes out there and widen our reach by visiting us on your favourite podcast platform and giving us a rating or leaving a review. You can also like, follow and endorse our content on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), and [Instagram](https://www.instagram.com/advance_tech_media/)!
 
-Interested in becoming a dedicated sponsor of the **Advance Tech Podcast** or sponsoring an upcoming episode? Send us an [email](mailto:alexandra.moxin@advancetechmedia.org)
+
 
 
 You can support us via **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)**
@@ -20,48 +19,11 @@ You can also sponsor the **Advance Tech Podcast** by sending us bitcoin:
 
 12qQFgRgQv3XkzqCpACkSA3XeM5gpCRDD9
 
-
-
-
 <br></br>
 
-  <script>
-    paypal.Button.render({
-      env: 'production', // Or 'sandbox',
+Interested in becoming a dedicated sponsor of the **Advance Tech Podcast** or sponsoring an upcoming episode? Send us an [email](mailto:info@advancetechmedia.org)
 
-      commit: true, // Show a 'Pay Now' button
 
-      style: {
-        color: 'gold',
-        size: 'small'
-      },
-
-      payment: function(data, actions) {
-        /*
-         * Set up the payment here
-         */
-      },
-
-      onAuthorize: function(data, actions) {
-        /*
-         * Execute the payment here
-         */
-      },
-
-      onCancel: function(data, actions) {
-        /*
-         * Buyer cancelled the payment
-         */
-      },
-
-      onError: function(err) {
-        /*
-         * An error occurred during the transaction
-         */
-      }
-    }, '#paypal-button');
-  </script>
-</body>
 
 
 <h3> Sponsors </h3>

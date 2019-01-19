@@ -28,7 +28,7 @@ In this episode we interview Giacomo, Zucco, Director at BHB Network, CoFounder 
 
 We dig into some of Giacomo's writing and his presentation at Baltic Honeybadger along with some of the misconceptions about the term Bitcoin Maximalism. I ask Giacomo about his thoughts on Bitcoin and the principles sound money and we talk about the Proof of Keys day held on Jan 3, 2019 and the principles behind it. Further along we talk about the B Foundation and Giacomo shares what Bitcoiners, developers and donating parties can expect. 
 
-I ask Giacomo about what he thinks will drive Bitcoin adoption and we close with his questions to our audience which includes whether you participated in Proof of Keys day and why, and if you are running a full node (and if not, why not). You can find and follow Giacomo on [twitter](https://twitter.com/giacomozucco) or telegram. 
+I ask Giacomo about what he thinks will drive Bitcoin adoption and we close with upcoming conference appearances and his questions to our audience which include whether you participated in Proof of Keys day and why, and if you are running a full node (and if not, why not). You can find and follow Giacomo on [twitter](https://twitter.com/giacomozucco) or telegram. 
 
 Hope you enjoy this episode!
 
@@ -47,3 +47,5 @@ Hope you enjoy this episode!
 * [TheB Foundation](https://theb.foundation/)
 * [Tough Questions: The B.Foundation, interview with Giacomo Zucco by Juan S. Galt](https://medium.com/@eljuangalt/giacomo-zucco-risks-plan-of-the-b-foundation-bitcoin-f9e9a418827f)
 * [BHB Network / Blockchain Lab github.io](https://bhbnetwork.github.io/website/)
+* [Unconfiscatable, January 26 - 28, Las Vegas, NV](https://tonevays.com/conference/unconfiscatable)
+* [Breaking Bitcoin, June 8 and 9 in Amsterdam twitter account (find latest updates here, conference site will be available soon)](https://twitter.com/breakingbitcoin?lang=en)
