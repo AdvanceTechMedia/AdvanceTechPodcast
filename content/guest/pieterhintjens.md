@@ -1,18 +1,26 @@
 +++
-Title = "Giacomo Zucco"
-date = "2019-01-17T00:01:37-07:00"
-Twitter = "giacomozucco"
-Website = "https://www.blockchainlab.it/"
+Title = "Pieter Hintjens"
+date = "2019-01-31T00:01:37-07:00"
+#Twitter = "giacomozucco"
+Website = "http://hintjens.com/"
 Type = "guest"
-Facebook = "giacomo.zucco"
-Linkedin = "/giacomozucco"
+#Facebook = "giacomo.zucco"
+#Linkedin = "/giacomozucco"
 #Pronouns = ""
-GitHub = "BHBNETWORK"
-Thumbnail = "img/guest/giacomo_zucco.jpg"
+#GitHub = "BHBNETWORK"
+Thumbnail = "img/guest/pieter-hintjens.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = "/channel/UCgujEoZqX_FfDTLb3Uuhsdg"
 draft = "True"
 
 +++
-Giacomo Zucco is Director at BHB Network and Co-Founder of the B Foundation (aka TheB). Giacomo has a background as a Theoretical Physicist and holds a degree in   Physics from the University of Milan. He is a former Technology Consultant for Accenture since 2009 and is a serial entrepreneur in the Bitcoin scene since 2013. In 2015 Giacomo founded the Milan-based research/development/incubation/consulting firm BlockchainLab (now moved to Switzerland), as CEO he supported the creation of a world-class competence center in the field. He now sponsors non-profit, open source initiatives in Bitcoin through BHB Network and TheB.
+Pieter Hintjens is a writer, programmer and thinker who has spent decades building large software systems and on-line communities, which he describes as "Living Systems". He is an expert in distributed computing, having written over 30 protocols and distributed software systems. He founded the ZeroMQ free software project in 2007, and in 2013 launched the edgenet project to build a fully secure, anonymous peer-to-peer Internet. He is the author of "ZeroMQ - Messaging for Many Applications" (O'Reilly), "Code Connected", and "Culture and Empire: Digital Revolution". His technology and digital anthropology blog is at hintjens.com. His latest book is "The Psychopath Code". He is now writing "Scalable C".
+
+He's been a strong critic of the patent system, leading the European effort to ban software patents from 2005 to 2007. In "Digital Revolution" he writes, The patent system has no function other than to enable gangsters dressed in suits to call themselves "honest businessmen.".
+
+His company, iMatix, provides support to the ZeroMQ market, and in this role he's traveled the world, teaching, coaching and helping others to organize successfully.
+
+He defined the term "Social Architecture" as the process, and the product, of planning, designing, and growing an online community, and has promoted the techniques of social architecture in articles and at conferences.
+
+In his free time he plays piano, badly. He earned his Certified Pistol Instructor badge in Waxahachie, Texas in 2012, though does not own a gun. He learned to drum with Mamady Keita in Brussels in 1998-2000, and played for fifteen years with African musicians in Belgium. He lives in Brussels with his family. He's a member of Mensa and Rotary International and spends most of his time writing and contributing to ZeroMQ and other open source projects.

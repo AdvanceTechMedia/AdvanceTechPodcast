@@ -3,9 +3,9 @@
 Description = "In this special edition memorial episode Adam interviews Pieter Hintjens. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/0"]
-author = "Alexandra Moxin, Adam Dymitruk"
+author = "Alexandra Moxin"
 categories = []
-date = "2019-02-01T00:00:01-07:00"
+date = "2019-01-31T00:00:01-07:00"
 episode = "0"
 episode_image = "img/guest/pieter-hintjens.jpg"
 explicit = "no"
