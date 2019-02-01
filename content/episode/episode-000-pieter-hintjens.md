@@ -1,21 +1,21 @@
 +++
 
-Description = "In this special edition memorial episode Adam interviews Pieter Hintjens. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "In this special edition memorial episode Adam interviews Pieter Hintjens. Pieter was a published author, an expert in distributed computing, a passionate supporter of free software and a very dear friend. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/0"]
-author = "Alexandra Moxin"
+author = "Alexandra Moxin, Adam Dymitruk"
 categories = []
-date = "2019-01-31T00:00:01-07:00"
+date = "2019-02-01T00:00:01-07:00"
 episode = "0"
 episode_image = "img/guest/pieter-hintjens.jpg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "1:02:47"
-#podcast_file = "advance-tech-podcast-000.mp3"
-#podcast_length = "1:02:47"
-#podcast_bytes = "43612302"
+podcast_duration = "1:21:04"
+podcast_file = "advance-tech-podcast-000.mp3"
+podcast_length = "1:21:04"
+podcast_bytes = "56648525"
 tags = []
 title = "Pieter Hintjens - ZMQ, tech, ideas, community, writing and life"
 youtube = ""
@@ -24,22 +24,39 @@ draft = "True"
 
 Written by Alexandra Moxin
 
-"In this special edition memorial episode Adam interviews Pieter Hintjens. Pieter is 
+In this special edition memorial episode Adam interviews Pieter Hintjens. Pieter was a published author, an expert in distributed computing, a passionate supporter of free software and a very dear friend.
 
-In this episode we interview Giacomo, Zucco, Director at BHB Network, CoFounder of TheB and accomplished Bitcoin entrepreneur since 2013. Join us as we ask Giacomo about his background and how he got into Bitcoin. We talk about the differences between Bitcoin and Blockchain and some of the parallels to the early internet.
+Pieter pioneered the concepts of [Social Architecture]() and [Living Systems]() and spent decades building large software systems and on-line communities. He founded the ZeroMQ free software project (2007) and the edgenet project (2013) with the goal of building a fully secure, anonymous peer-to-peer Internet. An accomplished architect and developer Pieter wrote over 30 protocols and distributed software systems.
 
-We dig into some of Giacomo's writing and his presentation at Baltic Honeybadger along with some of the misconceptions about the term Bitcoin Maximalism. I ask Giacomo about his thoughts on Bitcoin and the principles sound money and we talk about the Proof of Keys day held on Jan 3, 2019 and the principles behind it. Further along we talk about the B Foundation and Giacomo shares what Bitcoiners, developers and donating parties can expect. 
+Pieter authored several books including "ZeroMQ - Messaging for Many Applications" (O'Reilly), "Code Connected", "Culture and Empire: Digital Revolution" and "The Psychopath Code". Sadly, Pieter passed before completing his last book "Scalable C" but we've included links to Pieter's original writing and a current version being maintained by the booksbyus organization below.
 
-I ask Giacomo about what he thinks will drive Bitcoin adoption and we close with upcoming conference appearances and his questions to our audience which include whether you participated in Proof of Keys day and why, and if you are running a full node (and if not, why not). You can find and follow Giacomo on [twitter](https://twitter.com/giacomozucco) or telegram. 
+Through his company, iMatix, Pieter provided support to the ZeroMQ market, and in this role traveled the world teaching, coaching and helping others to organize successfully. A strong critic of the patent system, Pieter led the European effort to ban software patents from 2005 to 2007. 
 
-Hope you enjoy this episode!
+Pieter was one of those rare souls who made the world a better, more open place. If you enjoyed this episode, please consider donating to the foundations listed on Pieter's website. We also created a Bitcoin wallet below, all amounts will go to Pieter's family.
+
+[BW - lightning?]
+
 
 ### Show Links
 
-* Pieter Hintjens](http://hintjens.com/)
-ZeroMQ
-FOSDEM
+* [Pieter Hintjens](http://hintjens.com/)
+* [Pieter's Portfolio](http://hintjens.com/main:portfolio)
+* [Pieter's Github](https://github.com/hintjens)
+* [ZeroMQ](http://zeromq.org/)
+* [FOSDEM](https://fosdem.org/2019/)
+* [Pieter's Books](http://hintjens.com/books)
 
-books
-family
+* [ZeroMQ - Messaging for Many Applications (O'Reilly)]()
+* [Code Connected]()
+* [Culture and Empire: Digital Revolution]()
+* [The Psychopath Code]()
+
+* [Scalable C (maintained version)](https://github.com/booksbyus/scalable-c)
+* [ZeroMQ Blog](http://hintjens.com/blog:_zeromq)
+* [Pieter's Videos](https://vimeo.com/user10099130/videos?cjevent=41da0470266111e9815401210a1c0e0c)
+* [Pieter's Slides](https://www.slideshare.net/pieterh)
+* [Pieter's Stories](http://fiction.hintjens.com/)
+* [Adam's interview with Pieter Hintjens (Video)]((https://www.youtube.com/watch?v=ApqI9XLRk4k))
+* [Donate to Pieter's family/legacy](https://www.paypal.me/Hintjens)
+
 
