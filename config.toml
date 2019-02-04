@@ -49,7 +49,7 @@ themesdir = "themes"
 
 [params]
 site_theme = "blue"
-site_layout = "grid"
+site_layout = "row"
 enable_jumbo = "true"
 #truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
@@ -88,7 +88,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     #googleplus = "ArrestedDevOps"
     #pinterest = "nozzleio"
     instagram = "advance_tech_media"
-    youtube = "channel/UCNnsKDIRB-HjNUeuvj5IW9w"
+    #youtube = "channel/UCo0YHhPVPBienDjnvqDrh1g"
 
 
   [params.authors]

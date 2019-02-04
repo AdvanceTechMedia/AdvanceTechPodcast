@@ -3,7 +3,7 @@
 Description = "In this special edition memorial episode Adam interviews Pieter Hintjens. Pieter was a published author, an expert in distributed computing, a passionate supporter of free software and a very dear friend. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/0"]
-author = "Alexandra Moxin"
+author = "Adam Dymitruk"
 categories = []
 date = "2019-02-01T00:00:01-07:00"
 episode = "0"
