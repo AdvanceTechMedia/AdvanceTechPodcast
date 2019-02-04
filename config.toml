@@ -88,7 +88,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     #googleplus = "ArrestedDevOps"
     #pinterest = "nozzleio"
     instagram = "advance_tech_media"
-    #youtube = "channel/UCo0YHhPVPBienDjnvqDrh1g"
+    youtube = "channel/UCo0YHhPVPBienDjnvqDrh1g"
 
 
   [params.authors]
