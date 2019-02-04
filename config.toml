@@ -49,7 +49,7 @@ themesdir = "themes"
 
 [params]
 site_theme = "blue"
-site_layout = "row"
+site_layout = "grid"
 enable_jumbo = "true"
 #truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
@@ -64,10 +64,9 @@ pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e18972
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow. Hosted by Alexandra Moxin and Adam Dymitruk.</p><p>We connect you to founders, developers and influencers from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe below and check out our brand new [commercial site](https://advancetechmedia.com/)"
-media_prefix = "http://advancetechmedia.org/"
   [params.feed]
     feed_copyright = "Copyright 2017 - 2018 Advance Tech Media" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "Featuring people who are passionate about making the world a better place and pushing the boundaries of innovation." #no markdown or HTML
+    itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
     itunes_author = "Alexandra Moxin" #no markdown or HTML
     itunes_summary = "The Advance Tech Podcast brings you the latest in bleeding edge technology and features guests building the technology of tomorrow. We connect you to founders, developers and influencers from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker. Hosted by Alexandra Moxin and Adam Dymitruk." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Advance Tech Media"
