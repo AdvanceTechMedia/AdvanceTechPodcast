@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode we spend some time with Giacomo Zucco, Director at BHB Network and CoFounder of TheB. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "Alessandro Castellani explains the Akira project which puts professional web development tooling on the Linux desktop. We also discuss Alessandro's new role with Mozilla as the UI/UX director for Thunderbird email project."
 
 aliases = ["/26"]
 author = "Alexandra Moxin"
