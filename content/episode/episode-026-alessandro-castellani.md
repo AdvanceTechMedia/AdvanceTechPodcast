@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-026.mp3"
 podcast_length = "1:22:43"
 podcast_bytes = "58731897"
 tags = []
-title = "Alessandro Castellani - Founder of the Akira Project and Lead UX Architect for Thunderbird at Mozilla."
+title = "Alessandro Castellani - Founder of the Akira Project and Lead UX Architect for Thunderbird at Mozilla"
 youtube = ""
 draft = "False"
 +++
@@ -41,7 +41,7 @@ Hope you enjoy this episode!
 * [The Vala Programming Language](https://wiki.gnome.org/Projects/Vala)
 * [Elementary OS](https://elementary.io/)
 * [Blender](https://www.blender.org/)
-* [Next Gen on Netflix)](https://www.netflix.com/ca/title/80988892)
+* [Next Gen on Netflix](https://www.netflix.com/ca/title/80988892)
 * [Sequeler](https://github.com/Alecaddd/sequeler)
 * [Taxi](https://github.com/Alecaddd/taxi)
 * [Youtube Tutorials](https://www.youtube.com/AlessandroCastellani)

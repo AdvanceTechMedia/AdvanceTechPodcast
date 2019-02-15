@@ -1,6 +1,6 @@
 +++
 Title = "Samson Mow"
-date = "2019-02-07T00:01:37-07:00"
+date = "2019-02-14T00:01:37-07:00"
 Twitter = "Excellion"
 Website = "https://samsonmow.com/"
 Type = "guest"
