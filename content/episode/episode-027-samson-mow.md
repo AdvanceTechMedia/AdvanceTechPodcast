@@ -1,19 +1,18 @@
 +++
-
 Description = "In this episode Alex interviews Samson Mow, CSO at Blockstream, CEO at Pixelmatic and 25 percent of Magical Crypto Friends. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/26"]
+aliases = ["/27"]
 author = "Alexandra Moxin"
 categories = []
 date = "2019-02-03T00:00:01-07:00"
-episode = "26"
+episode = "27"
 episode_image = "img/guest/samson_mow.jpeg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
 #podcast_duration = "1:02:47"
-#podcast_file = "advance-tech-podcast-026.mp3"
+#podcast_file = "advance-tech-podcast-027.mp3"
 #podcast_length = "1:02:47"
 #podcast_bytes = "43612302"
 tags = []
