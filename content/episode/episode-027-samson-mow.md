@@ -38,8 +38,8 @@ Hope you enjoy this episode!
 [Magical Crypto Conference]()
 * [Samson Mow on Medium](https://medium.com/@Excellion)
 
-ICE Data Services V3
-Settlenet: tablecoin / Japanese Yen pairing
-Digital Garage partnership
-10th Birthday Video for Bitcoin: A Million Dreams
+[ICE Data Services V3]()
+[Settlenet: tablecoin / Japanese Yen pairing]()
+[Digital Garage partnership]()
+[10th Birthday Video for Bitcoin: A Million Dreams]()
     
