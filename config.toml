@@ -54,7 +54,7 @@ site_layout = "row"
 enable_jumbo = "true"
 #truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
-media_prefix = "https://advancetechmedia.org/"
+media_prefix = "http://advancetechmedia.org/"
 
 copyright_notice = "Copyright 2017 - 2019 [Advance Tech Media](https://advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
