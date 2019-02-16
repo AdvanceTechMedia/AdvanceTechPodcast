@@ -61,8 +61,8 @@ copyright_notice = "Copyright 2017 - 2019 [Advance Tech Media](https://advancete
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
 android_subscribe = "http://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
 google_play_subscribe = "https://play.google.com/music/listen?u=0#/ps/Ixpkgrijhidwwxqyz4qwfh4azhm"
-sticher_subscribe = "https://www.stitcher.com/s?fid=356388&refid=stpr"
-#soundcloud_subscribe = "https://soundcloud.com/user-716837148"
+stitcher_subscribe = "https://www.stitcher.com/s?fid=356388&refid=stpr"
+spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
