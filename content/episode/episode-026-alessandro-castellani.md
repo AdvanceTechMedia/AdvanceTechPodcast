@@ -1,6 +1,6 @@
 +++
 
-Description = "Alessandro Castellani explains the Akira project which puts professional design tooling on the Linux desktop. We also discuss Alessandro's new role with Mozilla as the Lead UX Architect for Thunderbird email project. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "Alessandro Castellani explains the Akira project which puts professional design tooling on the Linux desktop. We also discuss the new role Alessandro has with Mozilla as the Lead UX Architect for Thunderbird email project. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/26"]
 author = "Adam Dymitruk"
