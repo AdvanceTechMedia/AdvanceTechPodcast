@@ -4,6 +4,30 @@ title = "Events"
 
 +++
 
+
+
+<br></br>
+
+<h3> Magical Crypto Conference </h3>
+
+<img src="/img/sponsors/MCC2019.jpeg" alt="drawing" style="width: 200px;"/>
+
+The [**Magical Crypto Conference**](https://magicalcryptoconference.com/) is a collaboration between Charlie Lee, Samson Mow, Riccardo Spagni and WhalePanda aka the Magical Crypto Friends. In October 2017 they came up with the idea of doing a podcast together which turned out to be a big success. Every month since then they've released a podcast which is an interesting combination of news, technical issues explained in a way that everyone can understand it and humour. In May 2018 the 4 friends all went to Consensus. After the initial shock of seeing so little technical content and so many scammy ICOs they came up with the idea of doing Magical Crypto Conference: an affordable, content-driven conference aimed at both technical and less-technical people.
+
+You can get tickets **[here](https://magicalcryptoconference.com/)** while they're still available!
+
+<br></br>
+
+<h3> Baltic Honeybadger 2019 </h3>
+
+<img src="/img/sponsors/BH_2019.png" alt="drawing" style="width: 200px;"/>
+
+The [**Baltic Honeybadger**](https://bh2019.hodlhodl.com/) conference will be held in Riga, Latvia on September 14 and 15 and features world renown speakers and panelists including Adam Back, Peter Todd, Jimmy Song, WhalePanda, Giacomo Zucco, Nicolas Dorier, Tone Vays, Matthew Mežinskis, Pierre Rochard, Jeremy Welch, Jameson Lopp, Stephan Livera, Pavol Rusnak, Peter McCormack, and more.
+
+The Baltic Honeybadger conference is a major Bitcoin event in both Latvia and the world, dedicated to Bitcoin and technologies built around it. Their goal is to create an educational and community-driven event with high-profile speakers from all around the world and with different backgrounds — from technical engineers and cybersecurity professionals to business owners and bestselling authors.
+
+You can get tickets **[here](https://bh2019.hodlhodl.com/)** while they're still available!
+
 <br></br>
 
 <h3>  Unconfiscatable - The Bitcoin not Blockchain Conference and Celebrity Poker Tournament </h3>
@@ -79,10 +103,6 @@ To register for this event, please click **[here](https://www.blackhat.com/us-18
 
 <img src="/img/advancetechmediaavataritunes.png" alt="drawing" style="width: 200px;"/>
 
-The **[Advance Tech Social](https://www.meetup.com/Advance-Tech-Social/)** event connects Founders, Investors, the C-Suite and a group of like-minded technologists, disruptors and innovators, who are committed to pushing the boundaries and advancing bleeding edge tech, thinking and product.
+The **[Advance Tech Social](https://www.meetup.com/Advance-Tech-Social/)** event connects Founders, Investors, the C-Suite and a group of like-minded technologists, disruptors and innovators, who are committed to pushing the boundaries and advancing bleeding edge tech, industry, thinking, product and practices changing the world. We are a small, connected crew who make things happen!
 
-We meet on a monthly basis and cover topics ranging from bleeding edge tech (AI, crypto, blockchain, quantum computing, nanotechnology) to entrepreneurship, community and practices changing the world.
-
-We are a small, connected crew who make things happen!
-
-
+<br></br>
