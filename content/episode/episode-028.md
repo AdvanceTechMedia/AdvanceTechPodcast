@@ -12,11 +12,11 @@ explicit = "no"
 #images = [""]
 news_keywords = []
 #podcast_duration = "0:49:43"
-#podcast_file = "advance-tech-podcast-027.mp3"
+#podcast_file = "advance-tech-podcast-028.mp3"
 #podcast_length = "0:49:43"
 #podcast_bytes = "34744281"
 tags = []
-#title = "Samson Mow - CSO at Blockstream, CEO at Pixelmatic and 25% of Magical Crypto Friends"
+title = "Dogu Taskiran - CEO at Stambol Studios"
 youtube = ""
 draft = "True"
 +++
