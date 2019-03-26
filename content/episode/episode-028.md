@@ -1,12 +1,12 @@
 +++
-Description = "In this episode Alex interviews Samson Mow, CSO at Blockstream, CEO at Pixelmatic and 25 percent of Magical Crypto Friends. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "In this episode we spend some time with Dogu Taskiran, CEO of Stambol Studios, a Virtual Reality and Augmented Reality studio specializing in hyper-realistic immersive experiences. To access comprehensive show notes, a complete guest bio and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/28"]
 author = "Alexandra Moxin"
 categories = []
-date = "2019-03-03T00:00:01-07:00"
+date = "2019-03-25T00:00:01-07:00"
 episode = "28"
-#episode_image = "img/guest/samson_mow.jpeg"
+episode_image = "img/guest/dogu_taskiran.jpeg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
@@ -23,42 +23,23 @@ draft = "True"
 
 Written by Alexandra Moxin
 
-In this episode we spend some time with Dogu Taskiran, CEO of Stambol Studios. Stambol Studios is a creative technology studio specializing in highly immersive content and interactive applications. 
+In this episode we spend some time with Dogu Taskiran, CEO of Stambol Studios, a Virtual Reality and Augmented Reality studio specializing in hyper-realistic immersive experiences. Starting with incredibly real architectural renderings, 3D illustrations, models, and animations, Stambol has developed expertise in Virtual Reality (VR) and Augmented Reality (AR) providing the best experience for their clients by blurring the boundaries between art and engineering.
 
-experts in immersive technologies and visual design
+Headquartered in Vancouver, BC, Stambol Studios employs a team of dedicated artists, designers and engineers with a proven track record of success. Their engineers have developed award-winning games at Electronic Arts and Ubisoft, and built core graphics technologies at Microsoft in architecture, real estate development and construction industries.
 
-helping clients innovate by combining creativity with the power of disruptive technologies
-
-Samson Mow at the Blockstream office in Victoria, B.C., Canada. Samson is CSO at Blockstream, CEO at Pixelmatic and 25 percent of the Magical Crypto Friends. We discuss Samson's background in the game industry and how he got into the Bitcoin and cryptocurrency space. We cover a wide range of topics including Samson's motivation for joining Blockstream, along with some of the company's core values and offerings including Liquid and Blockstream Satellite.
-
-We talk a little about emerging trends in the space, what you may expect to see in 2019 and why Bitcoin is the gold standard in the cryptocurrency space. We talk about how the Magical Crypto Friends show started and what's next and touch on the upcoming Magical Crypto Conference, May 11 and 12 in New York City.
-
-I ask Samson about what his team is working on at Pixelmatic and the upcoming MMO RTS game Infinite Fleet and what its like balancing a dual leadership role. Samson gives a bit of insight into his line of hats including an upcoming design listeners can soon purchase at the [Blockstream Store](https://store.blockstream.com/). We talk about the ICE Data Services V3 announcement and the video [A Million Dreams](https://www.youtube.com/watch?v=vBCVMwQpsXQ) celebrating Bitcoin's 10th Birthday. In closing comments to our listeners, Samson asks what do you think money is and is it your money if you cannot truly control it.
-
-You can find and follow Samson on [twitter](https://twitter.com/Excellion) and meet him in person at the upcoming [Magical Crypto Conference](https://www.magicalcryptoconference.com/) this May 11 and 12 in NYC!
+You can find Dogu on [twitter](https://twitter.com/hdtaskiran) and follow the latest news on Stambol Studios' [blog](https://www.stambol.com/blog/) and [website](https://www.stambol.com/).
 
 Hope you enjoy this episode!
 
 ### Show Links
 
-* [Samson Mow on twitter](https://twitter.com/Excellion)
-* [Blockstream](https://blockstream.com/)
-* [Pixelmatic](https://www.pixelmatic.com/)
-* [Infinite Fleet](https://www.pixelmatic.com/games)
-* [Magical Crypto Friends](https://www.youtube.com/c/MagicalCryptoFriends)
-* [Magical Crypto Conference](https://www.magicalcryptoconference.com/)
-* [Samson Mow on Medium](https://medium.com/@Excellion)
-* [Liquid, by Blockstream](https://blockstream.com/liquid/)
-* [Blockstream Satellite](https://blockstream.com/satellite/)
-* [Blockstream 2018 Review: Countdown to Ignition](https://blockstream.com/2019/01/03/blockstream-2018-review/)
-* [Blockstream Satellite Asia-Pacific Phase 2 Coverage And Upcoming API Launch](https://blockstream.com/2018/12/17/Blockstream-satellite-asia-pacific-phase-2-coverage/)
-* [Digital Garage and Blockstream Partnership](https://www.prnewswire.com/news-releases/digital-garage-and-blockstream-expand-partnership-to-accelerate-cryptocurrency-and-blockchain-deployments-in-japan-300559984.html)
-* [Tokyo Tanshi](https://www.tokyotanshi.co.jp/en/)
-* [Cryptocurrency Data Feed (Crypto Feed) Partnership between Blockstream and Intercontinental Exchange (ICE)](https://blockstream.com/cryptofeed/)
-* [Announcing the Liquid Full Node and Wallet Release](https://blockstream.com/2018/11/06/liquid-full-node-and-wallet-release/)
-* [Lightning Network](https://blockstream.com/lightning/)
-* [Bitcoin Explorer, by Blockstream](https://blockstream.info/)
-* [Blockstream Store](https://store.blockstream.com/)
-* [10th Birthday Video for Bitcoin: A Million Dreams](https://www.youtube.com/watch?v=vBCVMwQpsXQ)
-* [Cryptovenus on twitter](https://twitter.com/cryptovenus)
+* [Dogu Taskiran on twitter](https://twitter.com/hdtaskiran)
+* [Dogu Taskiran on Linked In](https://www.linkedin.com/in/hdtaskiran/)
+* [Stambol Studios](https://www.stambol.com/)
+* [Stambol Studios on Twitter](https://twitter.com/StambolStudios)
+* [Stambol Studios on Linked In](https://www.linkedin.com/company/stambol-studios/)
+* [Stambol Studios on YouTube](https://www.youtube.com/c/StambolStudios)
+
+
+
     
