@@ -1,6 +1,6 @@
 +++
 Title = "Dogu Taskiran"
-date = "2019-03-25T00:01:37-07:00"
+date = "2019-03-28T00:01:37-07:00"
 Twitter = "hdtaskiran"
 Website = "https://www.stambol.com/"
 Type = "guest"
@@ -12,7 +12,7 @@ Thumbnail = "img/guest/dogu_taskiran.jpeg"
 #Pinterest = ""
 #Instagram = ""
 YouTube = "/c/StambolStudios"
-draft = "True"
+draft = "False"
 
 +++
 Dogu is a resourceful problem solver, results oriented leader and dedicated team player with a forward thinking approach.

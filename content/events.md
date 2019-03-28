@@ -8,6 +8,18 @@ title = "Events"
 
 <br></br>
 
+<h3> Understanding Bitcoin </h3>
+
+<img src="/img/sponsors/UBmalta2019.png" alt="drawing" style="width: 200px;"/>
+
+The [**Understanding Bitcoin**](https://understandingbtc.com/) conference held April 5 - 7 in Malta is hosted by Adam Back, Tone Vays and Giacomo Zucco and organized with a focus on the non-technical, non-developer users that want to increase their knowledge and technical participation in the Bitcoin network. Not everyone has the skills to take full advantage of what Bitcoin has to offer, so this event will help the average user be more familiar with best practices and understanding all aspects of interacting with the Bitcoin network. There will be practical hands on presentations of how to set up features, along with theoretical discussions removing the FUD and misconceptions surrounding the current state of Bitcoin’s Trustless Network.
+
+Some of the brightest minds in blockchain engineering have graciously given their time to be hands on in Malta to educate those that want to learn the technical art of using Bitcoin & remind us of the benefits that blockchain brings. If you have always wanted to contribute to the future of Trustless Decentralized Value Transfer that will change the world, but feel it’s been too complicated and only for the technologically inclined, this is the event you can’t miss. 
+
+You can get tickets **[here](https://understandingbtc.com/)** while they're still available!
+
+<br></br>
+
 <h3> Magical Crypto Conference </h3>
 
 <img src="/img/sponsors/MCC2019.jpeg" alt="drawing" style="width: 200px;"/>
