@@ -16,21 +16,21 @@ The [**Women’s Society of Cyberjutsu (WSC)**](https://womenscyberjutsu.org/?) 
 
 <br></br>
 
-<img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>
-
-[**Hass McCook, Bitcoin Evangelist. BEng, MEngSc, MBA**](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ) is a Chartered Civil Engineer and Project Manager with 8 years' experience in the end-to-end delivery, operation and financing of over $20 billion worth of mega public and private infrastructure, and large-scale residential projects. He approaches business from consulting, design, construction and client/asset-owner points of view. Hass has 4.5 years of strong focus on Bitcoin.
-
-<br></br>
-
 <img src="/img/sponsors/unhashedpodcast.png" alt="drawing" style="width: 200px;"/>
 
 The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) Unhashed Podcast breaks down the latest in Bitcoin news and developments and puts these into terms everyone can understand. Expect to be both entertained and educated about cryptocurrencies and blockchain. How do hardware wallets work and do they really keep you safe? Which crypto exchanges pose the greatest risk to the bitcoin ecosystem? Does Litecoin help or hinder bitcoin development? Expect the answers to these and many other questions from the Unhashed professionals Ruben, Bryan, Colin, and Mario!
 
 <br></br>
 
+<img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>
+
+[**Hass McCook, Bitcoin Evangelist. BEng, MEngSc, MBA**](https://www.youtube.com/HassMcCook) is a Chartered Civil Engineer and Project Manager with 8 years' experience in the end-to-end delivery, operation and financing of over $20 billion worth of mega public and private infrastructure, and large-scale residential projects. He approaches business from consulting, design, construction and client/asset-owner points of view. Hass has 4.5 years of strong focus on Bitcoin.
+
+<br></br>
+
 <img src="/img/sponsors/thrashingcodelogo.png" alt="drawing" style="width: 200px;"/>
 
-[**Thrashing Code**](https://www.youtube.com/HassMcCook) by Adron Hall. Adron is often referred to as the “guy with solutions”. If there’s a question about how something should be built, he is the go to guy for coming up with how to get things done, deployed, and into production. With his calm and collected demeanor, and sometimes snarky wit, Adron is the person you want building teams and creating systems. His ability to impart upon others energy, knowledge, and enthusiasm is exceptional.
+[**Thrashing Code**](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ) by Adron Hall. Adron is often referred to as the “guy with solutions”. If there’s a question about how something should be built, he is the go to guy for coming up with how to get things done, deployed, and into production. With his calm and collected demeanor, and sometimes snarky wit, Adron is the person you want building teams and creating systems. His ability to impart upon others energy, knowledge, and enthusiasm is exceptional.
 
 <br></br>
 
