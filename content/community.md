@@ -22,12 +22,6 @@ The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) Unhashed Podcast br
 
 <br></br>
 
-<img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>
-
-[**Hass McCook, Bitcoin Evangelist. BEng, MEngSc, MBA**](https://www.youtube.com/HassMcCook) is a Chartered Civil Engineer and Project Manager with 8 years' experience in the end-to-end delivery, operation and financing of over $20 billion worth of mega public and private infrastructure, and large-scale residential projects. He approaches business from consulting, design, construction and client/asset-owner points of view. Hass has 4.5 years of strong focus on Bitcoin.
-
-<br></br>
-
 <img src="/img/sponsors/thrashingcodelogo.png" alt="drawing" style="width: 200px;"/>
 
 [**Thrashing Code**](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ) by Adron Hall. Adron is often referred to as the “guy with solutions”. If there’s a question about how something should be built, he is the go to guy for coming up with how to get things done, deployed, and into production. With his calm and collected demeanor, and sometimes snarky wit, Adron is the person you want building teams and creating systems. His ability to impart upon others energy, knowledge, and enthusiasm is exceptional.
@@ -40,14 +34,21 @@ The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is
 
 <br></br>
 
+<img src="/img/sponsors/Jameson.png" alt="drawing" style="width: 200px;"/>
+
+[**Jameson Lopp's Bitcoin Resources**](https://lopp.net/bitcoin.html) is one of the most comprehensive sources about Bitcoin you'll find on the web and is grounded in knowledge and sound principles. Bitcoin is a revolutionary system which levels the playing field but it's not easy to understand without putting in a little time. Jameson encourages you to make sure you have a decent grasp of the system before you store a significant amount of value in it.
+
+<br></br>
+
 <img src="/img/sponsors/bitcoinandbeers.png" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin-N-Beers**](https://www.bitcoinandbeers.com/) is a volunteer run group of cryptocurrency enthusiasts. We meet to learn about cryptocurrency, blockchain and decentralized technology in comfortable low-key settings. You don't have to be a technophile, a crypto trader, or understand blockchain to join us. It's for experts and newbies in the community alike.
 
-
 <br></br>
 
-[**Jameson Lopp's Bitcoin Resources**](https://lopp.net/bitcoin.html) is one of the most comprehensive sources about Bitcoin you'll find on the web and is grounded in knowledge and sound principles. Bitcoin is a revolutionary system which levels the playing field but it's not easy to understand without putting in a little time. Jameson encourages you to make sure you have a decent grasp of the system before you store a significant amount of value in it.
+<img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>
+
+[**Hass McCook, Bitcoin Evangelist. BEng, MEngSc, MBA**](https://www.youtube.com/HassMcCook) is a Chartered Civil Engineer and Project Manager with 8 years' experience in the end-to-end delivery, operation and financing of over $20 billion worth of mega public and private infrastructure, and large-scale residential projects. He approaches business from consulting, design, construction and client/asset-owner points of view. Hass has 4.5 years of strong focus on Bitcoin.
 
 <br></br>
 
