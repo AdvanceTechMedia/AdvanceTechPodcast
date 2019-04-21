@@ -11,33 +11,34 @@ explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "1:12:16"
-#podcast_file = "advance-tech-podcast-029.mp3"
-#podcast_length = "01:12:16"
-#podcast_bytes = "48895850"
+podcast_duration = "1:10:09"
+podcast_file = "Adron.mp3"
+podcast_length = "01:10:09"
+podcast_bytes = "47404506"
 tags = []
-title = "Adron Hall - Coder, Messenger, Builder, Recon"
+title = "Adron Hall - Coder, Engineer, Architect"
 youtube = ""
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
 
-In this episode I spend some time with Adron Hall, software architect, engineer, coder, distributed systems advocate and Developer Advocate at DataStax.
+In this episode I spend some time with Adron Hall, software architect, engineer, coder, distributed systems advocate and Developer Advocate at DataStax. We cover Adron's background, what he does at DataStax and the story behind how he joined the team. We talk about Thrashing Code and some of the unconventional benefits he's learned from Twitch streaming and we dig into his talk and experience at DevOps Days in Vancouver.
 
+Adron is very active in the Seattle and Portland tech communities and along with running two very successful meetups he talks about organizing .NET Fringe, Node PDX and what you can expect at the upcoming artificial intelligence / machine learning conference [ML 4 All](http://ml4all.org/).
 
-Adron Hall is a principal engineer and systems architect. He runs the gamut of dev stacks from Ruby on Rails, Golang, Node.js and .NET, but a favorite of his these days is Go combined with a growing admiration for the chaos of JavaScript. As a software architect, engineer, or coder (depending on your preference of title wording), Adron is fluent in test-driven and behavior-driven development and passionate about DevOps. In his free time, he is involved with hackathons, user groups, and other tech community events.
+Toward the end of the episode, we go pretty in depth about Twitch, YouTube and self-hosted creative content, AI fairness and addressing the problem of bias in machine learning data sets, and Adron's community advocacy and policy work. You can find Adron on [twitter](https://twitter.com/adron) at the upcoming [ML4ALL](http://ml4all.org/) conference and on his blog [Composite Code](https://compositecode.blog/).
 
-Adron is often referred to as the “guy with solutions”. If there’s a question about how something should be built, he is the go to guy for coming up with how to get things done, deployed, and into production. With his calm and collected demeanor, and sometimes snarky wit, Adron is the person you want building teams and creating systems. His ability to impart upon others energy, knowledge, and enthusiasm is exceptional.
-
-You can find Adron on [twitter](https://twitter.com/adron) and on his blog [Composite Code](https://compositecode.blog/).
+We experienced a number of humourous technical difficulties - stay tuned for these at the end of the episode (after the outro music).
 
 Hope you enjoy this episode!
 
 ### Show Links
 
-* [Adron on twitter](https://twitter.com/adron)
+* [Adron on Twitter](https://twitter.com/adron)
 * [Adron's Blog - Composite Code](https://compositecode.blog/)
+* [Thrashing Code on Twitter](https://twitter.com/ThrashingCode)
+* [Adron / Thrashing Code on Twitch](https://www.twitch.tv/adronhall)
 * [Adron on Linked In](https://www.linkedin.com/in/adron/)
 * [ML4ALL](http://ml4all.org/)
 * [.NET Fringe](http://2017.dotnetfringe.org/)
@@ -45,12 +46,13 @@ Hope you enjoy this episode!
 * [Glenn Block](https://twitter.com/gblock)
 * [Alena Hall](https://twitter.com/lenadroid)
 * [Node PDX](http://nodepdx.org/)
+* [DevOps Days Vancouver, 2019](https://www.devopsdays.org/events/2019-vancouver/welcome/)
 * [Cassandra User Group](https://www.meetup.com/Cassandra-Seattle-Users/)
 * [Seattle Scalability](https://www.meetup.com/Seattle-Scalability-Meetup/)
 * [Lifestyle Hackers, Brunchers, and Cyclists](https://www.meetup.com/Lifestyle-Hackers-Cyclists-and-Brunchers/)
 * [Colligere](https://github.com/ThrashingCode/colligere)
 * [Data Diluvium](https://github.com/ThrashingCode/datadiluvium)
-* [InteroperabilityBlackBox](https://github.com/Adron/InteroperabilityBlackBox)
+* [Interoperability Black Box](https://github.com/Adron/InteroperabilityBlackBox)
 * [Sessionize](https://sessionize.com/adron)
 * [PaperCall](https://www.papercall.io/speakers/adron)
 * [Speaker Page w/ Collateral (i.e. Photos, Descriptions, etc)](https://compositecode.blog/speaking/)

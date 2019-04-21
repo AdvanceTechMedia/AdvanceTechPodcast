@@ -12,7 +12,7 @@ Thumbnail = "img/guest/adron_hall.jpg"
 #Pinterest = ""
 #Instagram = ""
 YouTube = "/channel/UCHSCXYCMOOS-VSUdRsn13GQ"
-draft = "True"
+draft = "False"
 
 +++
 

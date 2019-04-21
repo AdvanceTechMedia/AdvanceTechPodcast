@@ -8,18 +8,6 @@ title = "Events"
 
 <br></br>
 
-<h3> Understanding Bitcoin </h3>
-
-<img src="/img/sponsors/UBmalta2019.png" alt="drawing" style="width: 200px;"/>
-
-The [**Understanding Bitcoin**](https://understandingbtc.com/) conference held April 5 - 7 in Malta is hosted by Adam Back, Tone Vays and Giacomo Zucco and organized with a focus on the non-technical, non-developer users that want to increase their knowledge and technical participation in the Bitcoin network. Not everyone has the skills to take full advantage of what Bitcoin has to offer, so this event will help the average user be more familiar with best practices and understanding all aspects of interacting with the Bitcoin network. There will be practical hands on presentations of how to set up features, along with theoretical discussions removing the FUD and misconceptions surrounding the current state of Bitcoin’s Trustless Network.
-
-Some of the brightest minds in blockchain engineering have graciously given their time to be hands on in Malta to educate those that want to learn the technical art of using Bitcoin & remind us of the benefits that blockchain brings. If you have always wanted to contribute to the future of Trustless Decentralized Value Transfer that will change the world, but feel it’s been too complicated and only for the technologically inclined, this is the event you can’t miss. 
-
-You can get tickets **[here](https://understandingbtc.com/)** while they're still available!
-
-<br></br>
-
 <h3> Magical Crypto Conference </h3>
 
 <img src="/img/sponsors/MCC2019.jpeg" alt="drawing" style="width: 200px;"/>
@@ -30,6 +18,7 @@ You can get tickets **[here](https://magicalcryptoconference.com/)** while they'
 
 <br></br>
 
+
 <h3> Baltic Honeybadger 2019 </h3>
 
 <img src="/img/sponsors/BH_2019.png" alt="drawing" style="width: 200px;"/>
@@ -39,6 +28,19 @@ The [**Baltic Honeybadger**](https://bh2019.hodlhodl.com/) conference will be he
 The Baltic Honeybadger conference is a major Bitcoin event in both Latvia and the world, dedicated to Bitcoin and technologies built around it. Their goal is to create an educational and community-driven event with high-profile speakers from all around the world and with different backgrounds — from technical engineers and cybersecurity professionals to business owners and bestselling authors.
 
 You can get tickets **[here](https://bh2019.hodlhodl.com/)** while they're still available!
+
+<br></br>
+
+<h3> Understanding Bitcoin </h3>
+
+<img src="/img/sponsors/UBmalta2019.png" alt="drawing" style="width: 200px;"/>
+
+The [**Understanding Bitcoin**](https://understandingbtc.com/) conference held April 5 - 7 in Malta is hosted by Adam Back, Tone Vays and Giacomo Zucco and organized with a focus on the non-technical, non-developer users that want to increase their knowledge and technical participation in the Bitcoin network. Not everyone has the skills to take full advantage of what Bitcoin has to offer, so this event will help the average user be more familiar with best practices and understanding all aspects of interacting with the Bitcoin network. There will be practical hands on presentations of how to set up features, along with theoretical discussions removing the FUD and misconceptions surrounding the current state of Bitcoin’s Trustless Network.
+
+Some of the brightest minds in blockchain engineering have graciously given their time to be hands on in Malta to educate those that want to learn the technical art of using Bitcoin & remind us of the benefits that blockchain brings. If you have always wanted to contribute to the future of Trustless Decentralized Value Transfer that will change the world, but feel it’s been too complicated and only for the technologically inclined, this is the event you can’t miss.
+
+You can get tickets **[here](https://understandingbtc.com/)** while they're still available!
+
 
 <br></br>
 
@@ -111,10 +113,8 @@ To register for this event, please click **[here](https://www.blackhat.com/us-18
 
 <br></br>
 
-<h3>Advance Tech Social</h3>
+<h3>Vancouver Event Driven Meetup</h3>
 
-<img src="/img/advancetechmediaavataritunes.png" alt="drawing" style="width: 200px;"/>
-
-The **[Advance Tech Social](https://www.meetup.com/Advance-Tech-Social/)** event connects Founders, Investors, the C-Suite and a group of like-minded technologists, disruptors and innovators, who are committed to pushing the boundaries and advancing bleeding edge tech, industry, thinking, product and practices changing the world. We are a small, connected crew who make things happen!
+The **[Vancouver Event Driven Meetup](http://meetu.ps/c/2rhWY/fmybv/f)**, partnered with the Seattle, Boston, London (UK) groups is a meetup for anyone interested in learning, sharing experiences and expertise around the design, development, deployment and monitoring of event oriented architectures for distributed systems. We show you how to unlock the power of the CQRS and Event Sourcing patterns and apply these to cloud strategies such as Serverless, microservices and other event oriented approaches. The meetups will be technical and architectural in nature however all levels are welcome. Whether you're a developer, architect, designer, product owner or C-level executive join us to gain hands-on experience designing and building modern information systems.
 
 <br></br>
