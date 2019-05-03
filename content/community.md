@@ -52,6 +52,12 @@ The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is
 
 <br></br>
 
+<img src="/img/sponsors/HDC Logo.png" alt="drawing" style="width: 200px;"/>
+
+The [**Human Data Commons (HDC) Foundation**](https://humandatacommons.org/) is a non-profit committed to helping create a more equitable and sustainable digital future for all. HDC is developing a network of tech and social innovators passionate about empowering citizens as participants in the digital future. Join us as a sponsor for ParTecK, our signature event, and support our network as we seek to expand.
+
+<br></br>
+
 <img src="/img/sponsors/bucerias3raedad.jpeg" alt="drawing" style="width: 200px;"/>
 
 [**Bucerias Tercera Edad**](https://buceriasterceraedad.org/) has a mission to enhance the quality of life of Mexico’s aging, most vulnerable citizens while enabling them to retain their dignity. Through fund raising Bucerias Tercera Edad ensures the betterment of seniors and individuals in the most dire straights receive assistance through the community. They are breaking ground on a full time assisted living care home providing quality of life for elderly Mexicans in early January 2019.
