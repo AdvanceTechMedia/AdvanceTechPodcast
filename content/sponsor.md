@@ -29,4 +29,4 @@ Thank you to our sponsors! Interested in sponsoring the **Advance Tech Podcast**
 
 <img src="/img/sponsors/adaptech.jpg" alt="drawing" style="width: 200px;"/>
 
-**[Adaptech Group](https://www.adaptechgroup.com/)** - Building software that defies convention with modern best-practices.  Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit today to see why they’re different.
+**[Adaptech Group](https://www.adaptechgroup.com/)** - Design, Build and Secure your solutions without the risk of a runaway project. Adaptech Group's unique fixed price model with a no strings attached warranty gives your business the advantage to pull ahead of your competition!
