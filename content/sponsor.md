@@ -21,4 +21,12 @@ Please consider supporting the development of new shows on **[Patreon](https://w
 Thank you to our sponsors! Interested in sponsoring the **Advance Tech Podcast** or being featured on an upcoming episode? Send us an [email](mailto:info@advancetechmedia.org)
 
 
-**Adaptech Group** - Building software that defies convention with modern best-practices.  Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit [Adaptech Group](https://www.adaptechgroup.com/) today to see why they’re different.
+<img src="/img/sponsors/PeerBLUELogo.png" alt="drawing" style="width: 200px;"/>
+
+**[Peer.Social](https://peer.social/)** is a group of dedicated decentralists researching and developing new architectures and new technologies to solve some of the most pressing problems of our time, starting with social media.  Decentralisation is key to restoring the balance of power on the Internet by giving back ownership of their own data to users, empowering them with the freedom of human-to-human connections without Big Brother spying on them.  Our first project is a decentralised, peer-to-peer, encrypted, personally-managed social network.
+
+<br></br>
+
+<img src="/img/sponsors/adaptech.jpg" alt="drawing" style="width: 200px;"/>
+
+**[Adaptech Group](https://www.adaptechgroup.com/)** - Building software that defies convention with modern best-practices.  Get your startup off on the right foot for the future and avoid the dreaded MVP rewrite, get out of your legacy code trap, and get trained in modern software architecture practices. Visit today to see why they’re different.
