@@ -1,6 +1,6 @@
 +++
 Title = "Mari Galloway"
-date = "2019-05-02T00:01:37-07:00"
+date = "2019-05-07T00:01:37-07:00"
 Twitter = "marigalloway"
 Website = "https://womenscyberjutsu.org/"
 Type = "guest"
@@ -12,7 +12,7 @@ Thumbnail = "img/guest/mari_galloway.jpeg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 
