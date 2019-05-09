@@ -8,6 +8,14 @@ title = "Events"
 
 <br></br>
 
+<h3> Wicked6 Cyber Games </h3>
+
+<img src="/img/sponsors/wicked6-logo-color.png" alt="drawing" style="width: 200px;"/>
+
+The [**Wicked6 Cyber Games**](https://wicked6.com/) is a fundraiser and cybersecurity exhibition in a thrilling esports arena in Las Vegas on August 8, 2019. It’s a week when cybersecurity leaders from around the world come to Las Vegas, and all are welcome to come by to experience this exciting and unique cyber competition as a player, sponsor, or avid fan. Wicked6 will raise funds for the Women’s Society of Cyberjutsu, a national 501(c)(3) nonprofit that promotes training, mentoring and more to advance women and girls in cybersecurity careers
+
+<br></br>
+
 <h3> Magical Crypto Conference </h3>
 
 <img src="/img/sponsors/MCC2019.jpeg" alt="drawing" style="width: 200px;"/>
