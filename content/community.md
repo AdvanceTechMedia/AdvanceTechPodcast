@@ -18,7 +18,7 @@ The [**Women’s Society of Cyberjutsu (WSC)**](https://womenscyberjutsu.org/?) 
 
 <img src="/img/sponsors/unhashedpodcast.png" alt="drawing" style="width: 200px;"/>
 
-The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) Unhashed Podcast breaks down the latest in Bitcoin news and developments and puts these into terms everyone can understand. Expect to be both entertained and educated about cryptocurrencies and blockchain. How do hardware wallets work and do they really keep you safe? Which crypto exchanges pose the greatest risk to the bitcoin ecosystem? Does Litecoin help or hinder bitcoin development? Expect the answers to these and many other questions from the Unhashed professionals Ruben, Bryan, Colin, and Mario!
+The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) breaks down the latest in Bitcoin news and developments and puts these into terms everyone can understand. Expect to be both entertained and educated about cryptocurrencies and blockchain. How do hardware wallets work and do they really keep you safe? Which crypto exchanges pose the greatest risk to the bitcoin ecosystem? Does Litecoin help or hinder bitcoin development? Expect the answers to these and many other questions from the Unhashed professionals Ruben, Bryan, Colin, and Mario!
 
 <br></br>
 
