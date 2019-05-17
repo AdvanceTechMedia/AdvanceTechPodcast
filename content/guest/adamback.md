@@ -1,21 +1,26 @@
 +++
-Title = "Mari Galloway"
-date = "2019-05-07T00:01:37-07:00"
-Twitter = "marigalloway"
-Website = "https://womenscyberjutsu.org/"
+Title = "Adam Back"
+date = "2019-05-17T00:01:37-07:00"
+Twitter = "adam3us"
+Website = "http://cypherspace.org/adam/"
 Type = "guest"
-#Facebook = ""
-Linkedin = "themarigalloway/"
+Facebook = "adam.back.94"
+Linkedin = "adam-back-043342/"
 #Pronouns = ""
-#GitHub = ""
-Thumbnail = "img/guest/mari_galloway.jpeg"
+GitHub = "adam3us"
+Thumbnail = "img/guest/adam2.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "False"
+draft = "True"
 
 +++
 
-Mari is the CEO and a founding board member for the Women's Society of Cyberjutsu (WSC), one of the fastest growing 501c3 non-profit cybersecurity communities dedicated to bringing more women and girls to cyber. WSC provides women with the resources and support required to enter and advance as a cybersecurity professional. Mari began her cyber career with Accenture where she excelled as a Network Engineer. With over 9 years of Information Technology, 8 of which are in cybersecurity, her experience spans network design, risk assessments, vulnerability assessments, incident response and policy development across government and commercial industries.
+Adam Back is an Applied Cryptographer, the Inventor of Hashcash and a Cypherpunk. He holds a Computer Science PhD in Distributed Systems from the University of Exeter and is co-founder and CEO of Blockstream.
 
-She holds a variety of technical and management certifications: MSIS | CISSP | GWAPT | GSEC | GMON | GCIH | GPEN | GCFE | CEH | IT Project+ | Security+ | CCNA | CCNA Security, as well as a Bachelor’s degree in Computer Information Systems from Columbus State University and a Master of Science in Information Systems from Strayer University. Mari is currently a resident of Las Vegas working to secure the Gaming industry of the south west. She regularly contributes content to security blogs and training companies across the country. Outside of being a geek, Mari enjoys arts, puzzles, and legos!
+In 1997, he invented hashcash originally as a general proof-of-work system with applications for anti-DoS via the creation of computationally expensive to create but fast to verify electronic stamps. Applications included deterring anonymous remailer DoS, email spam, blog spam, pseudonym name-squatting etc. Hashcash was proposed for mining by pre-bitcoin ecash systems b-money in 1998 by Wei Dai, bit-gold in 1998 by Nick Szabo and RPOW in 2005 by Hal Finney and later Bitcoin in 2008 by Satoshi Nakamoto.
+
+He has an interest in privacy enhancing technology, electronic cash.
+
+Adam believes that positive change in the world is achieved by deploying disruptive technologies, that shift the balance of power to the individual, like PGP, Tor, bittorrent, Bitcoin.
+
