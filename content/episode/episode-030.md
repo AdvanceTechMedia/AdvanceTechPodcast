@@ -16,7 +16,7 @@ podcast_file = "advance-tech-podcast-30.mp3"
 podcast_length = "0:39:26"
 podcast_bytes = "27667458"
 tags = []
-title = "Mari Galloway, CEO and Women's Society of Cyberjutsu (WSC) Founding Board Member"
+title = "Mari Galloway - CEO and Women's Society of Cyberjutsu (WSC) Founding Board Member"
 youtube = ""
 draft = "False"
 +++
