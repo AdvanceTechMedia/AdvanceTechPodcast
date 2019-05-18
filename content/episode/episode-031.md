@@ -29,7 +29,7 @@ We cover Adam's background, what sparked his interest in Computer Science and cr
 
 I ask about the areas of research he is most excited about and we delve into Schnorr signatures, taproot and graftroot and how these improvements could be implemented in Bitcoin. We discuss the recent Binance hack and the talk of a re-org to recover the funds and go into detail around why Bitcoin re-orgs are a bad idea.
 
-In closing I ask him what are the core tenants of being a cypherpunk and questions he has for our listeners. You can find and follow Adam on [twitter](https://twitter.com/adam3us) reach out to him with ideas on applied cryptography, use cases, design and UX improvement suggestions for Bitcoin and find out more about [Blockstream](http://blockstream.com).
+In closing I ask him what are the core tenants of being a cypherpunk and questions he has for our listeners. You can find and follow Adam on [twitter](https://twitter.com/adam3us), reach out to him with ideas on applied cryptography, use cases, design and UX improvement suggestions for Bitcoin and find out more about [Blockstream](http://blockstream.com).
 
 People always ask which episode of the podcast is my favourite, it's this one. Hope you enjoy this episode!
 
