@@ -28,6 +28,12 @@ The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) breaks down the lat
 
 <br></br>
 
+<img src="/img/sponsors/eclogo.png" alt="drawing" style="width: 200px;"/>
+
+[Abasi](https://www.facebook.com/abasiMusic/) & Glyn present: [**Electric Cafe**](http://electriccafe.ca/)  where you can expect to hear house, disco, edits, techno, and everything in between depending on where the journey goes each session. Generally you'll hear a mix of genres including House (bass, tech, deep), Electro*, Techno (Detroit, classic, minimal, acid), Nudisco, Italo, Disco/funk, and a dash of 80s and 90s. Tune in to [De Radio](https://deradio.ca/?fbclid=IwAR0IkUmURjfYxPz0Ym-lTZ-jocRZBFvgoK7u8eE4JIoVtz6pZ1boF_zuUaU) at 3pm PST / 10pm UTC every Sunday.
+
+<br></br>
+
 <img src="/img/sponsors/singularityNET.png" alt="drawing" style="width: 200px;"/>
 
 The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is a civilized place for public discussion to share skills, knowledge and interests through ongoing conversation. Participants are encouraged to move the discussion forward by contributing to and engaging in reasoned counter-arguments that improve the conversation. The SingularityNET platform enables multiple AI computing agents to work as a whole to provide various services in a distributed and decentralized way.
