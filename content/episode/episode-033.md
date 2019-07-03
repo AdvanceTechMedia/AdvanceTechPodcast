@@ -4,7 +4,7 @@ Description = "In this episode I spend some time with Dan Berlin and Charles R. 
 aliases = ["/33"]
 author = "Alexandra Moxin"
 categories = []
-date = "2019-06-21T00:00:01-07:00"
+date = "2019-07-03T00:00:01-07:00"
 episode = "33"
 episode_image = "img/guest/ivanb.jpg"
 explicit = "no"
@@ -12,18 +12,20 @@ explicit = "no"
 #images = [""]
 news_keywords = []
 #podcast_duration = "0:47:38"
-#podcast_file = "advance-tech-podcast-032-TeamC.mp3"
+#podcast_file = "advance-tech-podcast-033.mp3"
 #podcast_length = "0:47:38"
 #podcast_bytes = "33518705"
 tags = []
-#title = "Team See Possibilities with Dan Berlin and Charles R. Scott"
+#title = "Deep Dive into the Erlay paper with Ivan Beschastnikh, post Doc Associate Professor of Computer Science at the University of British Columbia"
 youtube = ""
 #draft = "True"
 +++
 
 Written by Alexandra Moxin
 
-I spend some time with Ivan Beschastnikh in this episode.
+In this episode I spend some time with Ivan Beschastnikh, post Doc Associate Professor of Computer Science at the University of British Columbia and co-Author of the Erlay paper. Erlay is a scaling proposal relevant to Bitcoin, proposing changes to the way transactions are disseminated.
+
+We also discuss Biscotti, a distributed machine learning system.
 
 Closing out the episode Ivan asks listeners
 
