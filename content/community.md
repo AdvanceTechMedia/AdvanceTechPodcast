@@ -12,7 +12,12 @@ Check out some of the initiatives our friends are up to!
 <br></br>
 <img src="/img/sponsors/wsclogo.png" alt="drawing" style="width: 200px;"/>
 
-The [**Women’s Society of Cyberjutsu (WSC)**](https://womenscyberjutsu.org/?) is a 501(c)3 non-profit  passionate about helping and empowering women to succeed in the Cybersecurity field. They are a community of women supporting each other through every step of her career journey. Whether you're transitioning to cybersecurity, just entering the field, or are a seasoned vet, WSC's top-notch hands-on technical training and workshops provide the practical skills that translate into real world experience. Sponsor WSC and help train the next generation of cyber ninjas and build a pipeline to bridge the gender divide in cyber
+The [**Women’s Society of Cyberjutsu (WSC)**](https://womenscyberjutsu.org/?) is a 501(c)3 non-profit  passionate about helping and empowering women to succeed in the Cybersecurity field. They are a community of women supporting each other through every step of her career journey. Whether you're transitioning to cybersecurity, just entering the field, or are a seasoned vet, WSC's top-notch hands-on technical training and workshops provide the practical skills that translate into real world experience. Sponsor WSC and help train the next generation of cyber ninjas and build a pipeline to bridge the gender divide in cyber.
+
+<br></br>
+<img src="/img/sponsors/bitcoin_wizard.png" alt="drawing" style="width: 200px;"/>
+
+[**Bitcoin Wizard**](https://bitcoinwizard.net/) is founded by William Casarin who has been in the Bitcoin space since 2010. William was the CTO of Monstercat, one of the first record labels to accept Bitcoin. These days he spends most of his time helping individuals and companies with Bitcoin, and working on Bitcoin projects such as Bitcoin Core and the Lightning Network.
 
 <br></br>
 
