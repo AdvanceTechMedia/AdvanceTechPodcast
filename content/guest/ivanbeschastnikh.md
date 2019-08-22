@@ -1,18 +1,18 @@
 +++
 Title = "Ivan Beschastnikh"
-date = "2019-06-21T00:01:37-07:00"
+date = "2019-07-27T00:01:37-07:00"
 Twitter = "bestchai"
 Website = "https://www.cs.ubc.ca/~bestchai/"
 Type = "guest"
 Facebook = "bestchai"
 Linkedin = "ivan-beschastnikh-b63a36a7/"
 #Pronouns = ""
-#GitHub = ""
+GitHub = "bestchai"
 Thumbnail = "img/guest/ivanb.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 
