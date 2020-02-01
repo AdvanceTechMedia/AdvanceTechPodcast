@@ -12,7 +12,7 @@ Thumbnail = "img/guest/phil_d1.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 

@@ -13,4 +13,4 @@ Pinterest = "lexi933/"
 Instagram = "lexi_933/?hl=en"
 YouTube = "channel/UCo0YHhPVPBienDjnvqDrh1g/featured?view_as=public"
 +++
-CEO and Founder of Advance Tech Media and Host of the Advance Tech Podcast Alexandra interviews founders, developers and leaders from around the globe shining a light on what it takes to massively scale from great idea to leading industry maker. She speaks at conferences and events in Canada and internationally on Artificial Intelligence/Machine Learning, Bitcoin and other emerging technologies.
+CEO and Founder of Advance Tech Media and Host of the Advance Tech Podcast Alexandra interviews founders, developers and leaders from around the globe shining a light on what it takes to massively scale from great idea to leading industry maker. She speaks at conferences and events in Canada and internationally on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.
