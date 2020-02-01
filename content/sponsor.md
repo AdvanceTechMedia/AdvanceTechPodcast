@@ -6,12 +6,12 @@ aliases = "/sponsor"
 +++
 
 
-Help get your favorite episodes out there and widen our reach. Visit us on your favourite podcast platform and give us a rating or leave a review. You can also like, follow and endorse our content on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), and [Instagram](https://www.instagram.com/advance_tech_media/)
+Help amplify your favorite episodes and widen our reach. Subscribe to the show on your favourite podcast platform and **give us a rating** or **leave a review**. You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), and [Instagram](https://www.instagram.com/advance_tech_media/)
 
 
-Please consider supporting the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)** or by donating bitcoin. 
+Please consider supporting the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)** 
 
-A new QR code will be available soon, in the meantime send us an [email](mailto:alexandra.moxin@advancetechmedia.org) for our address
+To donate by bitcoin you can reach the show by [email](mailto:advancetechmedia@protonmail.com)
 
 <br></br>
 
@@ -21,7 +21,7 @@ A new QR code will be available soon, in the meantime send us an [email](mailto:
 
 <img src="/img/sponsors/adaptech.jpg" alt="drawing" style="width: 200px;"/>
 
-**[Adaptech Group](https://www.adaptechgroup.com/)** - Design, Build and Secure your solutions without the risk of a runaway project. Adaptech Group's unique fixed price model with a no strings attached warranty gives your business the advantage to pull ahead of your competition.
+**[Adaptech Group](https://www.adaptechgroup.com/)** - Design, Build and Secure your solutions without the risk of a runaway project. Adaptech Group's unique event-modeling and event-driven approach gives your business the advantage to pull ahead of your competition.
 
 <br></br>
 
