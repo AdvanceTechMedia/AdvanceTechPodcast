@@ -5,7 +5,7 @@ theme = "castanet"
 googleAnalytics = "UA-98351650-1"
 disqusShortname = "advtechpodcast"
 themesdir = "themes"
-
+paginate = "8"
 
 
 [permalinks]
@@ -68,7 +68,7 @@ pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e18972
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow. Hosted by Alexandra Moxin and Adam Dymitruk.</p><p>We connect you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from our homepage and check out our [commercial site](https://www.advancetechmedia.com/)"
   [params.feed]
-    feed_copyright = "Copyright 2017 - 2019 Advance Tech Media" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright 2017 - 2020 Advance Tech Media" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
     itunes_author = "Alexandra Moxin" #no markdown or HTML
     itunes_summary = "The Advance Tech Podcast brings you the latest in bleeding edge technology and features guests building the technology of tomorrow. We connect you to founders, developers and influencers from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker. Hosted by Alexandra Moxin and Adam Dymitruk." # Limited to 4000 characters or less, plain text, no HTML
