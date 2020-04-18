@@ -1,25 +1,25 @@
 +++
 
-Description = "In this episode I spend time Mir Liponi. Mir is CEO of Satoshi Design, a partner company of Bitcoin Valley, and a cypherpunk. Discovering bitcoin in 2012 Mir has contributed to many important bitcoin projects through BHB Network GmbH and Blockchain Labit and has given talks at many key bitcoin conferences around the world. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click episode title."
+Description = "In this episode I spend time Mir Liponi. Mir is CEO of Satoshi Design, a partner company of Bitcoin Valley, and a cypherpunk. Discovering bitcoin in 2012 Mir has contributed to many important bitcoin projects through BHB Network GmbH and Blockchain Labit and has given talks at many key bitcoin conferences around the world. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/37"]
 author = "Alexandra Moxin"
 categories = []
-date = "2020-03-27T00:00:01-07:00"
+date = "2020-04-17T00:00:01-07:00"
 episode = "37"
-episode_image = "img/guest/mir_liponi2.jpg"
+episode_image = "img/guest/mir_liponi3.jpg"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "0:18:53"
-#podcast_file = "advance-tech-podcast-037.mp3"
-#podcast_length = "0:18:53"
-#podcast_bytes = "12719830"
+podcast_duration = "0:39:29"
+podcast_file = "advance-tech-podcast-episode-037-mir.mp3"
+podcast_length = "0:39:29"
+podcast_bytes = "26420517"
 tags = []
 title = "The Case for Bitcoin with Mir Liponi"
 youtube = "J3FW0SQ9tcI"
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -45,9 +45,9 @@ Based in Milan, Mir gives a personal account how she and her family have been af
 * [BHB Network GmbH on Twitter](https://twitter.com/BHBnetwork)
 * [Bitcoin Milano Meetup](https://www.meetup.com/bitcoinmilano/)
 * [Mir Liponi, Chief Hat Officer - Team Excellion](https://www.excellion.com/team/)
-* [Mir Liponi: Women ‘are quick’ to grasp crypto technology. Staff Writer, by Coinrivet](https://coinrivet.com/women-are-quick-to-grasp-crypto-technology/)
-
-* [Bitcoin Money, by Michael Caras]
-* [Jameson Lopp's Bitcoin resources] new page, check link
-* [Der Gigi]
+* [Meet The Cypherpunk Godmother of Italy’s Bitcoin Community, by Leigh Cuen, International Business Times](https://www.ibtimes.com/meet-cypherpunk-godmother-italys-bitcoin-community-2655596)
+* [Mir Liponi: Women ‘are quick’ to grasp crypto technology. by Staff Writer, Coinrivet](https://coinrivet.com/women-are-quick-to-grasp-crypto-technology/)
+* [Bitcoin Money: A Tale of Bitville Discovering Good Money, by Michael Caras](https://www.amazon.ca/Bitcoin-Money-Tale-Bitville-Discovering/dp/0578490676)
+* [Jameson Lopp's Bitcoin resources](https://www.lopp.net/bitcoin-information.html)
+* [Der Gigi](https://dergigi.com/)
 

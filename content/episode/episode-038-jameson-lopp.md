@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode I spend some time with Jameson Lopp, Professional Cypherpunk, CTO and cofounder of Casa, and Bitcoin Philosopher. We speak about Bitcoin and his thoughts on the current pandemic including ways you can stay safe while maintaining your personal liberty. Jameson enjoys building technology that empowers individuals and is interested in opportunities within the Bitcoin and crypto asset ecosystem. Graduating from the University of North Carolina with a degree in computer science, Jameson is passionate about sharing his expertise and technical knowledge of crypto assets, his philosophical approach to understanding the systems, and his opinion on the consensus of their participants. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click episode title."
+Description = "In this episode I spend some time with Jameson Lopp, Bitcoin Philosopher Laureate, Professional Cypherpunk, and Casa Co-founder and CTO. We speak about Bitcoin and his thoughts on the current pandemic including ways you can stay safe while maintaining your personal liberty. Jameson enjoys building technology that empowers individuals and is interested in opportunities within the Bitcoin and crypto asset ecosystem. Graduating from the University of North Carolina with a degree in computer science, Jameson is passionate about sharing his expertise and technical knowledge of crypto assets, his philosophical approach to understanding the systems, and his opinion on the consensus of their participants. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click episode title."
 
 aliases = ["/38"]
 author = "Alexandra Moxin"
@@ -24,61 +24,53 @@ draft = "True"
 
 Written by Alexandra Moxin
 
-In this episode I spend some time with Jameson Lopp, Professional Cypherpunk, CTO and cofounder of Casa, and Bitcoin Philosopher. We speak about Bitcoin and his thoughts on the current pandemic including ways you can stay safe while maintaining your personal liberty.
+In this episode I spend some time with Jameson Lopp, Bitcoin Philosopher Laureate, Professional Cypherpunk, and Casa Co-founder and CTO. We speak about Bitcoin and his thoughts on the current pandemic including ways you can stay safe while maintaining your personal liberty. Jameson enjoys building technology that empowers individuals; he is currently focused upon the evolution of Bitcoin and the crypto asset ecosystem. 
 
-Jameson Lopp is a Professional Cypherpunk, Infrastructure Engineer at Casa and Bitcoin Philosopher. Jameson enjoys building technology that empowers individuals and is interested in opportunities within the Bitcoin and crypto asset ecosystem. Graduating from the University of North Carolina with a degree in computer science, Jameson is passionate about sharing his expertise and technical knowledge of crypto assets, his philosophical approach to understanding the systems, and his opinion on the consensus of their participants.
+Jameson's expertise has made him a recurring guest on financial media outlets. He is excited to share his technical knowledge of crypto assets, his philosophical approach to understanding the systems, and his opinion on the consensus of their participants. He is passionate about sharing his knowledge with others and is receptive to interviews and speaking engagements. Formerly at BitGo, Jameson has been involved in Bitcoin for nearly a decade.
 
-Jameson is an application infrastructure engineer and early investor in Bitcoin in addition to being founder and creator of [Statoshi.info](https://statoshi.info/) and [Bitcoin SIG](https://sites.google.com/site/bitcoinsig/). Formerly at BitGo, Jameson has been involved in for nearly a decade.
+Jameson is an application infrastructure engineer and early investor in Bitcoin in addition to being founder and creator of [Statoshi.info](https://statoshi.info/) and [Bitcoin SIG](https://sites.google.com/site/bitcoinsig/). 
 
 You can reach Jameson via his [personal website](https://lopp.net), on [twitter](https://twitter.com/lopp) and find out more about what he's working on at [Casa](https://keys.casa). Find out how you can contribute to the Bitcoin community and Bitcoin development at [Bitcoin.org](https://bitcoin.org/en/) and the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page).
 
-### In this episode we cover
-
-* Jameson's background
-* Cypherpunk beliefs and ethics
-* The benefits of increasing user privacy and freedom
-* What motivated Jameson to get into Bitcoin
-* The benefits of having a robust and long standing network, a strong network effect and having most talented engineering team working on the network
-* Jameson's experience with distributed data processing prior to Bitcoin
-* The origin story of Casa the multi-signature, multi-device, multi-location vault product
-* Some of the features that will be available on the Casa platform
-* Why the work in Proof of Work matters and how some of the features in Casa will enable users to be their own secure bank
-* Why the iTunes solution was developed first
-* Differences between platforms and why Android presents some initial security challenges but a better overall user experience
-* Privacy and other benefits of the Purism phone, platform and system
-* Some of the emerging trends Jameson sees in Bitcoin and what companies or groups are exploring interesting ideas in engineering and security
-* Mt. Gox and calling out bad security practices
-* The Lightning Network, Jameson's thoughts on where it's going, potential challenges and ways its benefiting Bitcoin
-* Ways to leverage social media and other sources to improve channel reputation
-* Ways for users to improve privacy and a shout out to Jameson's upcoming article on privacy (we'll post a link once it's published)
-* Breaking down Jameson's Bitcoin Resource List and some of the reasoning behind creating that list
-* Why it's important to run a full node
-* Where you can start and some of the system requirements if you'd like to configure and run a full node
-* Places you can look to find ways you can help Bitcoin and projects you can contribute to
-* How to find and join communities interested in maintaining and furthering Bitcoin
-* Jameson's world renown pinned tweet on Bitcoin
-* The strengths and differences of the Bitcoin community and other cryptocurrency communities
-* Jameson's thoughts on different Bitcoin hard forks
-* Breaking down Proof of Work and Proof of Stake concepts
-* The benefits of Proof of Work and why the energy spend is both market driven and necessary
-* Jameson's tweet about why Bitcoin is driven by conservative development principles
-* The resiliency of the Bitcoin network despite multiple attempts to attack it
-* The 2013 accidental consensus failure and how it was resolved within a few hours
-* The 2018 Build Bitcoin Conference in Lisbon, Portugal
-* Upcoming conferences Jameson is speaking at and where he's part of the review committee
-* Jameson's closing comments to our listeners and how you can reach out to him
 
 ### Show Links
 
 * [Jameson Lopp's Personal Website](https://lopp.net)
-* [Bitcoin.cc](http://www.bitcoin.cc/)
-* [Jameson Lopp's Bitcoin Resource List](https://lopp.net/bitcoin.html)
+* [Jameson Lopp's Bitcoin Information and Resources](https://www.lopp.net/bitcoin-information.html)
+* [Jameson Lopp's Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 * [Jameson Lopp on Twitter](https://twitter.com/lopp)
 * [Casa](https://keys.casa)
-* [Blockstack Platform](https://blockstack.org/)
-* [Bitcoin SIG](https://sites.google.com/site/bitcoinsig/)
-* [Article from Jameson on configuring and running a full Bitcoin node](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603)
-* [Jameson's full node resource use via Statoshi.info](statoshi.info)
+
+
+
+
+
+Episode Links:
+
+* Jameson Lopp's Website: (https://lopp.net)
+* Jameson Lopp's Bitcoin Information and Resources: (https://www.lopp.net/bitcoin-information.html)
+* Jameson Lopp's Lightning Network Resources: (https://www.lopp.net/lightning-information.html)
+* Jameson Lopp on Twitter: (https://twitter.com/lopp)
+* Casa: (https://keys.casa)
+
+Jameson's Projects:
+* Statoshi: https://github.com/jlopp/statoshi/
+* Physical Attack Log: https:/Ja/github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md
+* Bitcoin Savings Plan: https://github.com/jlopp/bitcoin-savings-plan/
+* Bitcoin xpub Converter: https://github.com/jlopp/xpub-converter
+Metal Seed Storage Reviews: https://jlopp.github.io/metal-bitcoin-storage-reviews/
+* Bitcoin Core Config Generator: https://github.com/jlopp/bitcoin-core-config-generator/
+* US Marshals Bitcoin Auction Tracker: https://jlopp.github.io/us-marshals-bitcoin-auctions/
+
+* Articles: (https://www.lopp.net/articles.html)
+* Presentations: (https://www.lopp.net/presentations.html)
+* Interviews: (https://www.lopp.net/interviews.html)
+* Jameson Lopp on the Advance Tech Podcast; episode 19, July 26, 2018: https://advancetechmedia.org/episode-019-jameson-lopp/
+* Triangle Bitcoin Meetup Group: (https://www.meetup.com/Triangle-Bitcoin-Meetup/)
+* Jameson Lopp on Medium: (https://medium.com/@lopp)
+* Jameson Lopp on CoinDesk: (https://www.coindesk.com/author/jameson-lopp/)
+
+
 * [Statoshi.info - Realtime Bitcoin Node Stats](https://github.com/jlopp/statoshi)
 * [Bitcoin Core Config Generator](https://jlopp.github.io/bitcoin-core-config-generator/)
 * [Bitcoin Physical Attack Log](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
