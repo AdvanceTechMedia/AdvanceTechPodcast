@@ -2,7 +2,7 @@
 Title = "Alexandra Moxin"
 date = "2017-03-09T20:55:58-06:00"
 Twitter = "Alexandra933"
-Website = "https://medium.com/@Alexandra933"
+Website = "https://www.advancetech.io/"
 Type = "host"
 Facebook = "alexandra933"
 Linkedin = "alexandra-moxin"
