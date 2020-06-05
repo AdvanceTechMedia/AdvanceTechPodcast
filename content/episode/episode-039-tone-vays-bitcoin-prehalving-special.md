@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode I spend some time with Jameson Lopp, Bitcoin Philosopher Laureate, Professional Cypherpunk, and Casa Co-founder and CTO. We speak about Bitcoin and his thoughts on the current pandemic including ways you can stay safe while maintaining your personal liberty. Jameson enjoys building technology that empowers individuals and is interested in opportunities within the Bitcoin and crypto asset ecosystem. Graduating from the University of North Carolina with a degree in computer science, Jameson is passionate about sharing his expertise and technical knowledge of crypto assets, his philosophical approach to understanding the systems, and his opinion on the consensus of their participants. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click episode title."
+Description = "Tone Vays joins me on a special pre-halving video episode of the Advance Tech Podcast. To view comprehensive show notes, complete guest bios and links mentioned in the episode go to advancetechmedia.org and click episode title."
 
 aliases = ["/39"]
 author = "Alexandra Moxin"
@@ -17,7 +17,7 @@ news_keywords = []
 #podcast_length = "0:59:30"
 #podcast_bytes = "42199518"
 tags = []
-title = "Pre-Halving Special with Tone Vays"
+title = "Bitcoin Pre-Halving Special with Tone Vays"
 youtube = ""
 draft = "True"
 +++
