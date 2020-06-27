@@ -15,13 +15,7 @@ To donate by bitcoin you can reach the show by [email](mailto:advancetechmedia@p
 
 <br></br>
 
-<h2> Sponsors </h2>
-
-<br></br>
-
-<img src="/img/sponsors/adaptech.jpg" alt="drawing" style="width: 200px;"/>
-
-**[Adaptech Group](https://www.adaptechgroup.com/)** - Design, Build and Secure your solutions without the risk of a runaway project. Adaptech Group's unique event-modeling and event-driven approach gives your business the advantage to pull ahead of your competition.
+<h2> Credits </h2>
 
 <br></br>
 

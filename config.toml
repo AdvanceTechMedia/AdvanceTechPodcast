@@ -33,10 +33,10 @@ paginate = "8"
     identifier = "about"
     url = "about"
 
-[[Menu.Main]]
-   name = "Sponsor"
-   identifier = "sponsor"
-   url = "sponsor"
+#[[Menu.Main]]
+#  name = "Sponsor"
+#   identifier = "sponsor"
+#   url = "sponsor"
 
 [[Menu.Main]]
     name = "Community"
@@ -66,7 +66,7 @@ spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>We connect you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from our [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg)."
+description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).</p><p><b>*intro/outro music, all shows: Alien Breed (1991) main theme, by A. Brimble</b>"
   [params.feed]
     feed_copyright = "Copyright 2017 - 2020 Advance Tech Media" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
@@ -95,20 +95,10 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
 
 
   [params.authors]
-    [params.authors.Adam]
-      name	= "Adam Dymitruk"
-      thumbnail = "img/host/adam-2016-small-square.png"
-      bio = "<p>CEO and Founder of Adaptech Group, and Co-host of the Advance Tech Podcast, Adam is a pioneer in the event sourcing space. He founded the Event Modelling approach for designing and building information systems and is a core contributor to one of the earliest event sourcing projects in 2007 to 2008. He inspires organisations to excel in modern software development, a culture of learning and modern approaches to software architecture.</p>"
-      [params.authors.Adam.social]
-        github = "adymitruk"
-        twitter = "adymitruk"
-        linkedin = "eventsourcing"
-        facebook = "adymitruk"
-        homepage = "https://www.adaptechgroup.com"
-        #pinterest = "mattstratton"
-        instagram = "adamdymitruk"
-        youtube = "adaptech"
-    [params.authors.1Alex]
+  #[params.authors.donate]
+  #name = "Donate by bitcoin"
+  #thumbnail = ""
+        [params.authors.1Alex]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex1.jpg"
       bio = "<p>Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers from around the globe in the emerging tech space. As CEO, she grew the global audience of the podcast to reach one million listeners in just over a year. She has a solid understanding of digital transformation and finds comfort at the bleeding edge of innovation. She speaks at local and international conferences and events on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.</p>"
@@ -126,13 +116,4 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
         homepage = "https://medium.com/@Alexandra933"
 
 
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
+
