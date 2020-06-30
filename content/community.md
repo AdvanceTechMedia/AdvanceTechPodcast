@@ -8,6 +8,15 @@ aliases = "/community"
 <h3> Friends of the Advance Tech Podcast </h3>
 Check out the good work and initiatives created by our friends.
 
+<br></br>
+<img src="/img/guest/OneaLTU0_400x400.jpg" alt="drawing" style="width: 200px;"/>
+
+[**Citadel21**](https://www.citadel21.com/) is a Bitcoin cultural zine. Bitcoin culture is rich and varied. It contains a multitude of voices, opinions and flavors. Together they form what is seemingly chaos, but with an abundance of signal. Citadel21 aims to curate this chaos and put some of the best, coolest and weirdest pieces of raw signal on display.
+
+<br></br>
+<img src="/img/sponsors/HODLR logo.jpg" alt="drawing" style="width: 200px;"/>
+
+[**HODLR.**](https://hodlrclothing.co/) is an alternative lifestyle brand. We aim to create clean and minimalistic Bitcoin clothing that is different than your typical orange coin apparel. Something a bit more modern and mysterious to wear while stacking sats and reading Rothbard. Pieces that look good for everybody, but only few will understand — If you know, you know.
 
 <br></br>
 <img src="/img/sponsors/wsclogo.png" alt="drawing" style="width: 200px;"/>

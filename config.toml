@@ -95,9 +95,12 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
 
 
   [params.authors]
-  #[params.authors.donate]
+  #[params.authors.donatebtc]
   #name = "Donate by bitcoin"
   #thumbnail = ""
+  #[params.authors.donatelight]
+    #name = "Donate by lightning"
+    #thumbnail = ""
         [params.authors.1Alex]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex1.jpg"
