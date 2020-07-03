@@ -1,6 +1,6 @@
 +++
 Title = "Karo Zagorus"
-date = "2020-07-02T00:01:37-07:00"
+date = "2020-07-03T00:01:37-07:00"
 Twitter = "btcdragonlord"
 Website = "https://tippin.me/@btcdragonlord"
 Type = "guest"

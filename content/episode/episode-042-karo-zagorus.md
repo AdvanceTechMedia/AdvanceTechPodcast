@@ -5,7 +5,7 @@ Description = "In this episode Mario Gibney from Blockstream and the Unhashed Po
 aliases = ["/42"]
 author = "Alexandra Moxin"
 categories = []
-date = "2020-07-02T00:00:01-07:00"
+date = "2020-07-03T00:00:01-07:00"
 episode = "42"
 episode_image = "img/guest/karo_z.jpg"
 explicit = "no"
@@ -38,6 +38,7 @@ Reach out if you are interested in republishing, referencing or expanding on Kar
 ### Show Links
 
 * [Karo Zagorus on Twitter](https://twitter.com/btcdragonlord)
+* [Karo's Website](https://karozagorus.keybase.pub/)
 * ["Bitcoin and the Trust Problem: Is Bitcoin adoption accelerated by the abuse of trust?". Karo Zagorus. 2020](https://keybase.pub/karozagorus/KaroZagorus-2020-Thesis.pdf)
 * [Reputation: The Bitcoiner's Minefield by Karo Zagorus, featured in Citadel21 Vol.1. April 2020](https://www.citadel21.com/reputation-the-bitcoiners-minefield)
 * [Mario Gibney on Twitter](https://twitter.com/Mario_Gibney)
