@@ -26,7 +26,7 @@ Written by Alexandra Moxin
 
 "Once we see hyperbitcoinization, we will see more and more bitcoiners wielding riches they acquired through virtue, mental strength and determination." Karo Zagorus, in Reputation: the Bitcoiner's Minefield. Citadel 21, Vol.1. April 2020.
 
-In this episode Mario Gibney Team Lead at Blockstream and co-host of the Unhashed Podcast joins me to interview Bitcoiner Karo Zagorus. 
+In this episode Mario Gibney Customer Support Team Lead at Blockstream and co-host of the Unhashed Podcast joins me to interview Bitcoiner Karo Zagorus. 
 
 We discuss Karo's recent graduate thesis: Bitcoin and the Trust Problem: Is Bitcoin adoption accelerated by the abuse of trust? which "examine[s] how our trust is being breached and abused, how we are used for rent-seeking, how governments impoverish us through the use of Monetary Nationalism and examining whether Bitcoin is the solution to restore individual freedom and limit the reach of government."
 
