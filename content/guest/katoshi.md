@@ -12,7 +12,7 @@ Thumbnail = "img/guest/katoshi.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 bicoinkatia is a cat during days, and a bat, occasionally hiding in a blanket, during evenings. This cat-bat is into Bitcoin, anarchism, infosec and justified hissing. The most strategic and stoic cat-bat you’ve met. She co-founded Citadel21 with beautiful hodlonaut.

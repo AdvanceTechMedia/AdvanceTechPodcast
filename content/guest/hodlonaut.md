@@ -12,7 +12,7 @@ Thumbnail = "img/guest/hodlonaut.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 hodlonaut is a space cat and taco pleb. He once lit a Lightning Torch, and is currently fighting an autistic savant in the court systems. He co-founded Citadel21 with the beautiful bitcoinkatia.

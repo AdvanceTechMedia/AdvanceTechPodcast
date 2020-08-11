@@ -7,19 +7,19 @@ author = "Alexandra Moxin"
 categories = []
 date = "2020-08-09T00:00:01-07:00"
 episode = "44"
-episode_image = "img/guest/ATP_episode_44.png"
+#episode_image = "img/guest/ATP_episode_442.png"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-podcast_duration = "0:31:26"
-podcast_file = "advance-tech-podcast-episode-044-hodlonaut-katia-karo-1.mp3"
-podcast_length = "0:31:26"
-podcast_bytes = "22181304"
+#podcast_duration = "0:31:26"
+#podcast_file = "advance-tech-podcast-episode-045-hodlonaut-katia-karo-2.mp3"
+#podcast_length = "0:31:26"
+#podcast_bytes = "22181304"
 tags = []
 title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part one"
-youtube = "S_7PZi6HFKc"
-draft = "False"
+#youtube = "S_7PZi6HFKc"
+draft = "True"
 +++
 
 Written by Alexandra Moxin
