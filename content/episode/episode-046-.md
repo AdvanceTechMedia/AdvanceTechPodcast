@@ -2,11 +2,11 @@
 
 Description = "In this episode I spend time with Hodlonaut and Katia talking about Citadel 21, zine culture and maintaining an authentic voice. Karo Zagorus cohosts the discussion and announces his new show Bitcoin Rehab. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/44"]
+aliases = ["/46"]
 author = "Alexandra Moxin"
 categories = []
-date = "2020-08-09T00:00:01-07:00"
-episode = "44"
+#date = "2020-08-09T00:00:01-07:00"
+episode = "46"
 #episode_image = "img/guest/ATP_episode_442.png"
 explicit = "no"
 #sponsors = [""]

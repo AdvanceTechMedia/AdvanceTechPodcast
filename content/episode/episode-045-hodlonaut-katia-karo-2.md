@@ -1,12 +1,12 @@
 +++
 
-Description = "In this episode I spend time with Hodlonaut and Katia talking about Citadel 21, zine culture and maintaining an authentic voice. Karo Zagorus cohosts the discussion and announces his new show Bitcoin Rehab. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "This episode is part two with Hodlonaut, Katia and Karo talking about bitcoin and Citadel 21. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/44"]
+aliases = ["/45"]
 author = "Alexandra Moxin"
 categories = []
-date = "2020-08-09T00:00:01-07:00"
-episode = "44"
+date = "2020-08-19T00:00:01-07:00"
+episode = "45"
 #episode_image = "img/guest/ATP_episode_442.png"
 explicit = "no"
 #sponsors = [""]
@@ -17,7 +17,7 @@ news_keywords = []
 #podcast_length = "0:31:26"
 #podcast_bytes = "22181304"
 tags = []
-title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part one"
+title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part two"
 #youtube = "S_7PZi6HFKc"
 draft = "True"
 +++
@@ -36,7 +36,6 @@ We discuss Karo's article On The Importance Of Being Neutral, featured in Citade
 
 You can reach this episode's guests on twitter at [@bitcoinkatia](https://twitter.com/bitcoinkatia), [@hodlonaut](https://twitter.com/hodlonaut) and [@btcdragonlord](https://twitter.com/btcdragonlord).
 
-<b> Tune in next week for part 2!</b>
 
 ### Show Links
 
@@ -53,3 +52,4 @@ You can reach this episode's guests on twitter at [@bitcoinkatia](https://twitte
 * [21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton in Citadel21, vol. 4](https://www.citadel21.com/21ism)
 * [21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton, standalone print copy](http://21ism.com/21ism.pdf)
 * [The Terminal by Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+* [Aaaand its gone meme, South Park]
