@@ -15,4 +15,4 @@ Thumbnail = "img/guest/hodlonaut.jpg"
 draft = "False"
 
 +++
-hodlonaut is a space cat and taco pleb. He once lit a Lightning Torch, and is currently fighting an autistic savant in the court systems. He co-founded Citadel21 with the beautiful bitcoinkatia.
+Hodlonaut is a space cat and taco pleb. He once lit a Lightning Torch, and is currently fighting an autistic savant in the court systems. He co-founded Citadel21 with the beautiful Bitcoinkatia.

@@ -5,21 +5,21 @@ Description = "This episode is part two with Hodlonaut, Katia and Karo talking a
 aliases = ["/45"]
 author = "Alexandra Moxin"
 categories = []
-date = "2020-08-19T00:00:01-07:00"
+date = "2020-08-21T00:00:01-07:00"
 episode = "45"
-#episode_image = "img/guest/ATP_episode_442.png"
+episode_image = "img/guest/ATP_episode_45.png"
 explicit = "no"
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "0:31:26"
-#podcast_file = "advance-tech-podcast-episode-045-hodlonaut-katia-karo-2.mp3"
-#podcast_length = "0:31:26"
-#podcast_bytes = "22181304"
+podcast_duration = "0:45:05"
+podcast_file = "advance-tech-podcast-episode-045-hodlonaut-katia-karo-2.mp3"
+podcast_length = "0:45:05"
+podcast_bytes = "31945123"
 tags = []
 title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part two"
-#youtube = "S_7PZi6HFKc"
-draft = "True"
+#youtube = ""
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -28,11 +28,7 @@ Written by Alexandra Moxin
 
 <i>"The Way Out: Citadels are noetic sets of desired lifestyles, results of an exercise in finding better meanings of value and compensation opportunities than the current ones provided by centralization." BitcoinKatia, Citadels Are Not Just A Meme; Citadel21, vol. 1</i>
 
-In this episode I spend time with Hodlonaut and Katia, Karo Zagorus joins to co-host and announce his new show Bitcoin Rehab. We talk about the origin story of Citadel21, zine culture, the importance of maintaining an authentic voice in the face of corporate censors and what readers can look forward to in future editions.
-
-It was just announced that printed copies of Citadel21, vol. 1 are available with future volumes available soon. Katia and Hodlonaut touch briefly on the printing and content selection process, what they're looking forward to in future editions and how to submit your work for consideration. You may have heard on twitter about our inside joke about Bloomberg terminals... find this at ~ 0:17:00 for the backstory :-)
-
-We discuss Karo's article On The Importance Of Being Neutral, featured in Citadel21, vol. 4, Phoenix, written by me, featured in Citadel21, vol. 3 and 21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton in Citadel21, vol. 4.
+We dig into bitcoin origin stories, censorship, HCPP and much more in part two of this episode with Hodlonaut and Katia, Karo Zagorus. By the time this airs, all 1,000 printed copies of Citadel21, vol. 1 are almost sold out, grab a copy while you can and subscribe to receive future volumes at [shop.citadel21.com](https://shop.citadel21.com/).
 
 You can reach this episode's guests on twitter at [@bitcoinkatia](https://twitter.com/bitcoinkatia), [@hodlonaut](https://twitter.com/hodlonaut) and [@btcdragonlord](https://twitter.com/btcdragonlord).
 
@@ -52,4 +48,4 @@ You can reach this episode's guests on twitter at [@bitcoinkatia](https://twitte
 * [21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton in Citadel21, vol. 4](https://www.citadel21.com/21ism)
 * [21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton, standalone print copy](http://21ism.com/21ism.pdf)
 * [The Terminal by Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-* [Aaaand its gone meme, South Park]
+* [Aaaand Its Gone meme, South Park via TheWolverine1984 on YouTube](https://www.youtube.com/watch?v=o4ZeTdOjLUk)

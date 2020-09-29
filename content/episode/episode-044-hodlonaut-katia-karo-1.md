@@ -19,20 +19,20 @@ podcast_bytes = "22181304"
 tags = []
 title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part one"
 youtube = "S_7PZi6HFKc"
-draft = "False"
+draft = "True"
 +++
 
 Written by Alexandra Moxin
 
-<i>"Bitcoin is revolutionary. So revolutionary that people who have been falling down the rabbit hole for many years, still have their minds blown on a regular basis." Hodlonaut, Welcome; Citadel21, vol. 1</i>
+<i>“Bitcoin is revolutionary. So revolutionary that people who have been falling down the rabbit hole for many years, still have their minds blown on a regular basis.” Hodlonaut, Welcome; Citadel21, vol. 1</i>
 
-<i>"The Way Out: Citadels are noetic sets of desired lifestyles, results of an exercise in finding better meanings of value and compensation opportunities than the current ones provided by centralization." BitcoinKatia, Citadels Are Not Just A Meme; Citadel21, vol. 1</i>
+<i>“The Way Out: Citadels are noetic sets of desired lifestyles, results of an exercise in finding better meanings of value and compensation opportunities than the current ones provided by centralization.” BitcoinKatia, Citadels Are Not Just A Meme; Citadel21, vol. 1</i>
 
 In this episode I spend time with Hodlonaut and Katia, Karo Zagorus joins to co-host and announce his new show Bitcoin Rehab. We talk about the origin story of Citadel21, zine culture, the importance of maintaining an authentic voice in the face of corporate censors and what readers can look forward to in future editions.
 
-It was just announced that printed copies of Citadel21, vol. 1 are available with future volumes available soon. Katia and Hodlonaut touch briefly on the printing and content selection process, what they're looking forward to in future editions and how to submit your work for consideration. You may have heard on twitter about our inside joke about Bloomberg terminals... find this at ~ 0:17:00 for the backstory :-)
+It was just announced that printed copies of Citadel21, vol. 1 are available with future volumes available soon. Katia and Hodlonaut touch briefly on the printing and content selection process, what they’re looking forward to in future editions and how to submit your work for consideration. You may have heard on twitter about our inside joke about Bloomberg terminals… find this at ~ 0:17:00 for the backstory :-)
 
-We discuss Karo's article On The Importance Of Being Neutral, featured in Citadel21, vol. 4, Phoenix, written by me, featured in Citadel21, vol. 3 and 21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton in Citadel21, vol. 4.
+We discuss Karo’s article On The Importance Of Being Neutral, featured in Citadel21, vol. 4, Phoenix, written by me, featured in Citadel21, vol. 3 and 21ISM: A Graphic Story of Hard Money, by Selfbankt & Josh Cranton in Citadel21, vol. 4.
 
 You can reach this episode's guests on twitter at [@bitcoinkatia](https://twitter.com/bitcoinkatia), [@hodlonaut](https://twitter.com/hodlonaut) and [@btcdragonlord](https://twitter.com/btcdragonlord).
 
