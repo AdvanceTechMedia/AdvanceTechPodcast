@@ -7,15 +7,15 @@ Type = "guest"
 #Facebook = ""
 #Linkedin = ""
 #Pronouns = ""
-#GitHub = ""
+GitHub = "JWWeatherman/yeticold"
 Thumbnail = "img/guest/will.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "True"
+draft = "False"
 
 +++
 Will Weatherman is a software developer and core contributor to [Yeti Bitcoin Cold Storage](http://YetiCold.com).
 
-* baby wookie jpg design by Adrian W. Bourne
+* baby wookie design by Adrian W. Bourne
 
