@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode I interview JW Weatherman, bitcoin core contributor, software security expert and startup founder, his son Will, and Robert Spigler, crypto anarchist, free and open source software and hardware enthusiast and early bitcoin maximalist. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "In this episode I interview JW Weatherman, software security expert and startup founder, his son Will, and Robert Spigler, crypto anarchist, free and open source software and hardware enthusiast and early bitcoin maximalist. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/46"]
 author = "Alexandra Moxin"
