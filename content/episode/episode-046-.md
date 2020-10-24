@@ -1,6 +1,6 @@
 +++
 
-Description = "In this episode I interview JW Weatherman, bitcoin core contributor, software security expert and startup founder, his son Will, and Robert Spigler, crypto anarchist, free and open source software and hardware enthusiast and early bitcoin maximalist. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "In this episode I interview JW Weatherman, software security expert and startup founder, his son Will, and Robert Spigler, crypto anarchist, free and open source software and hardware enthusiast and early bitcoin maximalist. To view comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
 aliases = ["/46"]
 author = "Alexandra Moxin"
@@ -24,7 +24,7 @@ draft = "False"
 
 Written by Alexandra Moxin
 
-In this episode I interview JW Weatherman, software security expert and co-founder of YetiCold, his son Will, and Robert Spigler, crypto-anarchist, FLOSS/H enthusiast and bitcoin maximalist. We spend the first 20 minutes digging into Yeti's development and features including Yeti Hot, Yeti Warm and Yeti Cold. We talk about good security practices and compare the features available natively in Yeti against hardware wallets including Ledger, Tresor and ColdCard.
+In this episode I interview JW Weatherman, software security expert and co-founder of YetiCold, his son Will, and Robert Spigler, crypto-anarchist, FLOSS/H enthusiast and bitcoin maximalist. We spend the first 20 minutes digging into Yeti's development and features including Yeti Hot, Yeti Warm and Yeti Cold. We talk about good security practices and compare the features available natively in Yeti against hardware wallets including Ledger, Trezor and ColdCard.
 
 We discuss why it's important to run a full node and the benefits of using Bitcoin Core beyond the fact that it's by far the most peer reviewed open source software project in this space. We dig into game theory a bit and through a couple of extreme examples explore greed, motivation and human behaviour. JW, Robert and Will give their perspective on ways you can guard your open source software project against bad actors, including yourself, once you factor in extreme examples.
 
@@ -36,7 +36,7 @@ You can reach this episode's guests on twitter at [@JWWeatherman_](https://twitt
 
 * [Yeti Bitcoin Cold Storage](https://yeticold.com/)
 * [JW Weatherman on Twitter](https://twitter.com/JWWeatherman_)
-* [Robert Spiegler on Twitter](https://twitter.com/RobertSpigler)
+* [Robert Spigler on Twitter](https://twitter.com/RobertSpigler)
 * [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
 * [Math_Bot](https://mathbot.com/about)
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com/)
