@@ -9,6 +9,7 @@ categories = []
 episode = "16"
 #episode_image = "img/guest/cale_moodie.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

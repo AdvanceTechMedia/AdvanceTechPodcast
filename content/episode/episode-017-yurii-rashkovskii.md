@@ -9,6 +9,7 @@ date = "2018-05-23T16:09:45-07:00"
 episode = "17"
 episode_image = "img/guest/yurii_rashkovskii.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

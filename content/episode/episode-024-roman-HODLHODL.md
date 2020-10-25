@@ -9,6 +9,7 @@ date = "2019-01-04T00:00:01-07:00"
 episode = "24"
 episode_image = "img/guest/roman_snitko.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

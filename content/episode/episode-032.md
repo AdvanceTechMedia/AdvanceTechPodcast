@@ -8,6 +8,7 @@ date = "2019-06-06T00:00:01-07:00"
 episode = "32"
 episode_image = "img/guest/team_see_possibilities.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

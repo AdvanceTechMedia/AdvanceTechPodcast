@@ -9,6 +9,7 @@ date = "2018-01-11T04:09:45-07:00"
 episode = "11"
 episode_image = "img/guest/matthew_unger.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

@@ -21,27 +21,27 @@ paginate = "8"
 #[[Menu.Main]]
 #    name = "Events"
 #    identifier = "events"
-#    url = "events"
+#    url = "/events"
 
 [[Menu.Main]]
     name = "Guests"
     identifier = "guest"
-    url = "guest"
+    url = "/guest"
 
 [[Menu.Main]]
     name = "About"
     identifier = "about"
-    url = "about"
+    url = "/about"
 
 [[Menu.Main]]
   name = "Sponsor"
    identifier = "sponsor"
-   url = "sponsor"
+   url = "/sponsor"
 
 [[Menu.Main]]
     name = "Community"
     identifier = "community"
-    url = "community"
+    url = "/community"
 
 #[[Menu.Main]]
 #    name = "Syndicate"
@@ -49,6 +49,7 @@ paginate = "8"
 #    url = "syndicate"
 
 [params]
+mainSections = ["episode"]
 site_theme = "blue"
 site_layout = "row"
 enable_jumbo = "true"
@@ -66,7 +67,7 @@ spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).</p><p><b>sponsor by bitcoin:    3ENJXGmbURrRJHT5V2yVM6THaT6AB5VsmR</b></p><p>graphic design - new episode templates, by [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)</p>intro/outro music, all shows: Alien Breed (1991) main theme, by A. Brimble"
+description = "The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow. Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker. Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2). ** sponsor by bitcoin:    3ENJXGmbURrRJHT5V2yVM6THaT6AB5VsmR ** Graphic design - new episode templates, by [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub) intro/outro music, all shows: Alien Breed (1991) main theme, by A. Brimble"
   [params.feed]
     feed_copyright = "Copyright 2017 - 2020 Advance Tech Media" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
@@ -95,20 +96,14 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
 
 
   [params.authors]
-  #[params.authors.donatebtc]
-  #name = ""
-  #thumbnail = ""
-  #[params.authors.donatelight]
-    #name = "Donate by lightning"
-    #thumbnail = ""
-        [params.authors.1Alex]
+        [params.authors.alexandra]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex1.jpg"
-      bio = "<p>Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers from around the globe in the emerging tech space. As CEO, she grew the global audience of the podcast to reach one million listeners in just over a year. She has a solid understanding of digital transformation and finds comfort at the bleeding edge of innovation. She speaks at local and international conferences and events on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.</p>"
+      bio = "Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers from around the globe in the emerging tech space. As CEO, she grew the global audience of the podcast to reach one million listeners in just over a year. She has a solid understanding of digital transformation and finds comfort at the bleeding edge of innovation. She speaks at local and international conferences and events on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies."
 
 
 
-      [params.authors.Alex.social]
+      [params.authors.alexandra.social]
         twitter = "Alexandra933"
         linkedin = "alexandra-moxin"
         facebook = "alexandra933"
@@ -119,4 +114,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
         homepage = "https://medium.com/@Alexandra933"
 
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

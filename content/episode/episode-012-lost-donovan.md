@@ -9,6 +9,7 @@ categories = []
 episode = "12"
 #episode_image = "img/guest/pavel_bains.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = []
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

@@ -1,0 +1,84 @@
+<div class="container-fluid grid_container">
+
+<div class="jumbotron">
+    <div class="row">
+        <div class="col">
+            <p>
+            <p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p>
+            <p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p>
+            <p>Subscribe from the <a href="https://advancetechmedia.org/">homepage</a> and check out new featured video episodes on <a href="https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg">YouTube</a>. You can also like, follow and endorse the podcast on <a href="https://twitter.com/AdvTechPodcast">Twitter</a>, <a href="https://www.facebook.com/advancetechmedia">Facebook</a>, <a href="https://www.linkedin.com/company/advance-tech-media/">LinkedIn</a>, <a href="https://www.instagram.com/advance_tech_media/">Instagram</a> and <a href="https://www.patreon.com/AdvanceTechPodcast?alert=2">Patreon</a>.</p>
+            <p><b>sponsor by bitcoin:    3ENJXGmbURrRJHT5V2yVM6THaT6AB5VsmR</b></p>
+            <p>graphic design - new episode templates, by <a href="https://twitter.com/BitcoinMemeHub">Bitcoin Meme Hub</a></p>
+            <p>intro/outro music, all shows: Alien Breed (1991) main theme, by A. Brimble
+              </p>
+        </div>
+
+        {{ range $p:= $.Site.Params.authors }}
+        <div class="col-lg-2">
+            <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
+            <p class="text-center text-capitalize">{{ $p.name }}</p>
+        </div>
+        {{ end }}
+
+    </div>
+
+
+    <div class = "row">
+        {{ if (isset .Site.Params "podlove") }}
+        <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+            <script>window.podcastData={'title':'{{ if (isset .Site.Params.podlove "subscribe_title") }}{{ .Site.Params.podlove.subscribe_title }}{{else}}{{ .Title }}{{end}}','subtitle':'{{ .Site.Params.podlove.subscribe_subtitle }}','description':'{{ if (isset .Site.Params.podlove "subscribe_description") }}{{ .Site.Params.podlove.subscribe_description }}{{else}}{{ .Site.Params.Description }}{{end}}','cover':'{{ .Site.Params.podlove.subscribe_cover }}','feeds':[{'type':'{{ .Site.Params.podlove.subscribe_feed_type }}','format':'{{ .Site.Params.podlove.subscribe_feed_format }}','url':'{{ .Site.Params.rss_subscribe }}','directory-url-itunes':'{{ .Site.Params.podlove.itunes_subscribe }}'}]}</script>
+            <script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="{{ .Site.Params.podlove.subscribe_language }}" data-size="{{ .Site.Params.podlove.subscribe_size }}" data-json-data="podcastData" data-color="{{ .Site.Params.podlove.subscribe_color }}" data-format="{{ .Site.Params.podlove.subscribe_format }}" data-style="{{ .Site.Params.podlove.subscribe_style }}"></script>
+            <noscript><a href="{{ .Site.Params.rss_subscribe }}">Subscribe to feed</a></noscript>
+        </div>
+        {{ end }}
+    </div>
+    <div class = "row">
+    {{ if (isset .Site.Params "spotify_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.spotify_subscribe}}"><i class="fab fa-spotify"></i>&nbsp;Spotify</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "itunes_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.itunes_subscribe}}"><i class="fa fa-podcast"></i>&nbsp;Apple Podcasts</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "android_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default subscribe_buttons" href="{{ .Site.Params.android_subscribe }}"><i class="fab fa-android"></i>&nbsp;Android</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "google_play_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.google_play_subscribe }}"><i class="fab fa-google-play"></i>&nbsp;Google Play Music</a>
+      </div>
+    {{ end }}
+    {{ with .Site.Params.stitcher_subscribe }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ . }}"><i class="fa fa-podcast"></i>&nbsp;Stitcher</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "soundcloud_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.soundcloud_subscribe }}"><i class="fab fa-soundcloud"></i>&nbsp;Soundcloud</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "pocketcasts_subscribe") }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.pocketcasts_subscribe }}"><i class="fa fa-podcast"></i>&nbsp;PocketCasts</a>
+      </div>
+    {{ end }}
+    {{ if (isset .Site.Params "rss_subscribe" )}}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
+      </div>
+    {{ else }}
+      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+        <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
+      </div>
+    {{ end }}
+
+
+</div>
+</div>
+</div>

@@ -9,6 +9,7 @@ date = "2018-12-18T00:00:01-07:00"
 episode = "23"
 episode_image = "img/guest/andreas_m_antonopoulos.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

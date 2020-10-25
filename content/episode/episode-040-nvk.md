@@ -9,6 +9,7 @@ date = "2020-06-05T00:00:01-07:00"
 episode = "40"
 episode_image = "img/guest/nvk.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []
