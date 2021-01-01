@@ -19,7 +19,7 @@ podcast_bytes = "22181304"
 tags = []
 title = "Hodlonaut, Katia and Karo Zagorus: Citadel 21, part one"
 youtube = "S_7PZi6HFKc"
-draft = "True"
+draft = "False"
 +++
 
 Written by Alexandra Moxin

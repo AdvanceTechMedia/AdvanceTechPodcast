@@ -17,6 +17,7 @@ podcast_file = "advance-tech-podcast-046-yeti-and-core.mp3"
 podcast_length = "1:01:00"
 podcast_bytes = "42327409"
 tags = []
+guests = ["jw.jpg, will, robertspigler"]
 title = "Yeti Cold and Bitcoin Core with JW Weatherman, Will and Robert Spigler"
 #youtube = ""
 draft = "False"
