@@ -21,7 +21,7 @@ aliases = "/sponsor"
 
 <b>* graphic design</b> - new episode templates, [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)
 
-<b>* intro/outro music, all shows: Alien Breed (1991) main theme, by A. Brimble</b>
+<b>* intro/outro music - Alien Breed (1991) main theme, by A. Brimble</b>
 
 <br></br>
 
