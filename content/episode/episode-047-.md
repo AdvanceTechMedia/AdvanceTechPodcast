@@ -17,7 +17,7 @@ podcast_file = "advance-tech-podcast-047-smuggler-frank-braun-1.mp3"
 podcast_length = "0:321:28"
 podcast_bytes = "16684102"
 tags = []
-#title = "On Privacy with Smuggler and Frank Braun, part one"
+title = "On Privacy with Smuggler and Frank Braun, part one"
 #youtube = ""
 draft = "False"
 +++

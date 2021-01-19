@@ -17,7 +17,7 @@ news_keywords = []
 #podcast_length = "0:321:28"
 #podcast_bytes = "16684102"
 tags = []
-title = "On Privacy with Smuggler and Frank Braun, part two"
+title = "On Privacy with Smuggler and Frank Braun, Part Two"
 #youtube = ""
 draft = "True"
 +++
