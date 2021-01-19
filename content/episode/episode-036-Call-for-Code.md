@@ -9,6 +9,7 @@ date = "2020-03-26T00:00:01-07:00"
 episode = "36"
 episode_image = "img/guest/daniel_krook.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

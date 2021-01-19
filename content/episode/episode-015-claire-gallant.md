@@ -9,6 +9,7 @@ date = "2018-04-09T04:09:45-07:00"
 episode = "15"
 episode_image = "img/guest/claire_gallant.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

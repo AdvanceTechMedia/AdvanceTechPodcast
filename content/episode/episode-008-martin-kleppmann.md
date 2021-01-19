@@ -9,6 +9,7 @@ date = "2017-10-27T04:09:45-07:00"
 episode = "8"
 episode_image = "img/guest/martin_kleppmann.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

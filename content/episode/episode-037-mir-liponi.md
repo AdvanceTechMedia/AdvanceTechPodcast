@@ -9,6 +9,7 @@ date = "2020-04-17T00:00:01-07:00"
 episode = "37"
 episode_image = "img/guest/mir_liponi3.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

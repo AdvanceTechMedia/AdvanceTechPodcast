@@ -9,6 +9,7 @@ date = "2017-11-14T04:09:45-07:00"
 episode = "9"
 episode_image = "img/guest/james_nugent.jpeg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

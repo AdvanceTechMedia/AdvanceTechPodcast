@@ -7,6 +7,7 @@ date = "2017-10-16T23:00:00-07:00"
 episode = "7"
 episode_image = "/img/guest/hussein_hallak.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []

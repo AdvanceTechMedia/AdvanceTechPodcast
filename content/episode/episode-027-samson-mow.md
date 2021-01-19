@@ -8,6 +8,7 @@ date = "2019-02-15T00:00:01-07:00"
 episode = "27"
 episode_image = "img/guest/samson_mow.jpeg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

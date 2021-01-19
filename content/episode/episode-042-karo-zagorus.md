@@ -9,6 +9,7 @@ date = "2020-07-03T00:00:01-07:00"
 episode = "42"
 episode_image = "img/guest/ATP_42.png"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

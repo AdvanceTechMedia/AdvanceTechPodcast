@@ -8,6 +8,7 @@ categories = []
 #episode = "34"
 #episode_image = "img/guest/ivanb.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

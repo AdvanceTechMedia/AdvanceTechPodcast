@@ -9,6 +9,7 @@ date = "2018-10-16T00:00:01-07:00"
 episode = "21"
 episode_image = "img/guest/tone_vays.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

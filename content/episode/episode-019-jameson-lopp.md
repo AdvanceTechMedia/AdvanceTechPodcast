@@ -9,6 +9,7 @@ date = "2018-07-26T00:00:01-07:00"
 episode = "19"
 episode_image = "img/guest/jameson-lopp1.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []
@@ -77,7 +78,7 @@ You can reach Jameson via his [personal website](https://lopp.net), on [twitter]
 * [Blockstack Platform](https://blockstack.org/)
 * [Bitcoin SIG](https://sites.google.com/site/bitcoinsig/)
 * [Article from Jameson on configuring and running a full Bitcoin node](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603)
-* [Jameson's full node resource use via Statoshi.info](statoshi.info)
+* [Jameson's full node resource use via Statoshi.info](https://statoshi.info)
 * [Statoshi.info - Realtime Bitcoin Node Stats](https://github.com/jlopp/statoshi)
 * [Bitcoin Core Config Generator](https://jlopp.github.io/bitcoin-core-config-generator/)
 * [Bitcoin Physical Attack Log](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)

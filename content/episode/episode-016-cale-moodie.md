@@ -9,6 +9,7 @@ date = "2018-05-08T04:09:45-07:00"
 episode = "16"
 episode_image = "img/guest/cale_moodie.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

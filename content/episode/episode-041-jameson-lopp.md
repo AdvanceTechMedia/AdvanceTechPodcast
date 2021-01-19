@@ -9,6 +9,7 @@ categories = []
 episode = "41"
 episode_image = "img/guest/jameson-lopp1.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

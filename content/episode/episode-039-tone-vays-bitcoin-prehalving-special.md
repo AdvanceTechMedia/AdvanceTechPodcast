@@ -9,6 +9,7 @@ date = "2020-05-08T00:00:01-07:00"
 episode = "39"
 episode_image = "img/guest/tone_halving_special.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []

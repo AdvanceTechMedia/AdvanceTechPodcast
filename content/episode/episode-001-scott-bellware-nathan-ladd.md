@@ -7,6 +7,7 @@ date = "2017-04-20T04:09:45-07:00"
 episode = "1"
 episode_image = "/img/guest/scott_bellware.jpg"
 explicit = "no"
+hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
