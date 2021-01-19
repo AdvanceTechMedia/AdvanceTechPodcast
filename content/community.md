@@ -19,6 +19,11 @@ Check out the good work and initiatives created by our friends.
 Inspired by the reality of objectivism, [**MVDEX**](https://21x.io/) creates artwork for the worthy individuals and artists that preserve the great motor of the world and manifest the pursuit of excellence. In 2018, a radical group of sovereign entrepreneurs recruited MVDEX to express their free-market ethics and limited government philosophy into a compelling and sexy aesthetic phenomenon. His instantly recognizable process emerged as the cultural catalyst of the sound money revolution, a divine revelation which purified his purpose and transformed his existence from observation to revolution.
 
 <br></br>
+<img src="/img/guest/el.jpg" alt="drawing" style="width: 200px;"/>
+
+[**Eppo Leemburg**](https://www.eppoleemburg.com/) has been an entrepreneur since 1995; selling, managing, presenting, profiling, designing, painting, woodworking. It’s not about one thing but following the energy and doing what makes him truly happy. He is interested in Bitcoin and what has been building around and on top of it. After surviving the financial crisis it was Bitcoin that got him back into making art. He has been restoring yachts and buildings with epoxy and 2k products for years, so now it's time to spread Bitcoin awareness through art. All pieces are one of a kind and soon the physical piece will be accompanied by a digital version, as soon as the tech is ready.
+
+<br></br>
 <img src="/img/sponsors/HODLR logo.jpg" alt="drawing" style="width: 200px;"/>
 
 [**HODLR.**](https://hodlrclothing.co/) is an alternative lifestyle brand. We aim to create clean and minimalistic Bitcoin clothing that is different than your typical orange coin apparel. Something a bit more modern and mysterious to wear while stacking sats and reading Rothbard. Pieces that look good for everybody, but only few will understand — If you know, you know.
