@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview Cryptocurrency, ICO, Blockchain and Ethereum expert Erik Reppel from Coinbase and Robert Reppel CTO at Adaptech! To find out more about this episode take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Cryptocurrency and Blockchain expert Erik Reppel from Coinbase and Robert Reppel CTO at Adaptech. To find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/5"]
 author = "Alexandra Moxin"
 categories = []
