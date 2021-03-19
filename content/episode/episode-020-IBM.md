@@ -9,6 +9,7 @@ date = "2018-09-17T00:00:01-07:00"
 episode = "20"
 episode_image = "img/guest/ibm_1.jpg"
 explicit = "no"
+guests = ["johnwalicki", "animeshsingh"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

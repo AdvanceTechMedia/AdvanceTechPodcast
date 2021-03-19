@@ -7,7 +7,8 @@ date = "2017-05-18T04:09:45-07:00"
 episode = "3"
 episode_image = "/img/guest/dustin_krysak.jpg"
 explicit = "no"
-hosts = ["alexandra"]
+guests = ["dustinkrysak"]
+hosts = ["adam"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
 news_keywords = []
@@ -44,7 +45,3 @@ Written by Adam Dymitruk
 
  * [Vancouver Linux Desktop Meetup](https://www.meetup.com/Vancouver-Linux-Desktop-Meetup/events/240043242/)
  * [Ubuntu Budgie](https://ubuntubudgie.org/)
-
-### Sponsored by
-
-

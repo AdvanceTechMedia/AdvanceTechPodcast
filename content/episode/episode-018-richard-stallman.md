@@ -9,6 +9,7 @@ date = "2018-06-12T16:09:45-07:00"
 episode = "18"
 episode_image = "img/guest/richard_stallman2.jpg"
 explicit = "no"
+guests = ["richardstallman"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

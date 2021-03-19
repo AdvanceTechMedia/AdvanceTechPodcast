@@ -1,13 +1,14 @@
 +++
 Description = "In this episode I visit SEBA Bank and speak with Phil Dettwiler, Head of Custody Storage and Transaction Banking. To access comprehensive show notes, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-#aliases = ["/34"]
+aliases = ["/34"]
 author = "Alexandra Moxin"
 categories = []
-#date = "2020-01-30T00:00:01-07:00"
-#episode = "34"
+date = "2020-01-30T00:00:01-07:00"
+episode = "35"
 #episode_image = "img/guest/ivanb.jpg"
 explicit = "no"
+guests = ["phildettwiler"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

@@ -9,6 +9,7 @@ date = "2018-07-26T00:00:01-07:00"
 episode = "19"
 episode_image = "img/guest/jameson-lopp1.jpg"
 explicit = "no"
+guests = ["jamesonlopp"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

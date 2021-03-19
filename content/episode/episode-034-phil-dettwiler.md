@@ -8,6 +8,7 @@ date = "2020-02-01T00:00:01-07:00"
 episode = "34"
 episode_image = "img/guest/phil_d2.jpg"
 explicit = "no"
+guests = ["phildettwiler"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

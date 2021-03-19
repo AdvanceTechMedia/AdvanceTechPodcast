@@ -9,6 +9,7 @@ date = "2017-09-29T04:09:45-07:00"
 episode = "6"
 episode_image = "img/guest/brian_benz.png"
 explicit = "no"
+guests = ["brianbenz"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -104,8 +105,3 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [@jefking_](https://twitter.com/jefking_?lang=en)
 * [@nthonyChu](https://twitter.com/nthonychu?lang=en)
 * [Anthony Chu's Not Bacon App](https://docs.microsoft.com/en-gb/sandbox/demos/notbacon)
-
-
-### Sponsored by
-
-

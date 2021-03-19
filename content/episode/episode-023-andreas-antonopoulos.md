@@ -9,6 +9,7 @@ date = "2018-12-18T00:00:01-07:00"
 episode = "23"
 episode_image = "img/guest/andreas_m_antonopoulos.jpg"
 explicit = "no"
+guests = ["andreasantonopoulos"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
@@ -25,7 +26,7 @@ draft = "False"
 
 Written by Alexandra Moxin
 
-"[Often] the truth [itself] is a revolutionary act" George Orwell, 1984
+<i>"[Often] the truth [itself] is a revolutionary act" George Orwell, 1984</i>
 
 If you're involved in Bitcoin or open blockchain projects in any way our next guest needs no introduction. In this episode we spend some time with best-selling author, speaker, educator, and one of the world’s foremost Bitcoin and open blockchain experts Andreas M. Antonopoulos. Andreas speaks about his academic and programming background and inspiration through cypherpunk philosophy, applications of cryptography and how he got into Bitcoin.
 

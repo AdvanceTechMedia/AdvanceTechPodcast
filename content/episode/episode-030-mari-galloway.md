@@ -8,6 +8,7 @@ date = "2019-05-07T00:00:01-07:00"
 episode = "30"
 episode_image = "img/guest/mari_galloway.jpeg"
 explicit = "no"
+guests = ["marigalloway"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

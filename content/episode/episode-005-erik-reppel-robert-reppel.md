@@ -7,6 +7,7 @@ date = "2017-08-31T04:09:45-07:00"
 episode = "5"
 episode_image = "/img/guest/erik_reppel.png"
 explicit = "no"
+guests = ["erikreppel", "robertreppel"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -103,8 +104,3 @@ Stay tuned for news, announcements and our next interview!
 * [Litecoin](https://litecoin.org/)
 * [Monero](https://coinmarketcap.com/currencies/monero/)
 * [Web 3.0](https://lifeboat.com/ex/web.3.0)
-
-### Sponsored by
-
-
-

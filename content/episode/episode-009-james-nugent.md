@@ -9,6 +9,7 @@ date = "2017-11-14T04:09:45-07:00"
 episode = "9"
 episode_image = "img/guest/james_nugent.jpeg"
 explicit = "no"
+guests = ["jamesnugent"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -102,8 +103,3 @@ We cover a lot in this episode, so get comfortable and hope you enjoy listening 
 * [Kotlin from Jetbrains](https://kotlinlang.org/)
 * [CLion from Jetbrains](https://www.jetbrains.com/clion/)
 * [Bucky Pizzarelli - guitar player from New Jersey](http://www.modernguitars.com/legends/bucky-pizzarelli/)
-
-
-### Sponsored by
-
-

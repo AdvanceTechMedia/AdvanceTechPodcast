@@ -7,6 +7,7 @@ date = "2017-10-16T23:00:00-07:00"
 episode = "7"
 episode_image = "/img/guest/hussein_hallak.jpg"
 explicit = "no"
+guests = ["husseinhallak"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -69,8 +70,3 @@ Hussein is passionate about entrepreneurship, education, tech, and is on a missi
 * [Sea to Sky Summit](https://betakit.com/whistlers-sea-to-sky-summit-emphasizes-understanding-your-values-when-building-a-business/)
 * [The Founder](https://www.netflix.com/ca/title/80101899)
 * [Simon Sinek - Start with Why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-
-
-### Sponsored by
-
-

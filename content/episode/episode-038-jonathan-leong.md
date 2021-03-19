@@ -9,6 +9,7 @@ date = "2020-04-27T00:00:01-07:00"
 episode = "38"
 episode_image = "img/guest/jonathan_leong_2.jpg"
 explicit = "no"
+guests = ["jonathanleong"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

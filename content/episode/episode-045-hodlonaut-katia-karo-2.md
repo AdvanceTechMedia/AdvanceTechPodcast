@@ -9,6 +9,7 @@ date = "2020-08-21T00:00:01-07:00"
 episode = "45"
 episode_image = "img/guest/ATP_episode_45.png"
 explicit = "no"
+guests = ["katoshi", "hodlonaut", "karoz"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

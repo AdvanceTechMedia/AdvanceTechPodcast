@@ -9,6 +9,7 @@ date = "2018-12-02T00:00:01-07:00"
 episode = "22"
 episode_image = "img/guest/project_OWL.jpg"
 explicit = "no"
+guests = ["angeldiaz", "bryanknouse", "nickfeuer"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

@@ -10,6 +10,7 @@ date = "2017-12-21T04:09:45-07:00"
 episode = "10"
 episode_image = "img/guest/mitchell_loureiro.jpg"
 explicit = "no"
+guests = ["mitchellloureiro"]
 hosts = ["alexandra"]
 sponsors = []
 images = ["http://www.google.com/img/episode/default-social.jpg"]

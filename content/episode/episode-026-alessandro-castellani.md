@@ -9,6 +9,7 @@ date = "2019-02-11T00:00:01-07:00"
 episode = "26"
 episode_image = "img/guest/ale.jpg"
 explicit = "no"
+guests = ["alessandrocastellani"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

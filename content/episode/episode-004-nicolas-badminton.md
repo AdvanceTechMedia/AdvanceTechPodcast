@@ -7,6 +7,7 @@ date = "2017-06-27T04:09:45-07:00"
 episode = "4"
 episode_image = "img/guest/nikolas_badminton.png"
 explicit = "no"
+guests = ["nikolasbadminton"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -65,7 +66,3 @@ Stay tuned for news, announcements and our next interview!
 
 * [Nikolas Badminton's Website](https://nikolasbadminton.com/)
 * [Futurist Speakers Agency](https://futuristspeakersagency.com)
-
-### Sponsored by
-
-

@@ -8,6 +8,7 @@ date = "2019-03-28T00:00:01-07:00"
 episode = "28"
 episode_image = "img/guest/dogu_taskiran.jpeg"
 explicit = "no"
+guests = ["dogutaskiran"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

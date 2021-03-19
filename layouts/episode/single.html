@@ -103,12 +103,12 @@
                   <div class="col-md-3">
                     {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
                       {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="250px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="300px">
                         {{- else -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="250px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="300px">
                       {{- end -}}
                       {{- else -}}
-                      <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width="250px"/>
+                      <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width="300px"/>
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
@@ -171,12 +171,12 @@
                       <div class="col-md-3">
                         {{- if and (isset $p "thumbnail") (ne $p.thumbnail "") -}}
                           {{- if (eq (slicestr $p.thumbnail 0 4) "http") -}}
-                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail}}" class="img-fluid" width = "250px">
+                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail}}" class="img-fluid" width = "300px">
                           {{- else -}}
-                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid" width = "250px">
+                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid" width = "300px">
                           {{- end -}}
                         {{- else -}}
-                          <img alt = "{{ $p.full_name }}" src = "{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width = "250px" />
+                          <img alt = "{{ $p.full_name }}" src = "{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width = "300px" />
                         {{- end -}}
                       </div>
                       <div class= "col-md-8">
@@ -222,9 +222,9 @@
             <div class="col-md-3">
               {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
                 {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
-                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="250px">
+                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="300px">
                   {{- else -}}
-                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="250px">
+                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="300px">
                 {{- end -}}
                 {{- else -}}
                 <img alt="{{ .Title }}" src="{{ "img/host/default-host.png" | absURL }}" class="img-fluid" width="250px"/>

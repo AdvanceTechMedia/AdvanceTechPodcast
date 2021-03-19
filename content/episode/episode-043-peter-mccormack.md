@@ -9,6 +9,7 @@ date = "2020-07-23T00:00:01-07:00"
 episode = "43"
 episode_image = "img/guest/ynmYaAse.jpg"
 explicit = "no"
+guests = ["petermccormack"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]

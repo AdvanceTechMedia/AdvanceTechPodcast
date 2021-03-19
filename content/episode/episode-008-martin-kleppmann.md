@@ -9,6 +9,7 @@ date = "2017-10-27T04:09:45-07:00"
 episode = "8"
 episode_image = "img/guest/martin_kleppmann.jpg"
 explicit = "no"
+guests = ["martinkleppmann"]
 hosts = ["alexandra"]
 sponsors = ["adaptechsolutions"]
 images = ["http://www.google.com/img/episode/default-social.jpg"]
@@ -75,7 +76,3 @@ For our listeners, if your interested in contributing to or building application
 * [Isabelle - Interactive Theorem Prover](http://isabelle.in.tum.de/)
 * [HOL (Higher Order Logic)](https://hol-theorem-prover.org/)
 * [Craft Conference in Budapest, May 8 - 11, 2018](https://craft-conf.com/)
-
-### Sponsored by
-
-

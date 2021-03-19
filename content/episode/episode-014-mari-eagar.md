@@ -9,6 +9,7 @@ date = "2018-03-06T04:09:45-07:00"
 episode = "14"
 episode_image = "img/guest/maRi_eager.jpg"
 explicit = "no"
+guests = ["marieagar"]
 hosts = ["alexandra"]
 #sponsors = ["adaptechsolutions"]
 #images = ["http://www.google.com/img/episode/default-social.jpg"]

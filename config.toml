@@ -5,7 +5,7 @@ theme = "castanet"
 googleAnalytics = "UA-98351650-1"
 disqusShortname = "advtechpodcast"
 themesdir = "themes"
-paginate = "8"
+paginate = 24
 
 
 [permalinks]
@@ -51,17 +51,18 @@ paginate = "8"
 [params]
 mainSections = ["episode"]
 site_theme = "blue"
-site_layout = "row"
+site_layout = "grid"
 enable_jumbo = "true"
-custom_css = ["css/custom.css"]
-#truncate = "100"
+#custom_css = ["css/custom.css"]
+truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
 media_prefix = "https://advancetechmedia.org/"
 
 copyright_notice = "Copyright 2017 - 2021 [Advance Tech Media](https://.advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
-android_subscribe = "https://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
+#android_subscribe = "https://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9hZHZhbmNldGVjaG1lZGlhLm9yZy9lcGlzb2RlL2luZGV4LnhtbA"
+podbean_subscribe ="https://www.podbean.com/podcast-detail/i2pkd-5e84a/Advance-Tech-Podcast"
 stitcher_subscribe = "https://www.stitcher.com/s?fid=356388&refid=stpr"
 spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
@@ -78,7 +79,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     itunes_image = "http://advancetechmedia.org/img/advancetechmediaavataritunes.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Tech News"
-    itunes_second_sub_category = "Software How-To"
+    itunes_second_sub_category = "Bitcoin"
     itunes_third_sub_category = "Podcasting"
 
   [params.social]
@@ -88,7 +89,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     linkedin = "/company/advance-tech-media/"
     #facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
     facebook = "advancetechmedia"
-    #twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    #twitter_domain = "https://twitter.com/AdvTechPodcast" # This domain shows in twitter cards as "View on `twitter_domain`"
     #googleplus = "ArrestedDevOps"
     #pinterest = "nozzleio"
     instagram = "advance_tech_media"
