@@ -121,3 +121,4 @@ The [**Human Data Commons (HDC) Foundation**](https://humandatacommons.org/) is 
 <br></br>
 
 [**KingPassive**](https://kingpassive.com/category/cryptocurrency/) is a blog that teaches beginners how to get started investing in cryptocurrency. From Bitcoin to crypto mining, it's an educational resource designed to help people understand what cryptocurrency is, how it works and why it matters.
+

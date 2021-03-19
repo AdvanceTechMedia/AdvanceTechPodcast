@@ -6,7 +6,7 @@ author = "Alexandra Moxin"
 categories = []
 date = "2019-07-27T00:00:01-07:00"
 episode = "33"
-episode_image = "img/guest/ivanb.jpg"
+episode_image = "img/guest/ivanb2.jpg"
 explicit = "no"
 guests = ["ivanbeschastnikh"]
 hosts = ["alexandra"]
@@ -18,7 +18,7 @@ podcast_file = "advance-tech-podcast-033-IvanB.mp3"
 podcast_length = "0:40:43"
 podcast_bytes = "27169276"
 tags = []
-title = "Deep Dive into Erlay with Ivan Beschastnikh, Associate Professor of Computer Science at UBC"
+title = "Deep Dive into Erlay with Ivan Beschastnikh, Associate Professor of Computer Science, UBC"
 youtube = ""
 draft = "False"
 +++
