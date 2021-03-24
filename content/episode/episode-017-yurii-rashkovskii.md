@@ -9,7 +9,7 @@ date = "2018-05-23T16:09:45-07:00"
 episode = "17"
 episode_image = "img/guest/yurii_rashkovskii.jpg"
 explicit = "no"
-guests = ["yuriirashkovskii"]
+guests = ["yuriirashkovskii", "adamdymitruk"]
 hosts = ["alexandra"]
 #sponsors = [""]
 #images = [""]
@@ -24,7 +24,7 @@ youtube = ""
 draft = "False"
 +++
 
-Written by Alexandra Moxin and Adam Dymitruk
+Written by Alexandra Moxin
 
 Yurii Rashkovskii is a Software Developer, Entrepreneur and Blockchain expert. He's passionate about edge computing (aka true serverless) and creating free and open solutions that liberate us from vendor lock-ins. He's recently released SIT: Serverless Information Tracker.
 

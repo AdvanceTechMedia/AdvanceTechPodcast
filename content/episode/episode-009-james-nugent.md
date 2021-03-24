@@ -24,7 +24,7 @@ youtube = ""
 draft = "False"
 +++
 
-Written by Alexandra Moxin and Adam Dymitruk
+Written by Alexandra Moxin
 
 James Nugent is a software developer from Bath, England. He currently works in engineering at [Joyent](https://www.joyent.com/), an open source public cloud company recently acquired by Samsung Electronics.
 
