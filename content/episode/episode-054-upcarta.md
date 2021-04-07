@@ -2,26 +2,26 @@
 
 Description = "This episode features Katie Ananina one of the Bitcoin Toxic Ladies, a competitive sailor, proponent of being a sovereign individual, flag theory, and opting out. To view the show transcript, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/53"]
+aliases = ["/54"]
 author = "Alexandra Moxin"
 categories = []
 date = "2021-04-06T00:00:01-07:00"
-episode = "53"
-episode_image = "img/guest/ATP_53.png"
+episode = "54"
+#episode_image = "img/guest/ATP_54.png"
 explicit = "no"
 hosts = ["alexandra"]
-guests = ["katieananina"]
+guests = ["", ""]
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-podcast_duration = "00:28:15"
-podcast_file = "advance-tech-podcast-053-katie.mp3"
-podcast_length = "00:28:15"
-podcast_bytes = "20119835"
+#podcast_duration = "00:15:00"
+#podcast_file = "advance-tech-podcast-053-katie.mp3"
+#podcast_length = "28:15:00"
+#podcast_bytes = "20119835"
 tags = []
-title = "Katie Ananina on Resilience and Being Self-Sovereign"
-youtube = "https://youtu.be/aBeFegPmXsc"
-draft = "False"
+#title = "Katie Ananina on Resilience and Being Self-Sovereign"
+#youtube = "https://youtu.be/aBeFegPmXsc"
+draft = "True"
 +++
 
 Written by Alexandra Moxin

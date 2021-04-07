@@ -1,18 +1,18 @@
 +++
-Title = "Katie"
+Title = "Ali"
 date = "2021-04-06T09:12:37-05:00"
-Twitter = "@KatieTheRussian"
-Website = "https://www.planbpassport.com/"
+#Twitter = "@KatieTheRussian"
+#Website = "https://www.planbpassport.com/"
 Type = "guest"
 #Facebook = ""
 #Linkedin = ""
 #Pronouns = ""
 #GitHub = ""
-Thumbnail = "img/guest/katie2.jpeg"
+#Thumbnail = "img/guest/katie2.jpeg"
 #Pinterest = ""
 #Instagram = ""
-YouTube = "channel/UC2p4YEkiYrhTA7Vb_0_K-kw"
-draft = "False"
+#YouTube = "channel/UC2p4YEkiYrhTA7Vb_0_K-kw"
+draft = "True"
 
 +++
 
