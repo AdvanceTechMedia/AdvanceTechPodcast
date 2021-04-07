@@ -42,7 +42,7 @@ Keep watching at the end for a preview of outtakes you'll see on Advance Tech Po
 
 This episode was recorded using [Jitsi.org](https://jitsi.org/) - a privacy focused, open source video conferencing platform. Please consider using and supporting FOSS/OSS.
 
-### Show Links
+### Links
 
 * [Strike](https://beta.strike.me/)
 * [Yellow on Twitter](https://twitter.com/ICOffender)
@@ -55,6 +55,7 @@ This episode was recorded using [Jitsi.org](https://jitsi.org/) - a privacy focu
 * [Pop cat: Blinding Lights](https://twitter.com/ICOffender/status/1372942362968788997?s=20)
 * [Yellow's Katamaran](https://www.youtube.com/watch?v=NQ73hwkyYXA)
 * [Featured Meme Artist: RD on 21ism](https://21ism.com/portfolio-item/rd-btc/)
+* [Bitcoin: The future of money? by Dominic Frisby](https://www.amazon.ca/Bitcoin-future-money-Dominic-Frisby/dp/1783521023)
 * [Bitcoin Magazine Authors: Greg Zaj](https://bitcoinmagazine.com/authors/gregzaj)
 * [The Crypto Buzz #1, by ICOffender in Citadel 21, Vol.1](https://www.citadel21.com/the-crypto-buzz)
 * [The Crypto Buzz #2, by ICOffender in Citadel 21, Vol.3](https://www.citadel21.com/the-crypto-buzz-2)
@@ -73,7 +74,7 @@ This episode was recorded using [Jitsi.org](https://jitsi.org/) - a privacy focu
 * [Mr. Oizo, discography](https://www.discogs.com/artist/791-Mr-Oizo)
 * [Asterix and Obelix](https://www.asterix.com/en/the-collection/albums/)
 
-### Show Transcript
+### Transcript
 timing points by otter.ai, edited by Alexandra
 
 #### Backgrounds and Origin Stories
