@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview our special guest Michael Feathers of r7k Research & Conveyance and author of Working Effectively with Legacy Code. To find out more about this episode take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Michael Feathers Founder and Director of r7k Research & Conveyance and author of Working Effectively with Legacy Code. To find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/2"]
 author = "Alexandra Moxin"
 categories = []

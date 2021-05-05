@@ -1,19 +1,19 @@
 +++
 Title = "Stackmore"
-date = "2021-04-06T09:12:37-05:00"
-#Twitter = "@KatieTheRussian"
-#Website = "https://www.planbpassport.com/"
+date = "2021-05-04T09:12:37-05:00"
+Twitter = "@1971Bubble"
+Website = "https://www.upcarta.com/"
 Type = "guest"
 #Facebook = ""
 #Linkedin = ""
 #Pronouns = ""
 #GitHub = ""
-#Thumbnail = "img/guest/katie2.jpeg"
+Thumbnail = "img/guest/stack_more.jpg"
 #Pinterest = ""
 #Instagram = ""
-#YouTube = "channel/UC2p4YEkiYrhTA7Vb_0_K-kw"
-draft = "True"
+#YouTube = ""
+draft = "False"
 
 +++
 
-Katie Ananina is a girl on her way to self-sovereignty. She is a continuous traveler and endless immigrant looking for special places for life, business and freedom. As someone who was born and raised in Russia, she decided to stop fighting rumors about her spy-related past and is now learning all the cool things a russian spy must know, except for obeying the orders.
+Stack is a bitcoiner. He created Bitcoin Only, a collection of the highest quality Bitcoin resources and is a CoFounder of Upcarta.

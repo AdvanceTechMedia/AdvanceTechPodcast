@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview special guest and futurist, Nikolas Badminton! To find out more about this episode take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Futurist and Keynote Speaker, Nikolas Badminton. To find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/4"]
 author = "Alexandra Moxin"
 categories = []

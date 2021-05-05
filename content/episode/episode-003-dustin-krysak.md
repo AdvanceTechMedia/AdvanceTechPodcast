@@ -1,5 +1,5 @@
 +++
-Description = "Our special guest interview with Dustin Krysak contributor to Ubuntu Budgie. As always, to find out more about this episode take a look at the shownotes by clicking the episode title."
+Description = "This week Adam interviews Dustin Krysak Technology Manager at Teradici and Contributor to Ubuntu Budgie. As always, to find out more about this episode take a look at the shownotes by clicking the episode title."
 aliases = ["/3"]
 author = "Adam Dymitruk"
 categories = []
@@ -24,7 +24,7 @@ youtube = ""
 
 Written by Adam Dymitruk
 
-[Dustin Krysak](https://twitter.com/@Bashfulrobot) is a manager at Teradici. He has extensive backgroud in Linux and infrastructure. He's a contributor to Ubuntu Budgie.
+[Dustin Krysak](https://twitter.com/@Bashfulrobot) is a manager at Teradici. He has extensive background in Linux and infrastructure. He's a contributor to Ubuntu Budgie.
 
 ### What we cover in this episode
 

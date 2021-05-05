@@ -1,6 +1,6 @@
 +++
 
-Description = "Martin Kleppmann is a software engineer, entrepreneur, author and speaker. He co-founded Rapportive (acquired by LinkedIn in 2012) and Go Test It (acquired by Red Gate Software in 2009). An accomplished author and academic, Martin wrote a book for OReilly, called Designing Data-Intensive Applications, while working as a researcher at the University of Cambridge Computer Laboratory."
+Description = "Martin Kleppmann is a software engineer, entrepreneur, author and speaker. He cofounded Rapportive (acquired by LinkedIn in 2012) and Go Test It (acquired by Red Gate Software in 2009). An accomplished author and academic, Martin wrote a book for OReilly, called Designing Data Intensive Applications, while working as a researcher at the University of Cambridge Computer Laboratory."
 
 aliases = ["/8"]
 author = "Alexandra Moxin"

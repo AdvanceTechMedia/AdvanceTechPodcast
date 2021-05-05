@@ -1,5 +1,5 @@
 +++
-Description = "This week we interview Hussein Hallak, General Manager and Head Mentor at Launch Academy! We cover how Hussein became a serial entrepreneur, startup advisor, investor and mentor. Hussein speaks about what it takes to be a successful entrepreneur and how passion, hard work and humility are the keys to success in any field. For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
+Description = "This week we interview Hussein Hallak, General Manager and Head Mentor at Launch Academy. We cover how Hussein became a serial entrepreneur, startup advisor, investor and mentor. Hussein speaks about what it takes to be a successful entrepreneur and how passion, hard work and humility are the keys to success in any field. For a comprehensive breakdown of the episode and showlinks take a look at the shownotes by clicking the episode title."
 aliases = ["/7"]
 author = "Alexandra Moxin"
 categories = []
