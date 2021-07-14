@@ -43,3 +43,4 @@ You can reach this episode's guests on twitter at [@The Real Smuggler](https://t
 * [Anarplex.net](https://anarplex.net/)
 * [Paralelni Polis](https://www.paralelnipolis.cz/)
 * [7th Annual Hacker's Congress @ Paralelni Polis - Digital Totality, October 2-4, 2020](https://digital-totality.hcpp.cz/)
+* [](https://taz0.org

@@ -19,7 +19,7 @@ podcast_file = "advance-tech-podcast-051-copa-oca.mp3"
 podcast_length = "00:36:08"
 podcast_bytes = "25135991"
 tags = []
-title = "Max Sills IP Counsel at Square and GM of COPA and Jed Grant Co-Founder of OCA and CEO of KYC3"
+title = "Max Sills IP Counsel at Square and GM of COPA and Jed Grant Co-Founder of Open Crypto Alliance"
 youtube = "Glm_8l-5lU8"
 draft = "False"
 +++

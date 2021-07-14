@@ -5,7 +5,7 @@ Description = "This episode features Chris Wood, COO at Pixelmatic, creators of 
 aliases = ["/55"]
 author = "Alexandra Moxin"
 categories = []
-date = "2021-06-03T00:00:01-07:00"
+date = "2021-06-05T00:00:01-07:00"
 episode = "55"
 episode_image = "img/guest/ATP_55.jpg"
 explicit = "no"
@@ -14,14 +14,14 @@ guests = ["chriswood"]
 #sponsors = [""]
 #images = [""]
 news_keywords = []
-#podcast_duration = "00:24:42"
-#podcast_file = "advance-tech-podcast-055-pixelmatic.mp3"
-#podcast_length = "00:24:42"
-#podcast_bytes = "17333505"
+podcast_duration = "00:28:00"
+podcast_file = "advance-tech-podcast-055-pixelmatic-cw.mp3"
+podcast_length = "00:28:00"
+podcast_bytes = "19795707"
 tags = []
 title = "Chris Wood, COO of Pixelmatic"
-#youtube = "https://youtu.be/kRST7kypCsM"
-draft = "True"
+youtube = "https://youtu.be/NqJjCMC3GIY"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
@@ -47,6 +47,7 @@ To close out the episode I ask Chris if he has any questions for the audience, a
 * [Millennials in China Podcast ](https://twitter.com/MillennialsCN)  
 * [Infinite Fleet on Twitter](https://twitter.com/InfiniteFleet)
 * [Stokr on Twitter](https://twitter.com/stokr_io)  
+* [Citadel21](https://www.citadel21.com/)
 
 
 ### Transcript

@@ -1,6 +1,6 @@
 +++
 Title = "Chris Wood"
-date = "2021-06-03T09:12:37-05:00"
+date = "2021-06-05T09:12:37-05:00"
 Twitter = "@ChrisWood1821"
 Website = "https://pixelmatic.com/about"
 Type = "guest"
@@ -12,7 +12,7 @@ Thumbnail = "img/guest/chris-wood.jpg"
 #Pinterest = ""
 #Instagram = ""
 YouTube = "user/pixelmatictv"
-draft = "True"
+draft = "False"
 
 +++
 
