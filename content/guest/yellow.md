@@ -16,4 +16,4 @@ draft = "False"
 
 +++
 
-Yellow is the creator of pop cat, the character Yellow, and co-creator (1 of 9) of the #LaserRayUntil100K phenomenon on Twitter.  He is one of the three Chief Meme Officers at Strike and helped start "The Karpeles' Mtgox Fund".
+Yellow is the creator of bitcoin pop cat, the character Yellow, and is co-creator (1 of 9) of the #LaserRayUntil100K phenomenon on Twitter.  He is one of the three Chief Meme Officers at Strike and helped start "The Karpeles' Mtgox Fund".

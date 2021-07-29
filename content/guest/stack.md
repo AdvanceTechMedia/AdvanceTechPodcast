@@ -16,4 +16,4 @@ draft = "False"
 
 +++
 
-Stack is a bitcoiner. He created Bitcoin Only, a collection of the highest quality Bitcoin resources and is a CoFounder of Upcarta.
+Stack is a bitcoiner. He created [Bitcoin Only](https://bitcoin-only.com/), a collection of the highest quality Bitcoin resources and is a CoFounder of Upcarta.
