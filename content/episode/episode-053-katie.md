@@ -20,7 +20,7 @@ podcast_length = "00:28:15"
 podcast_bytes = "20119835"
 tags = []
 title = "Katie Ananina on Resilience and Being Self-Sovereign"
-youtube = "https://youtu.be/aBeFegPmXsc"
+youtube = "aBeFegPmXsc"
 draft = "False"
 +++
 

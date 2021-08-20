@@ -20,7 +20,7 @@ podcast_length = "00:24:42"
 podcast_bytes = "17333505"
 tags = []
 title = "Stack and Ali Cofounders of Upcarta"
-youtube = "https://youtu.be/kRST7kypCsM"
+youtube = "kRST7kypCsM"
 draft = "False"
 +++
 

@@ -5,7 +5,7 @@ title = "Syndicate"
 aliases = "/syndicate"
 +++
 
-<h3> ATP - Syndicate </h3>
+<h3> Syndicated Contributors </h3>
 Independently produced work by Advance Tech Media's syndicated contributors.
 
 

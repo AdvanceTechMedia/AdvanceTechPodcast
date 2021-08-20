@@ -9,7 +9,6 @@ aliases = "/community"
 Check out the good work and initiatives created by our friends.
 
 <br></br>
-
 <img src="/img/guest/OneaLTU0_400x400.jpg" alt="drawing" style="width: 200px;"/>
 
 [**Citadel21**](https://www.citadel21.com/) is a Bitcoin cultural zine. Bitcoin culture is rich and varied. It contains
@@ -20,11 +19,7 @@ display.
 <br></br>
 <img src="/img/guest/MVDEX RED.png" alt="drawing" style="width: 200px;"/>
 
-Inspired by the reality of objectivism, [**MVDEX**](https://21x.io/) creates artwork for the worthy individuals and
-artists that preserve the great motor of the world and manifest the pursuit of excellence. In 2018, a radical group of
-sovereign entrepreneurs recruited MVDEX to express their free-market ethics and limited government philosophy into a
-compelling and sexy aesthetic phenomenon. His instantly recognizable process emerged as the cultural catalyst of the
-sound money revolution, a divine revelation which purified his purpose and transformed his existence from observation to
+Inspired by the reality of objectivism, [**MVDEX**](https://21x.io/) creates artwork for the worthy individuals and artists that preserve the great motor of the world and manifest the pursuit of excellence. In 2018, a radical group of sovereign entrepreneurs recruited MVDEX to express their free-market ethics and limited government philosophy into a compelling and sexy aesthetic phenomenon. His instantly recognizable process emerged as the cultural catalyst of the sound money revolution, a divine revelation which purified his purpose and transformed his existence from observation to
 revolution.
 
 <br></br>
@@ -38,9 +33,29 @@ and 2k products for years, so now it's time to spread Bitcoin awareness through 
 soon the physical piece will be accompanied by a digital version, as soon as the tech is ready.
 
 <br></br>
-<img src="/img/sponsors/CC_400x400.jpg" alt="drawing" style="width: 200px;"/>
+<img src="/img/sponsors/Rockdoc.jpg" alt="drawing" style="width: 200px;"/>
 
-[**CryptoCloaks**](https://www.cryptocloaks.com/) CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Their passion for 3D design sparked in December of 2017 with their first product, a Ledger Nano S mount. This product allowed them to safely and securely keep the Ledger hidden. After this first success, CryptoCloaks quickly grew and have been designing and manufacturing ever since, thanks to the customers who believe in their products. CryptoCloaks strive for quality products and innovative solutions for keeping your Bitcoin safe, all while looking great.
+[**Rockdoc**](https://rockdocinc.ca/) is a Medical Services and Consulting Company providing innovative solutions for complex health related problems and environments. From medical support for large scale music festivals and mass gatherings to remote events and retreats,  corporate and employee health and wellness, COVID safety consulting and testings/compliance or COVID testing for travel  Our team of doctors, nurses, and paramedics works with our production and logistics teams to solve our client’s problems or get you where you need to be. Rockdoc is focussed on helping people navigate the complexities of health safety and wellness, across Canada and around the world.
+
+<br></br>
+<img src="/img/sponsors/em2.png" alt="drawing" style="width: 200px;"/>
+
+[**Event Modeling.org**](https://eventmodeling.org/) is a way of defining and describing systems using examples of how information has changed over time. This method omits transient details and looks at what is durably stored and what the user sees at any particular point in time. The challenge of automating traditional non-trivial systems increases as the system grows in complexity. Event Modeling minimizes the amount of rework by working off of a blueprint that can be created in a very short time compared to existing design and modeling methodologies.
+
+<br></br>
+<img src="/img/sponsors/Terra mars logo.png" alt="drawing" style="width: 200px;"/>
+
+[**Terra-Mars**](http://www.terra-mars.com/) is creating a Mars/Space Theme Park that showcases Aquaponics. The production of a Martian aquaponic system will demonstrate that aquaponic is the best approach to producing food for humans anywhere on or off the earth. Terra Mars' ultimate goal is local food security for all and to return 50% of the world’s arable land to the biodiversity it once supported by the year 2050.
+
+<br></br>
+<img src="/img/sponsors/mfm600x200.jpeg" alt="drawing" style="width: 200px;"/>
+
+[**The Meme Factory(tm) Merch**](https://mfmerch.com/) The Meme Factory™ does not exist, but they definitely are the reason your mother has laser eyes in her profile pic. You like the memes. Now you can buy sh*t.
+
+<br></br>
+<img src="/img/sponsors/BTC_Sessions.webp" alt="drawing" style="width: 200px;"/>
+
+Ben is host of the [**BTC Sessions**](https://www.btcsessions.ca/) and is Canada's most popular YouTube Bitcoin educator. He has the best tutorials including his [Getting Started](https://youtube.com/playlist?list=PLxdf8G0kzsUWe-rG0X6LDJAMXL7761B42) playlist which guides precoiners to become sovereign bitcoiners in no time. Since 2016 Ben has amassed a following of 57,000 subscribers and over 4.5 million views across all his content. He has been featured locally on CTV and Global, as well as numerous industry podcasts/publications like Crush The Street, Bloxlive TV and more. When he's not creating content for his [YouTube Channel](https://www.youtube.com/channel/UChzLnWVsl3puKQwc5PoO6Zg), [Podcast](https://anchor.fm/btcsessions), or hosting educational workshops, Ben spends his time with his family traveling the globe.
 
 <br></br>
 <img src="/img/sponsors/UG_400x400.jpg" alt="drawing" style="width: 200px;"/>
@@ -58,6 +73,11 @@ soon the physical piece will be accompanied by a digital version, as soon as the
 [**Oshi**](https://www.oshi.tech/) is a hyper-verticalized local promotions marketplace offering game-changing
 incentives to merchants, consumers, and evangelists. Each standard promotion gives you the option to save money or earn
 bitcoin ‘cashback’ rewards. Merchants receive either bitcoin, USD, or a combination of both.
+
+<br></br>
+<img src="/img/sponsors/ZULA_Logo_Final_Gray_20181112.png" alt="drawing" style="width: 200px;"/>
+
+[**Neon Love by Zula**](https://www.zulajewelry.com/) Handcrafted artisanal jewelry that serves as a bridge between the Natural World and You, designed to represent your connection to the Earth, the Cosmos and your truest Self.
 
 <br></br>
 <img src="/img/sponsors/HODLR logo.jpg" alt="drawing" style="width: 200px;"/>
@@ -86,7 +106,6 @@ his time helping individuals and companies with Bitcoin, and working on Bitcoin 
 Lightning Network.
 
 <br></br>
-
 <img src="/img/sponsors/unhashedpodcast.png" alt="drawing" style="width: 200px;"/>
 
 The [**Unhashed Podcast**](https://www.unhashedpodcast.com/) breaks down the latest in Bitcoin news and developments and
@@ -96,7 +115,6 @@ to the bitcoin ecosystem? Does Litecoin help or hinder bitcoin development? Expe
 questions from the Unhashed professionals Ruben, Bryan, Colin, and Mario!
 
 <br></br>
-
 <img src="/img/sponsors/anita.jpg" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin & Co. Podcast**](https://bitcoinundco.com/en/) - the Philosophy, Ideas and People Behind Bitcoin by Anita
@@ -105,7 +123,6 @@ ecosystem. In this show Anita talks with people who dedicate their time to devel
 neutral, decentralized, open and free financial internet infrastructure - the internet of money.
 
 <br></br>
-
 <img src="/img/sponsors/thrashingcodelogo.png" alt="drawing" style="width: 200px;"/>
 
 [**Thrashing Code**](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ) by Adron Hall. Adron is often referred to
@@ -115,7 +132,6 @@ snarky wit, Adron is the person you want building teams and creating systems. Hi
 knowledge, and enthusiasm is exceptional.
 
 <br></br>
-
 <img src="/img/sponsors/eclogo.png" alt="drawing" style="width: 200px;"/>
 
 [Abasi](https://www.facebook.com/abasiMusic/) & Glyn present: [**Electric Cafe**](http://electriccafe.ca/)  where you
@@ -126,17 +142,6 @@ to [De Radio](https://deradio.ca/?fbclid=IwAR0IkUmURjfYxPz0Ym-lTZ-jocRZBFvgoK7u8
 10pm UTC every Sunday.
 
 <br></br>
-
-<img src="/img/sponsors/singularityNET.png" alt="drawing" style="width: 200px;"/>
-
-The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is a civilized place for public discussion
-to share skills, knowledge and interests through ongoing conversation. Participants are encouraged to move the
-discussion forward by contributing to and engaging in reasoned counter-arguments that improve the conversation. The
-SingularityNET platform enables multiple AI computing agents to work as a whole to provide various services in a
-distributed and decentralized way.
-
-<br></br>
-
 <img src="/img/sponsors/Jameson.png" alt="drawing" style="width: 200px;"/>
 
 [**Jameson Lopp's Bitcoin Resources**](https://lopp.net/bitcoin.html) is one of the most comprehensive sources about
@@ -145,7 +150,6 @@ which levels the playing field but it's not easy to understand without putting i
 to make sure you have a decent grasp of the system before you store a significant amount of value in it.
 
 <br></br>
-
 <img src="/img/sponsors/bitcoinandbeers.png" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin-N-Beers**](https://www.bitcoinandbeers.com/) is a volunteer run group of cryptocurrency enthusiasts. We meet
@@ -154,7 +158,6 @@ to be a technophile, a crypto trader, or understand blockchain to join us. It's 
 alike.
 
 <br></br>
-
 <img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>
 
 [**Hass McCook, Bitcoin Evangelist. BEng, MEngSc, MBA**](https://www.youtube.com/HassMcCook) is a Chartered Civil
@@ -164,16 +167,6 @@ from consulting, design, construction and client/asset-owner points of view. Has
 Bitcoin.
 
 <br></br>
-
-<img src="/img/sponsors/HDC Logo.png" alt="drawing" style="width: 200px;"/>
-
-The [**Human Data Commons (HDC) Foundation**](https://humandatacommons.org/) is a non-profit committed to helping create
-a more equitable and sustainable digital future for all. HDC is developing a network of tech and social innovators
-passionate about empowering citizens as participants in the digital future. Join us as a sponsor for ParTecK, our
-signature event, and support our network as we seek to expand.
-
-<br></br>
-
 <img src="/img/sponsors/bucerias3raedad.jpeg" alt="drawing" style="width: 200px;"/>
 
 [**Bucerias Tercera Edad**](https://buceriasterceraedad.org/) has a mission to enhance the quality of life of Mexico’s
@@ -183,10 +176,16 @@ They are breaking ground on a full time assisted living care home providing qual
 early January 2019.
 
 <br></br>
+<img src="/img/sponsors/HDC Logo.png" alt="drawing" style="width: 200px;"/>
 
-<img src="/img/sponsors/kingpassive.png" alt="drawing" style="width: 200px;"/>
+The [**Human Data Commons (HDC) Foundation**](https://humandatacommons.org/) is a non-profit committed to helping create
+a more equitable and sustainable digital future for all. HDC is developing a network of tech and social innovators
+passionate about empowering citizens as participants in the digital future. Join us as a sponsor for ParTecK, our
+signature event, and support our network as we seek to expand.
 
-[**KingPassive**](https://kingpassive.com/category/cryptocurrency/) is a blog that teaches beginners how to get started
-investing in cryptocurrency. From Bitcoin to crypto mining, it's an educational resource designed to help people
-understand what cryptocurrency is, how it works and why it matters.
+<br></br>
+<img src="/img/sponsors/singularityNET.png" alt="drawing" style="width: 200px;"/>
 
+The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is a civilized place for public discussion to share skills, knowledge and interests through ongoing conversation. Participants are encouraged to move the discussion forward by contributing to and engaging in reasoned counter-arguments that improve the conversation. The SingularityNET platform enables multiple AI computing agents to work as a whole to provide various services in a distributed and decentralized way.
+
+<br></br>

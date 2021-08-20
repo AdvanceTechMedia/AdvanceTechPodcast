@@ -20,7 +20,7 @@ podcast_length = "00:28:00"
 podcast_bytes = "19795707"
 tags = []
 title = "Chris Wood, COO of Pixelmatic"
-youtube = "https://youtu.be/NqJjCMC3GIY"
+youtube = "NqJjCMC3GIY"
 draft = "False"
 +++
 

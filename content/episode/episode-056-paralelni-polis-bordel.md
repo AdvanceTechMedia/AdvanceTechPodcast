@@ -20,7 +20,7 @@ podcast_length = "00:38:24"
 podcast_bytes = "453443584"
 tags = []
 title = "Paralelni Polis and Bordel Hackerspace (Recorded Live)"
-#youtube = ""
+youtube = "zmsLH-t1-Jg"
 draft = "False"
 +++
 

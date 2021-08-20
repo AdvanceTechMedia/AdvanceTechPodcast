@@ -27,7 +27,16 @@ aliases = "/sponsor"
 
 <h2> Sponsors </h2>
 
-<b>New Sponsor!</b> [M3is3d](https://m3is3d.com/), the best HEADS on the interwebz, creates 3D printed headphone stands, wall mounts, and other unique products. Watch a review at the beginning of (future link to the next episode - coming late July) and check out the incredibly creative designs and solid workmanship for yourself. Use the code ATP10 for 10% off.
+<b>New Sponsor!</b>
+
+<img src="/img/sponsors/CC_400x400.jpg" alt="drawing" style="width: 200px;"/>
+
+[**CryptoCloaks**](https://www.cryptocloaks.com/) CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Their passion for 3D design sparked in December of 2017 with their first product, a Ledger Nano S mount. This product allowed them to safely and securely keep the Ledger hidden. After this first success, CryptoCloaks quickly grew and have been designing and manufacturing ever since, thanks to the customers who believe in their products. CryptoCloaks strive for quality products and innovative solutions for keeping your Bitcoin safe, all while looking great. Use the code ATPSHIP for 5% off at checkout.
 
 <br></br>
 
+<img src="/img/sponsors/M3.jpg" alt="drawing" style="width: 200px;"/>
+
+[**M3is3d**](https://m3is3d.com/), the best HEADS on the interwebz, creates 3D printed headphone stands, wall mounts, and other unique products. Watch a review at the beginning of [ATP - episode 57](https://youtu.be/JE1jXXxLzQQ) and check out the incredibly creative designs and solid workmanship for yourself. Use the code ATP10 for 10% off.
+
+<br></br>

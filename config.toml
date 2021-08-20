@@ -5,7 +5,7 @@ theme = "castanet"
 googleAnalytics = "UA-98351650-1"
 disqusShortname = "advtechpodcast"
 themesdir = "themes"
-paginate = 24
+paginate = 30
 
 
 [permalinks]
@@ -34,8 +34,8 @@ paginate = 24
     url = "/about"
 
 [[Menu.Main]]
-  name = "Sponsor"
-   identifier = "sponsor"
+  name = "Sponsors"
+   identifier = "sponsors"
    url = "/sponsor"
 
 [[Menu.Main]]
@@ -46,7 +46,7 @@ paginate = 24
 #[[Menu.Main]]
 #    name = "Syndicate"
 #    identifier = "syndicate"
-#    url = "syndicate"
+#    url = "syndicated_contributors"
 
 [params]
 mainSections = ["episode"]
