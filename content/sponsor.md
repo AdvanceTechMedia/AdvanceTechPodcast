@@ -10,9 +10,11 @@ aliases = "/sponsor"
 
 <b>Subscribe</b> to the show on your favourite podcast platform and **give us a rating** or **leave a review**. You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), and [Instagram](https://www.instagram.com/advance_tech_media/)
 
-<b>Sponsor by bitcoin:  3ENJXGmbURrRJHT5V2yVM6THaT6AB5VsmR</b>
 
-<b>Support</b> the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)** 
+
+<img src="/img/sponsors/UV101.jpg" alt="drawing" style="width: 200px;"/>
+<br></br>
+<b>Sponsor using bitcoin</b> or support the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)** 
 
 
 <br></br>
