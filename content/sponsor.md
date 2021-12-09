@@ -31,6 +31,15 @@ aliases = "/sponsor"
 
 <b>New Sponsor!</b>
 
+<img src="/img/guest/OneaLTU0_400x400.jpg" alt="drawing" style="width: 200px;"/>
+
+[**Citadel21**](https://www.citadel21.com/) is a Bitcoin cultural zine. Bitcoin culture is rich and varied. It contains
+a multitude of voices, opinions and flavors. Together they form what is seemingly chaos, but with an abundance of
+signal. Citadel21 aims to curate this chaos and put some of the best, coolest and weirdest pieces of raw signal on
+display.
+
+<br></br>
+
 <img src="/img/sponsors/CC_400x400.jpg" alt="drawing" style="width: 200px;"/>
 
 [**CryptoCloaks**](https://www.cryptocloaks.com/) CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Their passion for 3D design sparked in December of 2017 with their first product, a Ledger Nano S mount. This product allowed them to safely and securely keep the Ledger hidden. After this first success, CryptoCloaks quickly grew and have been designing and manufacturing ever since, thanks to the customers who believe in their products. CryptoCloaks strive for quality products and innovative solutions for keeping your Bitcoin safe, all while looking great. Use the code ATPSHIP for 5% off at checkout.
