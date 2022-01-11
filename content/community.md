@@ -7,13 +7,27 @@ aliases = "/community"
 #### Friends of the Advance Tech Podcast
 
 Check out the good work and initiatives created by our friends.
+
+<br></br>
+**SPECIAL ANNOUNCEMENT**
+
+<img src="/img/sponsors/Team Challenge_red-logo_trans-2017.jpeg
+" alt="drawing" style="width: 200px;"/>
+
+Hal Finney was one of the first supporters of bitcoin. On January 10, 2009 he famously tweeted: “Running bitcoin”. Two days later he received the first bitcoin transaction for 10 BTC from Satoshi in block 170. On August 5, 2009, Hal was diagnosed with ALS. He lived valiantly with ALS for 5 more years, and passed away in August, 2014. From **January 1-10, 2022**, run a total of 13.1 miles (Hal's favorite race distance), or a distance of your choice while raising funds and awareness for the disease. For more information or to donate in support, please visit [RunningBitcoin.us](http://webgw.alsa.org/site/TR?team_id=400870&fr_id=14584&pg=team&_ga=2.113996615.1333360976.1641233639-1415277750.1631235088).
+
+<br></br>
+<img src="/img/sponsors/Chapter logo - banner - red.png" alt="drawing" style="width: 200px;"/>
+
+[**ALS Association - Golden West Chapter**](http://webgw.alsa.org/site/PageServer?pagename=GW_homepage) is dedicated to the fight against ALS in many ways - funding global research, supporting scientific and clinical collaboration, providing professional care management services to families facing ALS, partnering with multidisciplinary ALS clinics and centers, connecting people with ALS to clinical trials, increasing ALS awareness, driving important public policy initiatives, and bringing the ALS community together.
+
 <br></br>
 <img src="/img/guest/800px-Team_satoshi_PNG.png" alt="drawing" style="width: 200px;"/>
 
 [**team satoshi**](https://teamsatoshi.org/wiki/Main_Page) is a sports team creating awareness for bitcoin and bringing forward the decentralization of money and power. The group organizes private sports challenges and local sports teams and contributes to public sports events. They advocate for human rights, the cypherpunk manifesto and the bitcoin whitepaper. Sportswomen and sportsmen can become part of team satoshi anywhere in the world and are encouraged to start their own projects, challenges, and teams, sports, art and other forms of creativity & community engagement.
 
 <br></br>
-<img src="/img/guest/BR_400x400.jpg" alt="drawing" style="width: 200px;"/>
+<img src="/img/guest/bitcoinrunners.png" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin Runners**](https://bitcoinrunners.org/), a proud member of the #teamsatoshi initiative, it is a not-for-profit organisation at the intersection of two community-led movements enabling sovereignty of one’s wealth, while improving one’s health. The group's goals are to accelerate the adoption of bitcoin and socialise its use as a global currency, and to encourage more people to enjoy the wonderful life-changing benefits of running. For existing bitcoiners who run (aka fitcoiners) pickup a shirt and spread the word. This group will help you make new and meaningful social and business connections, both locally and internationally.
 
@@ -25,7 +39,7 @@ Check out the good work and initiatives created by our friends.
 <br></br>
 <img src="/img/guest/NS_400x400.jpg" alt="drawing" style="width: 200px;"/>
 
-[**New Story**](https://newstorycharity.org/) believes radical generosity can create a world without homelessness. They pioneer solutions to address global homelessness and imagine a world where no human lives in survival mode. Donors see exactly who needs help, and give knowing that 100% of their donation goes to the field, and receive a video of the family they helped in their new home. Are you ready to build? View New Story's founding story [here](https://youtu.be/BSpA9jcj9vM).
+[**New Story**](https://newstorycharity.org/) believes innovation, transparency, and radical generosity can build a world where everyone has a safe home. They pioneer solutions to end global homelessness and imagine a future where no human lives in survival mode. Donors can give with confidence, knowing 100% of their donation goes directly to building homes for families who need them most. You can view New Story's founding story [here](https://www.youtube.com/watch?v=BSpA9jcj9vM).
 
 <br></br>
 <img src="/img/guest/croppedAnitaPoschShow.png" alt="drawing" style="width: 200px;"/>
@@ -40,7 +54,7 @@ Check out the good work and initiatives created by our friends.
 <br></br>
 <img src="/img/sponsors/bitcoin_wizard.png" alt="drawing" style="width: 200px;"/>
 
-[**Bitcoin Wizard**](https://bitcoinwizard.net/) is founded by William Casarin who has been in the Bitcoin space since 2010. William was the CTO of Monstercat, one of the first record labels to accept Bitcoin. These days he spends most of his time helping individuals and companies with Bitcoin, and working on Bitcoin projects such as Bitcoin Core and the Lightning Network.
+[**Bitcoin Wizard**](https://bitcoinwizard.net/) was founded by William Casarin who has been in the Bitcoin space since 2010. William was the CTO of Monstercat, one of the first record labels to accept Bitcoin. These days he spends most of his time helping individuals and companies with Bitcoin, and working on Bitcoin projects such as Bitcoin Core and the Lightning Network.
 
 <br></br>
 <img src="/img/sponsors/BTC_Sessions.webp" alt="drawing" style="width: 200px;"/>

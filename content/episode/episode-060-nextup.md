@@ -2,11 +2,11 @@
 
 Description = "This episode features who, what. To view the show transcript, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/59"]
+aliases = ["/60"]
 author = "Alexandra Moxin"
 categories = []
-date = "2021-08-30T00:00:01-07:00"
-episode = "59"
+date = "2022-08-30T00:00:01-07:00"
+episode = "60"
 #episode_image = "img/guest/ATP_59.jpg"
 explicit = "no"
 hosts = ["alexandra"]
@@ -15,7 +15,7 @@ sponsors = ["cc", "M3is3d"]
 #images = [""]
 news_keywords = []
 #podcast_duration = "00:38:24"
-#podcast_file = "advance-tech-podcast-059-.mp3"
+#podcast_file = "advance-tech-podcast-060-.mp3"
 #podcast_length = "00:38:24"
 #podcast_bytes = "453443584"
 tags = []
