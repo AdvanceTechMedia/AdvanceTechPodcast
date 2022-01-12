@@ -9,37 +9,24 @@ aliases = "/community"
 Check out the good work and initiatives created by our friends.
 
 <br></br>
-**SPECIAL ANNOUNCEMENT**
+<img src="/img/guest/bitcoinlake.jpg" alt="drawing" style="width: 200px;"/>
 
-<img src="/img/sponsors/Team Challenge_red-logo_trans-2017.jpeg
-" alt="drawing" style="width: 200px;"/>
+[**Bitcoin Lake**](https://cryptograffiti.com/) is an environmental remediation project for Lake Atitlan in Guatemala. Founded by Dr. Patrick Melder, an up-and-coming Bitcoin influencer, who believes Bitcoin can be used to alleviate poverty, create green energy, encourage financial Literacy, and provide hope. You can view Bitcoin Lake's founding story [here](https://www.youtube.com/watch?v=9uNYM9IXqSk) and donate Bitcoin via the [Lightning Network](https://coinos.io/lakebitcoin).
 
-Hal Finney was one of the first supporters of bitcoin. On January 10, 2009 he famously tweeted: “Running bitcoin”. Two days later he received the first bitcoin transaction for 10 BTC from Satoshi in block 170. On August 5, 2009, Hal was diagnosed with ALS. He lived valiantly with ALS for 5 more years, and passed away in August, 2014. From **January 1-10, 2022**, run a total of 13.1 miles (Hal's favorite race distance), or a distance of your choice while raising funds and awareness for the disease. For more information or to donate in support, please visit [RunningBitcoin.us](http://webgw.alsa.org/site/TR?team_id=400870&fr_id=14584&pg=team&_ga=2.113996615.1333360976.1641233639-1415277750.1631235088).
+<br></br>
+<img src="/img/guest/_BY_logo_orange_transp.png" alt="drawing" style="width: 200px;"/>
+
+[**Bitko Yinowsky**](https://bitko.cc/) was Born not quite so long ago, in a tucked away corner of the Internet somewhere in the Eastern European hinterland. Like in the case of many youngsters, efforts to control him are pretty much all in vain. His decentralized nature, limited supply, ability to thrive under adversarial conditions, as well as his insatiable appetite for all the fiat money printed out of thin air, scare the living daylights out of authorities. Follow him on his adventurous graphical journey as he gobbles up copious amounts of fiat and levels out the financial playground for all on the planet.
+
+<br></br>
+<img src="/img/guest/cryptograffiti.jpg" alt="drawing" style="width: 200px;"/>
+
+[**cryptograffiti**](https://cryptograffiti.com/) is a Bitcoin activist artist.  His work is dedicated to spreading a grassroots movement with the ability to change the world for the better. He sees Bitcoin as a necessary alternative to our broken financial system.  Beyond finance, he believes separating money from state is one of the most crucial steps we can take for humanity in an increasingly Orwellian society. Art has the ability to distill complex subject matter into something more people can understand.  This is especially important with Bitcoin as those who stand to benefit from it the most are likely to learn about it last. By repurposing banking materials in his work, he hopes to teach others about the importance of this movement vs the status quo.
 
 <br></br>
 <img src="/img/sponsors/Chapter logo - banner - red.png" alt="drawing" style="width: 200px;"/>
 
 [**ALS Association - Golden West Chapter**](http://webgw.alsa.org/site/PageServer?pagename=GW_homepage) is dedicated to the fight against ALS in many ways - funding global research, supporting scientific and clinical collaboration, providing professional care management services to families facing ALS, partnering with multidisciplinary ALS clinics and centers, connecting people with ALS to clinical trials, increasing ALS awareness, driving important public policy initiatives, and bringing the ALS community together.
-
-<br></br>
-<img src="/img/guest/800px-Team_satoshi_PNG.png" alt="drawing" style="width: 200px;"/>
-
-[**team satoshi**](https://teamsatoshi.org/wiki/Main_Page) is a sports team creating awareness for bitcoin and bringing forward the decentralization of money and power. The group organizes private sports challenges and local sports teams and contributes to public sports events. They advocate for human rights, the cypherpunk manifesto and the bitcoin whitepaper. Sportswomen and sportsmen can become part of team satoshi anywhere in the world and are encouraged to start their own projects, challenges, and teams, sports, art and other forms of creativity & community engagement.
-
-<br></br>
-<img src="/img/guest/bitcoinrunners.png" alt="drawing" style="width: 200px;"/>
-
-[**Bitcoin Runners**](https://bitcoinrunners.org/), a proud member of the #teamsatoshi initiative, it is a not-for-profit organisation at the intersection of two community-led movements enabling sovereignty of one’s wealth, while improving one’s health. The group's goals are to accelerate the adoption of bitcoin and socialise its use as a global currency, and to encourage more people to enjoy the wonderful life-changing benefits of running. For existing bitcoiners who run (aka fitcoiners) pickup a shirt and spread the word. This group will help you make new and meaningful social and business connections, both locally and internationally.
-
-<br></br>
-<img src="/img/guest/BWB-Logo_Original+Horizontal@4x.png" alt="drawing" style="width: 200px;"/>
-
-[**Built with Bitcoin**](https://www.builtwithbitcoin.org/projects), is an initiative by [Paxful](https://paxful.com/about) to provide opportunities, improve lives, and make the world a better place for communities that need it the most, using Bitcoin. The goal? To build 100 schools, water facilities, and entrepreneurial incubators funded entirely by Bitcoin. The Foundation helped with COVID-19 relief in Africa, by providing food, hand sanitisers, and other protective equipment to those in need, thanks to generous contributions from users and friends.
-
-<br></br>
-<img src="/img/guest/NS_400x400.jpg" alt="drawing" style="width: 200px;"/>
-
-[**New Story**](https://newstorycharity.org/) believes innovation, transparency, and radical generosity can build a world where everyone has a safe home. They pioneer solutions to end global homelessness and imagine a future where no human lives in survival mode. Donors can give with confidence, knowing 100% of their donation goes directly to building homes for families who need them most. You can view New Story's founding story [here](https://www.youtube.com/watch?v=BSpA9jcj9vM).
 
 <br></br>
 <img src="/img/guest/croppedAnitaPoschShow.png" alt="drawing" style="width: 200px;"/>
@@ -50,6 +37,11 @@ Hal Finney was one of the first supporters of bitcoin. On January 10, 2009 he fa
 <img src="/img/sponsors/bitcoinandbeers.png" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin-N-Beers**](https://www.bitcoinandbeers.com/) is a volunteer run group of cryptocurrency enthusiasts who meet to learn about cryptocurrency, blockchain and decentralized technology in comfortable low-key settings. You don't have to be a technophile, a crypto trader, or understand blockchain to join us. It's for experts and newbies in the community alike.
+
+<br></br>
+<img src="/img/guest/bitcoinrunners.png" alt="drawing" style="width: 200px;"/>
+
+[**Bitcoin Runners**](https://bitcoinrunners.org/), a proud member of the #teamsatoshi initiative, it is a not-for-profit organisation at the intersection of two community-led movements enabling sovereignty of one’s wealth, while improving one’s health. The group's goals are to accelerate the adoption of bitcoin and socialise its use as a global currency, and to encourage more people to enjoy the wonderful life-changing benefits of running. For existing bitcoiners who run (aka fitcoiners) pickup a shirt and spread the word. This group will help you make new and meaningful social and business connections, both locally and internationally.
 
 <br></br>
 <img src="/img/sponsors/bitcoin_wizard.png" alt="drawing" style="width: 200px;"/>
@@ -65,6 +57,11 @@ Ben is host of the [**BTC Sessions**](https://www.btcsessions.ca/) and is Canada
 <img src="/img/sponsors/bucerias3raedad.jpeg" alt="drawing" style="width: 200px;"/>
 
 [**Bucerias Tercera Edad**](https://buceriasterceraedad.org/) has a mission to enhance the quality of life of Mexico’s aging, most vulnerable citizens while enabling them to retain their dignity. Through fund raising Bucerias Tercera Edad ensures the betterment of seniors and individuals in the most dire straights receive assistance through the community. They are breaking ground on a full time assisted living care home providing quality of life for elderly Mexicans in early January 2022.
+
+<br></br>
+<img src="/img/guest/BWB-Logo_Original+Horizontal@4x.png" alt="drawing" style="width: 200px;"/>
+
+[**Built with Bitcoin**](https://www.builtwithbitcoin.org/projects), is an initiative by [Paxful](https://paxful.com/about) to provide opportunities, improve lives, and make the world a better place for communities that need it the most, using Bitcoin. The goal? To build 100 schools, water facilities, and entrepreneurial incubators funded entirely by Bitcoin. The Foundation helped with COVID-19 relief in Africa, by providing food, hand sanitisers, and other protective equipment to those in need, thanks to generous contributions from users and friends.
 
 <br></br>
 <img src="/img/sponsors/coinos.jpg" alt="drawing" style="width: 200px;"/>
@@ -118,6 +115,11 @@ Inspired by the reality of objectivism, [**MVDEX**](https://21x.io/) creates art
 [**The Meme Factory(tm) Merch**](https://mfmerch.com/) The Meme Factory™ does not exist, but they definitely are the reason your mother has laser eyes in her profile pic. You like the memes. Now you can buy sh*t.
 
 <br></br>
+<img src="/img/guest/NS_400x400.jpg" alt="drawing" style="width: 200px;"/>
+
+[**New Story**](https://newstorycharity.org/) believes innovation, transparency, and radical generosity can build a world where everyone has a safe home. They pioneer solutions to end global homelessness and imagine a future where no human lives in survival mode. Donors can give with confidence, knowing 100% of their donation goes directly to building homes for families who need them most. You can view New Story's founding story [here](https://www.youtube.com/watch?v=BSpA9jcj9vM).
+
+<br></br>
 <img src="/img/sponsors/oshilogo.jpg" alt="drawing" style="width: 200px;"/>
 
 [**Oshi**](https://www.oshi.tech/) is a hyper-verticalized local promotions marketplace offering game-changing incentives to merchants, consumers, and evangelists. Each standard promotion gives you the option to save money or earn bitcoin ‘cashback’ rewards. Merchants receive either bitcoin, USD, or a combination of both.
@@ -131,6 +133,11 @@ Inspired by the reality of objectivism, [**MVDEX**](https://21x.io/) creates art
 <img src="/img/sponsors/singularityNET.png" alt="drawing" style="width: 200px;"/>
 
 The new [**SingularityNET Forum**](https://community.singularitynet.io/about) is a civilized place for public discussion to share skills, knowledge and interests through ongoing conversation. Participants are encouraged to move the discussion forward by contributing to and engaging in reasoned counter-arguments that improve the conversation. The SingularityNET platform enables multiple AI computing agents to work as a whole to provide various services in a distributed and decentralized way.
+
+<br></br>
+<img src="/img/guest/800px-Team_satoshi_PNG.png" alt="drawing" style="width: 200px;"/>
+
+[**team satoshi**](https://teamsatoshi.org/wiki/Main_Page) is a sports team creating awareness for bitcoin and bringing forward the decentralization of money and power. The group organizes private sports challenges and local sports teams and contributes to public sports events. They advocate for human rights, the cypherpunk manifesto and the bitcoin whitepaper. Sportswomen and sportsmen can become part of team satoshi anywhere in the world and are encouraged to start their own projects, challenges, and teams, sports, art and other forms of creativity & community engagement.
 
 <br></br>
 <img src="/img/sponsors/Terra mars logo.png" alt="drawing" style="width: 200px;"/>
