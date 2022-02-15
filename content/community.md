@@ -11,7 +11,7 @@ Check out the good work and initiatives created by our friends.
 <br></br>
 <img src="/img/guest/bitcoinlake.jpg" alt="drawing" style="width: 200px;"/>
 
-[**Bitcoin Lake**](https://cryptograffiti.com/) is an environmental remediation project for Lake Atitlan in Guatemala. Founded by Dr. Patrick Melder, an up-and-coming Bitcoin influencer, who believes Bitcoin can be used to alleviate poverty, create green energy, encourage financial Literacy, and provide hope. You can view Bitcoin Lake's founding story [here](https://www.youtube.com/watch?v=9uNYM9IXqSk) and donate Bitcoin via the [Lightning Network](https://coinos.io/lakebitcoin).
+[**Bitcoin Lake**](https://twitter.com/LakeBitcoin) is an environmental remediation project for Lake Atitlán in Guatemala. Founded by Dr. Patrick Melder, an up-and-coming Bitcoin influencer, who believes Bitcoin can be used to alleviate poverty, create green energy, encourage financial Literacy, and provide hope. You can view Bitcoin Lake's founding story [here](https://www.youtube.com/watch?v=9uNYM9IXqSk) and donate Bitcoin via the [Lightning Network](https://coinos.io/lakebitcoin).
 
 <br></br>
 <img src="/img/guest/_BY_logo_orange_transp.png" alt="drawing" style="width: 200px;"/>

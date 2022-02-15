@@ -1,6 +1,6 @@
 +++
 Title = "Roman Martinez"
-date = "20212-01-09T00:01:37-07:00"
+date = "2022-01-09T00:01:37-07:00"
 Twitter = "romanmartinezc"
 Website = "https://www.bitcoinbeach.com/"
 Type = "guest"
