@@ -12,7 +12,7 @@ Thumbnail = "img/guest/will.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "False"
+draft = "True"
 
 +++
 Will Weatherman is a software developer and core contributor to [Yeti Bitcoin Cold Storage](http://YetiCold.com).
