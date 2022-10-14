@@ -9,19 +9,21 @@ aliases = "/community"
 Check out the good work and initiatives created by our friends.
 
 <br></br>
-<img src="/img/sponsors/BAB.png" alt="drawing" style="width: 200px;"/>
+<img src="/img/sponsors/bitcointvlogo2.png" alt="drawing" style="width: 200px;"/>
 
-[**Bay Area Bitcoiners**](https://www.bayareabitcoiners.com/) is a group for plebs by plebs where everyone from core devs to newbs are welcome and invited to meet together and share ideas, thoughts, memes, beers, and shitcoin jokes. They try and meet in person regularly somewhere in the bay area and always welcome new community members!
-
-<br></br>
-<img src="/img/sponsors/BE.png" alt="drawing" style="width: 200px;"/>
-
-[**Bitcoiner Events**](https://www.bitcoinerevents.com/) curates the best Bitcoin-only events, meetups, and conferences around the world. Events are a great way to learn and get involved with the community. During bull markets, Bitcoin events are a celebration. During bear markets, you’ll form long-lasting bonds with like-minded people. Take your Bitcoin journey that one step further and check out the job board or head over to [BitcoinerJobs.com](https://bitcoinerjobs.com/)
+[**Connect the World**](https://www.bayareabitcoiners.com/) is founded by a team with a shared passion for Bitcoin and the Lightning Network. They want to advance Lightning adoption and highlight all sides of it. Not only Lightning as a payment system, but also as an underlying technology for a multitude of other options. Connect the World publishes podcast episodes and Quick Talks about developments and adoption, with influential guests from the Lightning Network space.
 
 <br></br>
-<img src="/img/sponsors/free_private_cities.png" alt="drawing" style="width: 200px;"/>
+<img src="/img/sponsors/1627417457044.png" alt="drawing" style="width: 200px;"/>
 
-[**Free Private Cities**](https://www.freeprivatecities.com/) mission is to support human progress by creating voluntary, contract-based societies. They want to change the rules of the game by taking power out of the hands of central authorities, and putting it in the hands of citizens.
+[**Rings of Fire**](https://www.bayareabitcoiners.com/) The Satoshi Radio Rings of Fire community are creating a backbone of liquidity within the Lightning Network. Their mission is to help build a worldwide distributed Lightning Network by connecting countries around the world. This is how bitcoin payments are made accessible to everyone.
+
+<br></br>
+<img src="/img/sponsors/MOON.jpg" alt="drawing" style="width: 200px;"/>
+
+[**The Daily Moon**](https://www.bayareabitcoiners.com/) is a platform to stay up to date about everything related to Lightning Network news and updates to advance Lightning Network adoption and highlight all sides of it. Active on TDM.NEWS, Twitter and Telegram. Spread the news!
+
+
 
 <br></br>
 <img src="/img/sponsors/Chapter logo - banner - red.png" alt="drawing" style="width: 200px;"/>
@@ -32,6 +34,11 @@ Check out the good work and initiatives created by our friends.
 <img src="/img/guest/croppedAnitaPoschShow.png" alt="drawing" style="width: 200px;"/>
 
 [**The Anita Posch Show**](https://bitcoinundco.com/en/) - the Philosophy, Ideas and People Behind Bitcoin by Anita Posch. Featuring interviews with industry leaders and insights about new developments and projects in the Bitcoin ecosystem. In this show Anita talks with people who dedicate their time to develop, learn, explain and fight for a neutral, decentralized, open and free financial internet infrastructure - the internet of money.
+
+<br></br>
+<img src="/img/sponsors/BAB.png" alt="drawing" style="width: 200px;"/>
+
+[**Bay Area Bitcoiners**](https://www.bayareabitcoiners.com/) is a group for plebs by plebs where everyone from core devs to newbs are welcome and invited to meet together and share ideas, thoughts, memes, beers, and shitcoin jokes. They try and meet in person regularly somewhere in the bay area and always welcome new community members!
 
 <br></br>
 <img src="/img/guest/bitcoinlake.jpg" alt="drawing" style="width: 200px;"/>
@@ -52,6 +59,11 @@ Check out the good work and initiatives created by our friends.
 <img src="/img/sponsors/bitcoin_wizard.png" alt="drawing" style="width: 200px;"/>
 
 [**Bitcoin Wizard**](https://bitcoinwizard.net/) was founded by William Casarin who has been in the Bitcoin space since 2010. William was the CTO of Monstercat, one of the first record labels to accept Bitcoin. These days he spends most of his time helping individuals and companies with Bitcoin, and working on Bitcoin projects such as Bitcoin Core and the Lightning Network.
+
+<br></br>
+<img src="/img/sponsors/BE.png" alt="drawing" style="width: 200px;"/>
+
+[**Bitcoiner Events**](https://www.bitcoinerevents.com/) curates the best Bitcoin-only events, meetups, and conferences around the world. Events are a great way to learn and get involved with the community. During bull markets, Bitcoin events are a celebration. During bear markets, you’ll form long-lasting bonds with like-minded people. Take your Bitcoin journey that one step further and check out the job board or head over to [BitcoinerJobs.com](https://bitcoinerjobs.com/)
 
 <br></br>
 <img src="/img/guest/_BY_logo_orange_transp.png" alt="drawing" style="width: 200px;"/>
@@ -86,7 +98,7 @@ Ben is host of the [**BTC Sessions**](https://www.btcsessions.ca/) and is Canada
 <br></br>
 <img src="/img/sponsors/eclogo.png" alt="drawing" style="width: 200px;"/>
 
-[Abasi](https://www.facebook.com/abasiMusic/) & Glyn present: [**Electric Cafe**](http://electriccafe.ca/)  where you can expect to hear house, disco, edits, techno, and everything in between depending on where the journey goes each session. Generally you'll hear a mix of genres including House (bass, tech, deep), Electro*, Techno (Detroit, classic, minimal, acid), Nudisco, Italo, Disco/funk, and a dash of 80s and 90s. Tune in to [De Radio](https://deradio.ca/?fbclid=IwAR0IkUmURjfYxPz0Ym-lTZ-jocRZBFvgoK7u8eE4JIoVtz6pZ1boF_zuUaU) at 3pm PST / 10pm UTC every Sunday.
+DJ's [Abasi](https://www.facebook.com/abasiMusic/) & Glyn present: [**Electric Cafe**](http://electriccafe.ca/)  where you can expect to hear house, disco, edits, techno, and everything in between depending on where the journey goes each session. Generally you'll hear a mix of genres including House (bass, tech, deep), Electro*, Techno (Detroit, classic, minimal, acid), Nudisco, Italo, Disco/funk, and a dash of 80s and 90s. Tune in to [De Radio](https://deradio.ca/?fbclid=IwAR0IkUmURjfYxPz0Ym-lTZ-jocRZBFvgoK7u8eE4JIoVtz6pZ1boF_zuUaU) at 3pm PST / 10pm UTC every Sunday.
 
 <br></br>
 <img src="/img/guest/el.jpg" alt="drawing" style="width: 200px;"/>
@@ -98,6 +110,11 @@ soon the physical piece will be accompanied by a digital version, as soon as the
 <img src="/img/sponsors/em2.png" alt="drawing" style="width: 200px;"/>
 
 [**Event Modeling**](https://eventmodeling.org/) is a way of defining and describing systems using examples of how information has changed over time. This method omits transient details and looks at what is durably stored and what the user sees at any particular point in time. The challenge of automating traditional non-trivial systems increases as the system grows in complexity. Event Modeling minimizes the amount of rework by working off of a blueprint that can be created in a very short time compared to existing design and modeling methodologies.
+
+<br></br>
+<img src="/img/sponsors/free_private_cities.png" alt="drawing" style="width: 200px;"/>
+
+[**Free Private Cities**](https://www.freeprivatecities.com/) mission is to support human progress by creating voluntary, contract-based societies. They want to change the rules of the game by taking power out of the hands of central authorities, and putting it in the hands of citizens.
 
 <br></br>
 <img src="/img/sponsors/HassMcCook.jpeg" alt="drawing" style="width: 200px;"/>

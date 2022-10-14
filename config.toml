@@ -58,7 +58,7 @@ truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
 media_prefix = "https://advancetechmedia.org/"
 
-copyright_notice = "Copyright 2017 - 2021 [Advance Tech Media](https://.advancetechmedia.org)"
+copyright_notice = "Copyright 2017 - 2022 [Advance Tech Media](https://advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
 #android_subscribe = "https://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9hZHZhbmNldGVjaG1lZGlhLm9yZy9lcGlzb2RlL2luZGV4LnhtbA"
@@ -68,9 +68,9 @@ spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).</p><p>graphic design - new episode templates, by [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)</p>intro/outro music - Alien Breed (1991) main theme, by A. Brimble"
+description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).<p>Executive Producer, video + audio editing, [Edo Edikson](https://twitter.com/EdoEdikson)<p>graphic design - new episode templates, [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)</p>intro/outro music - Alien Breed (1991) main theme, by A. Brimble"
   [params.feed]
-    feed_copyright = "Copyright 2017 - 2021 Advance Tech Media" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright 2017 - 2022 Advance Tech Media" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
     itunes_author = "Alexandra Moxin" #no markdown or HTML
     itunes_summary = "The Advance Tech Podcast brings you the latest in bleeding edge technology and features guests building the technology of tomorrow. We connect you to founders, developers and influencers from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker." # Limited to 4000 characters or less, plain text, no HTML
@@ -95,14 +95,11 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     instagram = "advance_tech_media"
     youtube = "channel/UCix6635bxEr4et8eO4QXSfg"
 
-
   [params.authors]
         [params.authors.alexandra]
       name = "Alexandra Moxin"
       thumbnail = "img/host/Alex1.jpg"
       bio = "Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers from around the globe in the emerging tech space. As CEO, she grew the global audience of the podcast to reach one million listeners in just over a year. She has a solid understanding of digital transformation and finds comfort at the bleeding edge of innovation. She speaks at local and international conferences and events on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies."
-
-
 
       [params.authors.alexandra.social]
         twitter = "Alexandra933"
@@ -111,9 +108,8 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
         github = "lexi933"
         instagram = "lexi_933/?hl=en"
         pinterest = "lexi933"
-        youtube = "results?search_query=alexandra+moxin"
+        youtube = "/c/Alexandra933_"
         homepage = "https://medium.com/@Alexandra933"
-
 
 [markup]
   [markup.goldmark]

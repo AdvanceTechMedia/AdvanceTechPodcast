@@ -1,49 +1,62 @@
 +++
 
-Description = "This episode features Rick, Founder and President of CryptoCloaks, a company designing and manufacturing unique 3D Printed Bitcoin products. To view the show transcript, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
+Description = "This episode features John Carvalho, CEO of Synonym, a company using Bitcoin and new protocol, Slashtags, to reboot the web & economy. To view the show transcript, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 
-aliases = ["/60"]
+aliases = ["/61"]
 author = "Alexandra Moxin"
 categories = []
-date = "2022-02-14T00:00:01-07:00"
-episode = "60"
-#episode_image = "img/guest/ATP_60.jpg"
+date = "2022-10-14T00:00:01-07:00"
+episode = "61"
+episode_image = "img/guest/ATP_61.jpg"
 explicit = "no"
 hosts = ["alexandra"]
-guests = ["rick"]
-sponsors = ["ctdl21"]
+guests = ["johncarvalho"]
+sponsors = ["ctdl21","cc","M3is3d"]
 #images = [""]
 news_keywords = []
-#podcast_duration = "00:38:24"
-#podcast_file = "advance-tech-podcast-060-cryptocloaks.mp3"
-#podcast_length = "00:38:24"
-#podcast_bytes = "453443584"
+podcast_duration = "00:24:04"
+podcast_file = "advance-tech-podcast-061-john-c-synonym.mp3"
+podcast_length = "00:24:04"
+podcast_bytes = "453443584"
 tags = []
-title = "A Conversation with Rick, President @ CryptoCloaks "
-#youtube = ""
-draft = "True"
+title = "A Conversation with John Carvalho, CEO @ Synonym"
+youtube = "QDmlydo_iXE"
+draft = "False"
 +++
 
 Written by Alexandra Moxin
 
-**"Never. Stop. Building." Rick, President of CryptoCloaks**
+This episode features John Carvalho, CEO of Synonym, a company using Bitcoin and new protocol, Slashtags, to reboot the web & economy.
 
-CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Their passion for 3D design sparked in December of 2017 with their first product, a Ledger Nano S mount. This product allowed them to safely and securely keep the Ledger hidden.  After the success from this mount they quickly grew. Their highly sought after products have shipped to the United States, Japan, Austrailia, Germany, Mexico, Canada, China, Switzerland, UK, France, Norway, Romania, Slovenia, Ireland, Czech Republic, Reunion, The Netherlands, Thailand, Lativa, Poland, Israel, and Spain.
+We discuss:
 
-In this episode we discuss (scroll down for timing points)
+* 01:33 What is Synonym looking to achieve and accomplish?
+* 04:31 What were the highlights from the panel at Adopting Bitcoin 2021?
+* 07:36 What seems most promising and what is currently lacking in the Lightning Network?
+* 12:43 Products and projects in this space that are doing a good job of communicating, design, and UX.
+* 14:49 Interesting projects and developments in the free and open source space.
+* 16:38 What might the Lightning network look like in 2030?
+* 20:48 John’s new podcast, The Biz
 
-Visit [CryptoCloaks.com](https://www.cryptocloaks.com/) to learn more about 3D printing and to place your order. Listeners of the show can use the code ATPSHIP for 5% off at checkout.
+John's question to the audience is around which narratives in this space resonate & make sense, and which don't. You can find John as @BitcoinErrorLog on most channels.
+
+Find out what the company is building, and how you can support their work at [Synonym.to](https://synonym.to/). And be sure to check out and support [The Biz](https://thebiz.pro)
 
 ### Show Links
-* [CryptoCloaks.com](https://www.cryptocloaks.com/)
-* [CryptoCloaks on Twitter](https://twitter.com/CryptoCloaks)
-* [Rick on Twitter](https://twitter.com/RickV3D)
-* [CryptoCloaks 3d print farm livestream on Twitch]()
-* [CryptoCloaks 3D Printing Reference page](https://cryptocloaks.com/3dprinting)
-* [CryptoCloaks Telegram channel](https://t.me/joinchat/Odg-ExafJf25XjnGVgozyg)
 
+* [Synonym](https://synonym.to/)
+* [Synonym's Tech Stack](https://synonym.to/our-stack/)
+* [Synonym's Products](https://synonym.to/products/)
+* [Slashtags - Telegram](https://t.me/slashtags)
+* [Synonym on Twitter](https://twitter.com/synonym_to)
+* [Synonym on Github](https://github.com/synonymdev)
+* [Synonym on Telegram](https://t.me/synonym_to)
+* [Synonym on Medium](https://medium.com/synonym-to)
+* [John Carvalho on Twitter](https://twitter.com/BitcoinErrorLog)
+* [John Carvalho on Medium](https://bitcoinerrorlog.medium.com/)
+* [The Biz with John Carvalho - A Crowdfunded Bitcoin Podcast Experiment](https://thebiz.pro)
+* [Hypercore](https://hypercore-protocol.org/)
+* [Bitrefill](https://www.bitrefill.com/buy/worldwide/?hl=en)
+* [Block](https://block.xyz/)
+* [Spiral](https://spiral.xyz/)
 
-
-
-### Transcript
-(coming soon)

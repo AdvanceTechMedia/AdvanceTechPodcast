@@ -20,7 +20,7 @@ podcast_length = "00:33:21"
 podcast_bytes = "23,030,847"
 tags = []
 title = "A Conversation with Rick, President @ CryptoCloaks "
-youtube = "https://youtu.be/f447TMB_mVs"
+youtube = "f447TMB_mVs"
 draft = "False"
 +++
 

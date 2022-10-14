@@ -12,14 +12,16 @@ aliases = "/sponsor"
 
 
 
-<img src="/img/sponsors/UV101.jpg" alt="drawing" style="width: 200px;"/>
+<img src="/img/host/ATP_BTC_QR3.jpg" alt="drawing" style="width: 200px;"/>
 <br></br>
-<b>Sponsor using bitcoin</b> or support the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)** 
+Sponsor using <b>bitcoin via the Lightning Network</b> or support the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)**. You can also sponsor the show's development directly, using bitcoin (main chain) or L-BTC, at [Coinos.io /Alexandra933](https://coinos.io/Alexandra933). 
 
 
 <br></br>
 
 <h2> Credits </h2>
+
+<b>* Executive Producer, video + audio editing</b> - [Edo Edikson](https://twitter.com/EdoEdikson)
 
 <b>* graphic design</b> - new episode templates, [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)
 

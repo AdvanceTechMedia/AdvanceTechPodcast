@@ -11,6 +11,8 @@ GitHub = "lexi933"
 Thumbnail = "img/host/Alex1.jpg"
 Pinterest = "lexi933/"
 Instagram = "lexi_933/?hl=en"
-YouTube = "channel/UCo0YHhPVPBienDjnvqDrh1g/featured?view_as=public"
+YouTube = "c/Alexandra933_"
 +++
-CEO and Founder of Advance Tech Media and Host of the Advance Tech Podcast Alexandra interviews founders, developers and leaders from around the globe shining a light on what it takes to massively scale from great idea to leading industry maker. She speaks at conferences and events in Canada and internationally on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.
+Alexandra founded the Advance Tech Podcast where she interviews founders, leaders and developers in the emerging tech space. She is Executive Director of the Open Cryptography Foundation, and has a background in product, business development, and digital transformation. 
+
+She attended Stanford Open University and graduated from the University of British Columbia. She advises several companies and initiatives and speaks in Canada and internationally on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.
