@@ -5,7 +5,7 @@ theme = "castanet"
 googleAnalytics = "UA-98351650-1"
 disqusShortname = "advtechpodcast"
 themesdir = "themes"
-paginate = 33
+paginate = "33"
 
 
 [permalinks]
