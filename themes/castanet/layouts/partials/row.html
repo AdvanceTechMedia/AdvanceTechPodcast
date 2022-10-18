@@ -3,14 +3,24 @@
     {{- partial "jumbotron.html" . }}
   {{ end }}
 {{ end }}
-<div class="row hero_container">
 
+{{ if and (and (isset .Site.Params "show_next_upcoming") (eq .Site.Params.show_next_upcoming "true")) (ge (len (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "==" true )) 1) }}
+<div class="row up_next_container">
   <div class="col-md-12">
+    {{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections).ByDate ".Params.upcoming" "==" true ) }}
+    Next Episode: <a href="{{ .Permalink }}">{{ .Title }}</a> - Scheduled for {{ dateFormat "Jan 2, 2006" .Date }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+  <div class="row hero_container">
+    <div class="col-md-12">
   <h2>
   Latest Episode
   </h2>
 
-  {{ range first 1 (where .Data.Pages "Type" "episode") }}
+  {{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) }}
     {{- with .Params.truncate -}}
       {{- $.Scratch.Set "truncate" . }}
     {{- else -}}
@@ -21,7 +31,9 @@
       {{- end -}}
     {{- end -}}
     {{- with .Params.youtube -}}
-      {{- $.Scratch.Set "youtube" "true" -}}
+      {{- if . -}}
+        {{- $.Scratch.Set "youtube" "true" -}}
+      {{- end -}}
     {{- end -}}
     {{- with .Params.episode_banner -}}
       {{- $.Scratch.Set "episode_banner" "true" -}}
@@ -31,8 +43,20 @@
     {{- if eq ($.Scratch.Get "youtube") "true" -}}
       <div class = "row homepage_episode_row">
         <div class = "col">
-          <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+            {{ if eq .Site.Params.episode_number_style "parens" }}            
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ else if eq .Site.Params.episode_number_style "brackets" }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h2>
+            {{ else if eq .Site.Params.episode_number_style "dash" }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h2>
+            {{ else }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ end }}
+          {{ else }}
+            <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a></h2>
+          {{ end }}        
+          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
@@ -50,8 +74,20 @@
     {{- else if eq ($.Scratch.Get "episode_banner") "true" -}}
       <div class = "row homepage_episode_row">
         <div class = "col">
-          <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+            {{ if eq .Site.Params.episode_number_style "parens" }}            
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ else if eq .Site.Params.episode_number_style "brackets" }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h2>
+            {{ else if eq .Site.Params.episode_number_style "dash" }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h2>
+            {{ else }}
+              <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ end }}
+          {{ else }}
+            <h2><a href="{{ .Permalink }}" class= "row_latest_episode_title">{{ .Title }}</a></h2>
+          {{ end }} 
+          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
@@ -69,7 +105,8 @@
     <div class = "row homepage_episode_row">
       <div class = "col-md-12">
         <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+        
+        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
       </div>
     </div>
     {{- if .Params.episode_image -}}
@@ -77,7 +114,7 @@
         <div class = "col-md-3">
           <a href="{{ .Permalink }}"><img class = "img-fluid" src = "{{ .Params.episode_image | absURL }}" /></a>
         </div>
-        <div class = "col-md-8">
+        <div class = "col-md-9">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
             <p class = "hompage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
           {{- else -}}
@@ -96,9 +133,11 @@
     {{- end -}}
   {{- end -}}
   {{- with .Params.podcast_file -}}
-    <div class = "row">
+    <div class = "row homepage_episode_row">
       <div class = "col-md-12">
-      <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
+        <audio id="player2" style="width: 100%" controls preload="none">
+          <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
+          </audio>
       </div>
     </div>
   {{- end -}}
@@ -109,9 +148,9 @@
 
 <section class="episode-list">
 <!-- rest of episodes -->
-{{- if (where .Data.Pages "Type" "episode") -}}
-{{- $paginator := .Paginate (after 1 (where .Data.Pages "Type" "episode")) 5 -}}
-{{- $list := (where .Data.Pages "Type" "episode") -}}
+{{- if (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+{{- $paginator := .Paginate (after 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true )) }}
+{{- $list := (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) -}}
 {{- $len := (len $list) -}}
 <div class="row main_container">
 {{- with .Site.Params.enable_jumbo -}}
@@ -134,48 +173,46 @@
         {{- $.Scratch.Set "truncate" 600 -}}
       {{- end -}}
     {{- end -}}
-    {{- with .Params.youtube -}}
-      {{- $.Scratch.Set "youtube" "true" -}}
-    {{- end -}}
-    {{- with .Params.episode_banner -}}
-      {{- $.Scratch.Set "episode_banner" "true" -}}
-    {{- end -}}
       <div class = "row homepage_episode_row">
         <div class = "col-md-12">
-          <a href="{{ .Permalink }}" class= "grid_episode_title"><h3 class= "grid_episode_title">{{ .Title }}</h3></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+            {{ if eq .Site.Params.episode_number_style "parens" }}            
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h3>
+            {{ else if eq .Site.Params.episode_number_style "brackets" }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h3>
+            {{ else if eq .Site.Params.episode_number_style "dash" }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h3>
+            {{ else }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h3>
+            {{ end }}
+          {{ else }}
+            <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a></h3>
+          {{ end }}
+          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
       {{- if .Params.episode_image -}}
-          <div class = "col-md-4">
+          <div class = "col-md-3 homepage_episode_row_image">
             <a href="{{ .Permalink }}"><img class = "img-fluid" src = "{{ .Params.episode_image | absURL }}" /></a>
           </div>
-          <div class = "col-md-8">
+          <div class = "col-md-9 homepage_episode_row_description">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
           {{- else -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify }}</p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify }}</p>
           {{- end -}}
           </div>
         {{- else -}}
           <div class = "col">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
           {{- else -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify }}</p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify }}</p>
           {{- end -}}
           </div>
         {{- end -}}
       </div>
-      {{- with .Params.podcast_file -}}
-        <div class = "row homepage_episode_row">
-          <div class = "col-md-12 player_row">
-            <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
-          </div>
-        </div>
-      {{- end -}}
-
     {{- end -}}
   {{- end -}}
 </div>
@@ -224,16 +261,27 @@
   {{ end }}
 
 <ul class="pagination pagination-lg">
-{{- with $paginator.First -}}
-  {{- $url := trim (string .URL) "/" | absURL -}}
-  <li class="page-item">
-      <a href="{{ $url }}" aria-label="First" class="page-link"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-{{- end -}}
-<li class="{{ if not $paginator.HasPrev }}disabled {{ end }}page-item">
-    <a href="{{ if $paginator.HasPrev }}{{ $paginator.Prev.URL }}{{ end }}" aria-label="Previous" class="page-link"><span aria-hidden="true">&laquo;</span></a>
-</li>
+	<!-- first page button -->
+  {{if $paginator.HasPrev }}
+    {{ if gt $paginator.PageNumber 2 }}
+        {{- with $paginator.First -}}
+        {{- $url := trim (string .URL) "/" | absURL -}}
+            <li class="page-item">
+            <a href="{{ $url }}" aria-label="First" class="page-link"><span aria-hidden="true">&laquo;&laquo;</span></a>
+            </li>
+        {{- end -}}
+    {{ end }}
+  {{ end }}
 
+
+  <!-- prev page button -->
+  {{- with $paginator.HasPrev -}}
+    	<li class="page-item">
+    		<a href="{{ $paginator.Prev.URL }}" class="page-link"> &laquo; </a>
+    	</li>
+  {{ end }}
+  
+  <!-- page # buttons -->
   {{ range $pag.Pagers }}
     {{ $cur := .PageNumber }}
     {{- $url := trim (string .URL) "/" | absURL -}}
@@ -243,12 +291,23 @@
       <li class="disabled page-item"><a name="" class="page-link hidden-md-down">&hellip;</a></li>
     {{ end }}
   {{ end }}
-  {{- with $paginator.Last -}}
-  {{- $url := trim (string .URL) "/" | absURL -}}
+  
+  <!-- next page button -->
+  {{- with $paginator.HasNext -}}
   <li class="page-item">
-      <a href="{{ $url }}" aria-label="Last" class="page-link"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="{{ $paginator.Next.URL }}" class="page-link"> &raquo; </a>
   </li>
-{{- end -}}
+  {{ end }}
+  
+  <!-- last page button -->
+  {{ if lt $paginator.PageNumber (sub $paginator.TotalPages 1) }}
+    {{- with $paginator.Last -}}
+        {{- $url := trim (string .URL) "/" | absURL -}}
+            <li class="page-item">
+                <a href="{{ $url }}" aria-label="Last" class="page-link"><span aria-hidden="true">&raquo;&raquo;</span></a>
+            </li>
+    {{- end -}}
+  {{ end }}
 </ul>
 {{ end }}
 </nav>

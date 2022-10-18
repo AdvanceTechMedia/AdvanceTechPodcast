@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/mattstratton/castanet.svg?branch=master)](https://travis-ci.org/mattstratton/castanet)
+[![mattstratton](https://circleci.com/gh/mattstratton/castanet.svg?style=shield)](https://circleci.com/gh/mattstratton/castanet)
 [![GitHub release](https://img.shields.io/github/release/mattstratton/castanet.svg)](https://github.com/mattstratton/castanet/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/mattstratton/castanet/total.svg)]()
-[![license](https://img.shields.io/github/license/mattstratton/castanet.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/mattstratton/castanet/total.svg)](https://github.com/mattstratton/castanet/releases)
+[![license](https://img.shields.io/github/license/mattstratton/castanet.svg)](https://github.com/mattstratton/castanet/blob/main/LICENSE)
+[![contributing](https://img.shields.io/badge/contributing-info-informational)](https://github.com/mattstratton/castanet/blob/main/CONTRIBUTING.md)
 
 If you would like to receive emails when new versions of this theme are released, [subscribe to the announcement email list](http://eepurl.com/cMAJcL).
 
@@ -11,16 +12,7 @@ Castanet is a a Hugo theme for sites that are primarily podcasts. It is heavily 
 
 An example site can be found at http://sample-castanet.netlify.com/
 
-![Castanet screenshot](https://github.com/mattstratton/castanet/raw/master/images/screenshot.png)
-
-Previews of different configurations:
-
-- [Orange Row](https://www.castanet-theme.com/orange-row)
-- [Orange Grid](https://www.castanet-theme.com/orange-grid)
-- [Blue Row](https://www.castanet-theme.com/blue-row)
-- [Blue Grid](https://www.castanet-theme.com/blue-grid)
-- [Grey Row](https://www.castanet-theme.com/grey-row)
-- [Grey Grid](https://www.castanet-theme.com/grey-grid)
+![Castanet screenshot](https://github.com/mattstratton/castanet/raw/main/images/screenshot.png)
 
 ## Installation
 
@@ -34,4 +26,19 @@ For more information read the official [setup guide](//gohugo.io/overview/instal
 
 After installing Castanet successfully it requires a just a few more steps to get your site running.
 
-See [REFERENCE.md](https://github.com/mattstratton/castanet/blob/master/REFERENCE.md) for all configuration file settings as well as instructions on episodes, guests, hosts, and sponsors
+See [REFERENCE.md](https://github.com/mattstratton/castanet/blob/main/REFERENCE.md) for all configuration file settings as well as instructions on episodes, guests, hosts, and sponsors
+
+## Contributing to castanet
+If you would like to help make improvements or fixes to this theme, please see [CONTRIBUTING.md](https://github.com/mattstratton/castanet/blob/master/CONTRIBUTING.md) for detailed instructions.
+
+## Sites using the Castanet theme
+This is a completely non-comprehensive list of podcasts that use this theme. Want to add your site? Submit a pull request against the README file!
+- [Arrested DevOps](https://www.arresteddevops.com)
+- [Page It to the Limit](https://www.pageittothelimit.com/)
+- [Quiche-Anon](https://quiche-anon.com)
+- [Community Pulse](https://www.communitypulse.io/)
+- [The Linux Lemming](https://linuxlemming.com)
+
+## Sites inspired by / building upon the Castanet theme
+- [Cloud with Chris](https://www.cloudwithchris.com)
+

@@ -1,5 +1,7 @@
 +++
 Date = {{ .Date }}
+title = ""
+Pronouns = "He/Him"
 Twitter = ""
 Website = ""
 Type = "host"
@@ -10,4 +12,5 @@ Thumbnail = ""
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Twitch = ""
 +++

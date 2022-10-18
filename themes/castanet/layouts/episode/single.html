@@ -1,9 +1,25 @@
 {{ define "main" }}
 
   <div class="row">
-    <div class="col">
-      <h1>{{ title .Title }}</h1>
-      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+    <div class="col">      
+      {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+        {{ if eq .Site.Params.episode_number_style "parens" }}
+          <h1>{{ title .Title }} ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h1>
+        {{ else if eq .Site.Params.episode_number_style "brackets" }}
+          <h1>{{ title .Title }} [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h1>
+        {{ else if eq .Site.Params.episode_number_style "dash" }}
+          <h1>{{ title .Title }} - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h1>
+        {{ else }}
+          <h1>{{ title .Title }}</h1>
+        {{ end }}
+      {{ else }}
+        <h1>{{ title .Title }}</h1>
+      {{ end }}
+      {{- if ne $.Params.upcoming true -}}
+        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
+      {{- else -}}
+        <small>Scheduled for {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
+      {{- end -}}
     </div>
   </div>
 
@@ -11,7 +27,7 @@
     {{ if ne .Params.episode_banner "" }}
       <div class = "row">
       <div class = "col">
-        <img src="{{ .Params.episode_banner | absURL }}" class="img-fluid episode_image" width="300px"/>
+        <img src="{{ .Params.episode_banner | absURL }}" class="img-fluid episode_image"/>
       </div>
       </div>
       <div class = "row">
@@ -44,26 +60,44 @@
     <!-- end square row -->
     {{ end }}
     {{- with .Params.podcast_file -}}
-      <div class="row">
-        <div class="col-md-12 player_row">
-          <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
+      {{- if ne $.Params.upcoming true -}}
+        <div class="row">
+          <div class="col-md-12 player_row">
+
+          <audio id="player2" style="width: 100%" controls preload="none">
+            <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
+            </audio>
+          </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-11 col-md-offset-1">
-          <a href="{{ $.Site.Params.media_prefix }}{{ . }}">Direct Download</a>
+      {{- end -}}
+    {{- end -}}
+  {{- with .Params.youtube -}}
+    {{- if ne $.Params.upcoming true -}}
+      <div class = "row youtube_row">
+        <div class = "col">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     {{- end -}}
-  {{- with .Params.youtube -}}
-    <div class = "row youtube_row">
-      <div class = "col">
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
   {{- end -}}
+
+        <!-- transcript POC begin-->
+        {{- with .Params.transcript -}}
+        <p>
+          <!-- <a class="btn btn-default" href="/"><i class="fab fa-spotify"></i>&nbsp;Spotify</a> -->
+          <button class="hide_transcript btn btn-secondary">Hide Transcript</button>
+          <button class="show_transcript btn btn-secondary">Display Transcript</button>
+          </p> 
+        <div class="row transcript">
+          <div class="col-md-12">
+            <h2>Transcript</h2>
+            {{ (readFile .) | markdownify}}
+          </div>
+        </div>
+        {{- end -}}
+        <!-- transcript POC end -->
 
   <div class="row">
     <div class="col">
@@ -71,6 +105,8 @@
       {{ .Content }}
     </div>
   </div>
+
+
 
   {{ with .Params.guests }}
         <div class="row">
@@ -87,16 +123,16 @@
                   <div class="col-md-3">
                     {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
                       {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="300px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="250px">
                         {{- else -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="300px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="250px">
                       {{- end -}}
                       {{- else -}}
-                      <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width="300px"/>
+                      <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width="250px"/>
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
-                    <h2><a href = "{{(printf "guest/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+                    <h2><a href = "{{(printf "guest/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a> {{ with .Params.Pronouns }}({{ . }}){{ end }}</h2>
                     {{ .Content }}
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
@@ -114,7 +150,7 @@
                       </a>
                     {{- end -}}
                     {{- with .Params.LinkedIn -}}
-                      <a href="https://www.linkedin.com/in/{{ . }}">
+                      <a href="https://www.linkedin.com/in/{{ . }}/">
                         <i class="fab fa-linkedin fa-2x"></i>
                       </a>
                     {{- end -}}
@@ -138,6 +174,11 @@
                         <i class="fab fa-youtube-square fa-2x"></i>
                       </a>
                     {{- end -}}
+                    {{- with .Params.Twitch -}}
+                    <a href="https://twitch.tv/{{ . }}">
+                      <i class="fab fa-twitch fa-2x"></i>
+                    </a>
+                  {{- end -}}
                   </div>
                   </div>
                 {{- $.Scratch.Set "guest-exist" "false" -}}
@@ -150,12 +191,12 @@
                       <div class="col-md-3">
                         {{- if and (isset $p "thumbnail") (ne $p.thumbnail "") -}}
                           {{- if (eq (slicestr $p.thumbnail 0 4) "http") -}}
-                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail}}" class="img-fluid" width = "300px">
+                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail}}" class="img-fluid" width = "250px">
                           {{- else -}}
-                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid" width = "300px">
+                            <img alt = "{{ $p.full_name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid" width = "250px">
                           {{- end -}}
                         {{- else -}}
-                          <img alt = "{{ $p.full_name }}" src = "{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width = "300px" />
+                          <img alt = "{{ $p.full_name }}" src = "{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width = "250px" />
                         {{- end -}}
                       </div>
                       <div class= "col-md-8">
@@ -173,7 +214,7 @@
                           <a href = "https://github.com/{{ $p.GitHub}}"><i class="fab fa-github-square fa-2x"></i></a>
                         {{ end }}
                         {{ if isset $p "linkedin" }}
-                          <a href = "https://www.linkedin.com/in/{{ $p.LinkedIn}}"><i class="fab fa-linkedin-square fa-2x"></i></a>
+                          <a href = "https://www.linkedin.com/in/{{ $p.LinkedIn}}/"><i class="fab fa-linkedin-square fa-2x"></i></a>
                         {{ end }}
                         {{ if isset $p "facebook" }}
                           <a href = "{{ $p.Facebook}}"><i class="fab fa-facebook-square fa-2x"></i></a>
@@ -201,16 +242,16 @@
             <div class="col-md-3">
               {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
                 {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
-                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="300px">
+                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="250px">
                   {{- else -}}
-                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="300px">
+                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="250px">
                 {{- end -}}
                 {{- else -}}
-                <img alt="{{ .Title }}" src="{{ "img/host/default-host.png" | absURL }}" class="img-fluid" width="300px"/>
+                <img alt="{{ .Title }}" src="{{ "img/host/default-host.png" | absURL }}" class="img-fluid" width="250px"/>
               {{- end -}}
             </div>
             <div class="col-md-8">
-              <h2><a href = "{{(printf "host/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+              <h2><a href = "{{(printf "host/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a> {{ with .Params.Pronouns }}({{ . }}){{ end }}</h2>
               {{ .Content }}
               {{- with .Params.Website -}}
                 <a href="{{ . }}">
@@ -228,7 +269,7 @@
                 </a>
               {{- end -}}
               {{- with .Params.LinkedIn -}}
-                <a href="https://www.linkedin.com/in/{{ . }}">
+                <a href="https://www.linkedin.com/in/{{ . }}/">
                   <i class="fab fa-linkedin fa-2x"></i>
                 </a>
               {{- end -}}
@@ -252,6 +293,11 @@
                   <i class="fab fa-youtube-square fa-2x"></i>
                 </a>
               {{- end -}}
+              {{- with .Params.Twitch -}}
+              <a href="https://twitch.tv/{{ . }}">
+                <i class="fab fa-twitch fa-2x"></i>
+              </a>
+            {{- end -}}
             </div>
             </div>
           {{- $.Scratch.Set "host-exist" "false" -}}
@@ -289,11 +335,22 @@
       <!-- disqus begins -->
       <div class="row">
         <div class="col-md-12">
-          {{ partial "disqus.html" . }}
+          {{ partial "disqus.html" }}
         </div>
       </div>
       <!-- disqus ends -->
       {{ end }}
+      {{ with .Site.Params.giscus }}
+      <!-- giscus begins -->
+      <hr />
+      <div class="row">
+        <div class="col-md-12">
+          {{ partial "giscus.html" }}
+        </div>
+      </div>
+      {{ end }}
+      <!-- giscus ends -->
+
       <div class="row">
         <!-- pager begin -->
         <div class="col-md-12">
