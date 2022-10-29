@@ -14,7 +14,7 @@ aliases = "/sponsor"
 
 <img src="/img/host/ATP_BTC_QR3.jpg" alt="drawing" style="width: 200px;"/>
 <br></br>
-Sponsor using <b>bitcoin via the Lightning Network</b> or support the development of new shows on **[Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2)**. You can also sponsor the show's development directly, using bitcoin (main chain) or L-BTC, at [Coinos.io /Alexandra933](https://coinos.io/Alexandra933). 
+Sponsor using <b>bitcoin via the Lightning Network</b> or support the development of new shows on <a href="https://www.patreon.com/AdvanceTechPodcast?alert=2">Patreon</a>. You can also sponsor the show's development directly, using bitcoin, at <a href="https://coinos.io/Alexandra933">Coinos.io /Alexandra933</a>. 
 
 
 <br></br>

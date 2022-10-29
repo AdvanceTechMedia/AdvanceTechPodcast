@@ -11,17 +11,17 @@ Check out the good work and initiatives created by our friends.
 <br></br>
 <img src="/img/sponsors/bitcointvlogo2.png" alt="drawing" style="width: 200px;"/>
 
-[**Connect the World**](https://www.bayareabitcoiners.com/) is founded by a team with a shared passion for Bitcoin and the Lightning Network. They want to advance Lightning adoption and highlight all sides of it. Not only Lightning as a payment system, but also as an underlying technology for a multitude of other options. Connect the World publishes podcast episodes and Quick Talks about developments and adoption, with influential guests from the Lightning Network space.
+[**Connect the World**](https://podcasts.apple.com/us/podcast/connect-the-world/id1598114361) is founded by a team with a shared passion for Bitcoin and the Lightning Network. They want to advance Lightning adoption and highlight all sides of it. Not only Lightning as a payment system, but also as an underlying technology for a multitude of other options. Connect the World publishes podcast episodes and Quick Talks about developments and adoption, with influential guests from the Lightning Network space.
 
 <br></br>
 <img src="/img/sponsors/1627417457044.png" alt="drawing" style="width: 200px;"/>
 
-[**Rings of Fire**](https://www.bayareabitcoiners.com/) The Satoshi Radio Rings of Fire community are creating a backbone of liquidity within the Lightning Network. Their mission is to help build a worldwide distributed Lightning Network by connecting countries around the world. This is how bitcoin payments are made accessible to everyone.
+[**Rings of Fire**](https://satoshiradio.nl/) The Satoshi Radio Rings of Fire community are creating a backbone of liquidity within the Lightning Network. Their mission is to help build a worldwide distributed Lightning Network by connecting countries around the world. This is how bitcoin payments are made accessible to everyone.
 
 <br></br>
 <img src="/img/sponsors/MOON.jpg" alt="drawing" style="width: 200px;"/>
 
-[**The Daily Moon**](https://www.bayareabitcoiners.com/) is a platform to stay up to date about everything related to Lightning Network news and updates to advance Lightning Network adoption and highlight all sides of it. Active on TDM.NEWS, Twitter and Telegram. Spread the news!
+[**The Daily Moon**](https://connecttheworld.live/the-daily-moon/) is a platform to stay up to date about everything related to Lightning Network news and updates to advance Lightning Network adoption and highlight all sides of it. Active on TDM.NEWS, Twitter and Telegram. Spread the news!
 
 
 
