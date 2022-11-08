@@ -111,6 +111,21 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
         youtube = "/c/Alexandra933_"
         homepage = "https://medium.com/@Alexandra933"
 
+        [params.authors.edo]
+    name = "Edo Edikson"
+        thumbnail = "img/host/Edo.jpg"
+    bio = "Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers from around the globe in the emerging tech space. As CEO, she grew the global audience of the podcast to reach one million listeners in just over a year. She has a solid understanding of digital transformation and finds comfort at the bleeding edge of innovation. She speaks at local and international conferences and events on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies."
+
+    [params.authors.edo.social]
+    twitter = "Alexandra933"
+    linkedin = "alexandra-moxin"
+    facebook = "alexandra933"
+    github = "lexi933"
+    instagram = "lexi_933/?hl=en"
+    pinterest = "lexi933"
+    youtube = "/c/Alexandra933_"
+    homepage = "https://medium.com/@Alexandra933"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
