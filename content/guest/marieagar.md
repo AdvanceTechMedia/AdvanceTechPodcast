@@ -12,7 +12,7 @@ Thumbnail = "img/guest/maRi_eager.jpg"
 #Pinterest = ""
 #Instagram = ""
 #YouTube = ""
-draft = "False"
+draft = "True"
 
 +++
 [MaRi Eagar](https://www.linkedin.com/in/marieagar/) is a cryptoasset and blockchain consultant working in this industry since 2013. MaRi is a Chartered Accountant and Business Strategist with an international career at Deloitte, HSBC and Standard Bank. MaRi is an instigator of networks for strategic change, she is passionate about economic inclusion and financial wellbeing as cornerstones for future sustainable societies.

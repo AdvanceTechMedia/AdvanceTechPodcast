@@ -19,7 +19,7 @@ podcast_bytes = "81568978"
 tags = []
 title = "Scott Bellware and Nathan Ladd"
 youtube = ""
-
+draft = "True"
 +++
 
 Written by Alexandra Moxin and Adam Dymitruk

@@ -24,7 +24,9 @@ youtube = "QDmlydo_iXE"
 draft = "False"
 +++
 
-Written by Alexandra Moxin
+Written by [Alexandra Moxin](https://www.advancetech.io/)
+
+Executive Producer, video + audio editing: [Edo Edikson](https://twitter.com/EdoEdikson)
 
 This episode features John Carvalho, CEO of Synonym, a company using Bitcoin and new protocol, Slashtags, to reboot the web & economy.
 

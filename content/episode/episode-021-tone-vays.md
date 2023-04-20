@@ -19,7 +19,7 @@ podcast_file = "advance-tech-podcast-021.mp3"
 podcast_length = "1:08:29"
 podcast_bytes = "48407266"
 tags = []
-title = "Tone Vays, Blockchain/Bitcoin Researcher and Derivatives Trader"
+title = "Tone Vays, Bitcoin Researcher and Derivatives Trader"
 youtube = ""
 draft = "False"
 +++
