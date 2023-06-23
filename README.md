@@ -23,3 +23,7 @@ We will be adding more dedicated sponsors to our site in 2019 and would like to 
 ## Design
 We use the [Castanet](https://github.com/AdvanceTechMedia/castanet) theme created by [Matt Stratton](https://github.com/mattstratton) which is a podcast-oriented theme for Hugo. Another project for 2019 is to create a highly customizable version of this theme. If you have a keen eye for design, UX or UI and would like to contribute please contact us or create a pull request.
 
+
+## Publishing
+Currently we rsync the content to the live site:
+`rsync -avz public/ atm@advancetechmedia.org:~/www`
