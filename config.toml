@@ -78,8 +78,8 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
     itunes_owner_email = "alexandra.moxin@advancetechmedia.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "http://advancetechmedia.org/img/advancetechmediaavataritunes.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
-    itunes_first_sub_category = "Tech News"
-    itunes_second_sub_category = "Bitcoin"
+    itunes_first_sub_category = "Technology"
+    itunes_second_sub_category = "Founders"
     itunes_third_sub_category = "Artificial Intelligence"
 
   [params.social]
@@ -103,11 +103,11 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
 
       [params.authors.alexandra.social]
         twitter = "Alexandra933"
-        linkedin = "alexandra-moxin"
-        facebook = ""
+        linkedin = "alexandra933"
+        #facebook = ""
         github = "lexi933"
-        instagram = "lexi_933/?hl=en"
-        pinterest = "lexi933"
+        #instagram = "lexi_933/?hl=en"
+        #pinterest = "lexi933"
         youtube = "/c/Alexandra933_"
         homepage = "https://medium.com/@Alexandra933"
 
