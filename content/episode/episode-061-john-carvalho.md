@@ -1,4 +1,4 @@
-+++
+g+++
 
 Description = "This episode features John Carvalho, CEO of Synonym, a company using Bitcoin and new protocol, Slashtags, to reboot the web & economy. To view the show transcript, complete guest bios and links mentioned in the episode take a look below or go to advancetechmedia.org and click the episode title."
 

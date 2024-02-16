@@ -14,39 +14,19 @@ aliases = "/sponsor"
 
 <img src="/img/host/ATP_BTC_QR3.jpg" alt="drawing" style="width: 200px;"/>
 <br></br>
-Sponsor using <b>bitcoin via the Lightning Network</b> or support the development of new shows on <a href="https://www.patreon.com/AdvanceTechPodcast?alert=2">Patreon</a>. You can also sponsor the show's development directly, using bitcoin, at <a href="https://coinos.io/Alexandra933">Coinos.io /Alexandra933</a>. 
+<b>Sponsor</b> using the Lightning Network or <b>support</b> the development of new shows on <a href="https://www.patreon.com/AdvanceTechPodcast?alert=2">Patreon</a>. To become a featured sponsor, contact us at info@advancetechmedia.org.
 
 
 <br></br>
 
 <h2> Credits </h2>
 
-<b>* Executive Producer, video + audio editing</b> - [Edo Edikson](https://twitter.com/EdoEdikson)
-
-<b>* graphic design</b> - new episode templates, [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)
-
-<b>* intro/outro music - Alien Breed (1991) main theme, by A. Brimble</b>
+intro/outro music - Alien Breed (1991) main theme, by A. Brimble
 
 <br></br>
 
 <h2> Sponsors </h2>
 
-<b>New Sponsor!</b>
-
-<img src="/img/guest/OneaLTU0_400x400.jpg" alt="drawing" style="width: 200px;"/>
-
-[**Citadel21**](https://www.citadel21.com/) is a Bitcoin cultural zine. Bitcoin culture is rich and varied. It contains
-a multitude of voices, opinions and flavors. Together they form what is seemingly chaos, but with an abundance of
-signal. Citadel21 aims to curate this chaos and put some of the best, coolest and weirdest pieces of raw signal on
-display.
-
-<br></br>
-
-<img src="/img/sponsors/CC_400x400.jpg" alt="drawing" style="width: 200px;"/>
-
-[**CryptoCloaks**](https://www.cryptocloaks.com/) CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Their passion for 3D design sparked in December of 2017 with their first product, a Ledger Nano S mount. This product allowed them to safely and securely keep the Ledger hidden. After this first success, CryptoCloaks quickly grew and have been designing and manufacturing ever since, thanks to the customers who believe in their products. CryptoCloaks strive for quality products and innovative solutions for keeping your Bitcoin safe, all while looking great. Use the code ATPSHIP for 5% off at checkout.
-
-<br></br>
 
 <img src="/img/sponsors/M3.jpg" alt="drawing" style="width: 200px;"/>
 

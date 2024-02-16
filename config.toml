@@ -18,10 +18,6 @@ paginate = "33"
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
 
-#[[Menu.Main]]
-#    name = "Events"
-#    identifier = "events"
-#    url = "/events"
 
 [[Menu.Main]]
     name = "Guests"
@@ -38,15 +34,6 @@ paginate = "33"
    identifier = "sponsors"
    url = "/sponsor"
 
-[[Menu.Main]]
-    name = "Community"
-    identifier = "community"
-    url = "/community"
-
-#[[Menu.Main]]
-#    name = "Syndicate"
-#    identifier = "syndicate"
-#    url = "syndicated_contributors"
 
 [params]
 mainSections = ["episode"]
@@ -58,7 +45,7 @@ truncate = "100"
 about_logo = "/img/Advancetechmedia avatar.png"
 media_prefix = "https://advancetechmedia.org/"
 
-copyright_notice = "Copyright 2017 - 2023 [Advance Tech Media](https://advancetechmedia.org)"
+copyright_notice = "Copyright 2017 - 2024 [Advance Tech Media](https://advancetechmedia.org)"
 itunes_subscribe = "https://itunes.apple.com/ca/podcast/advance-tech-podcast/id1278222771"
 #android_subscribe = "https://www.subscribeonandroid.com/advancetechmedia.org/episode/index.xml"
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9hZHZhbmNldGVjaG1lZGlhLm9yZy9lcGlzb2RlL2luZGV4LnhtbA"
@@ -68,14 +55,14 @@ spotify_subscribe = "https://open.spotify.com/show/4W4Lptk0ENfh7Wc1LKL3Zu"
 pocketcasts_subscribe = "https://play.pocketcasts.com/web#/podcasts/show/8e189720-0f3b-0135-ecbb-4114446340cb"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [Facebook](https://www.facebook.com/advancetechmedia), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).<p>Executive Producer, video + audio editing, [Edo Edikson](https://twitter.com/EdoEdikson)<p>graphic design - new episode templates, [Bitcoin Meme Hub](https://twitter.com/BitcoinMemeHub)</p>intro/outro music - Alien Breed (1991) main theme, by A. Brimble"
+description = "<p>The Advance Tech Podcast provides a spotlight for innovative and disruptive initiatives and features guests building the technology of tomorrow.</p><p>Connecting you to founders, developers and leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker.</p><p>Subscribe from the [homepage](https://advancetechmedia.org/) and check out new featured video episodes on [YouTube](https://www.youtube.com/channel/UCix6635bxEr4et8eO4QXSfg). You can also like, follow and endorse the podcast on [Twitter](https://twitter.com/AdvTechPodcast), [LinkedIn](https://www.linkedin.com/company/advance-tech-media/), [Instagram](https://www.instagram.com/advance_tech_media/) and [Patreon](https://www.patreon.com/AdvanceTechPodcast?alert=2).</p>intro/outro music - Alien Breed (1991) main theme, by A. Brimble"
   [params.feed]
-    feed_copyright = "Copyright 2017 - 2023 Advance Tech Media" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright 2017 - 2024 Advance Tech Media" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The voice of innovation and the tech of tomorrow." #no markdown or HTML
     itunes_author = "Alexandra Moxin" #no markdown or HTML
     itunes_summary = "The Advance Tech Podcast brings you the latest in emerging technology and features guests building the technology of tomorrow. We connect you to founders, developers and influencers from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Advance Tech Media"
-    itunes_owner_email = "alexandra.moxin@advancetechmedia.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_owner_email = "info@advancetechmedia.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "http://advancetechmedia.org/img/advancetechmediaavataritunes.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Technology"
@@ -84,14 +71,14 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
 
   [params.social]
     github = "advancetechmedia"
-    #gitlab = "mattstratton"
+    #gitlab = ""
     twitter = "AdvTechPodcast"
     linkedin = "/company/advance-tech-media/"
-    #facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
+    #facebook_admin = ""  # This needs to be a page admin to get domain insights
     #facebook = ""
     #twitter_domain = "https://twitter.com/AdvTechPodcast" # This domain shows in twitter cards as "View on `twitter_domain`"
-    #googleplus = "ArrestedDevOps"
-    #pinterest = "nozzleio"
+    #googleplus = ""
+    #pinterest = ""
     instagram = "advance_tech_media"
     youtube = "channel/UCix6635bxEr4et8eO4QXSfg"
 
@@ -109,7 +96,7 @@ description = "<p>The Advance Tech Podcast provides a spotlight for innovative a
         #instagram = "lexi_933/?hl=en"
         #pinterest = "lexi933"
         youtube = "/c/Alexandra933_"
-        homepage = "https://medium.com/@Alexandra933"
+        homepage = "https://www.advancetech.io/"
 
 
 

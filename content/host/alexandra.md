@@ -9,10 +9,10 @@ Linkedin = "alexandra933"
 Pronouns = ""
 GitHub = "lexi933"
 Thumbnail = "img/host/Alex1.jpg"
-#Pinterest = "lexi933/"
-#Instagram = "lexi_933/?hl=en"
+#Pinterest = ""
+#Instagram = ""
 YouTube = "c/Alexandra933_"
 +++
-Alexandra founded the Advance Tech Podcast where she interviews founders, leaders and developers in the emerging tech space. She is Executive Director of the Open Cryptography Foundation, and has a background in product, business development, and digital transformation. 
+Alexandra is CSO for Adaptech Group and is an Ambassador at the ALS Association, Golden West Chapter, and Google (Women TechMakers). She founded the Advance Tech Podcast where she has interviewed founders, leaders and developers in the emerging tech space.
 
-She attended Stanford Open University and graduated from the University of British Columbia. She advises several companies and initiatives and speaks in Canada and internationally on Artificial Intelligence / Machine Learning, Bitcoin and other emerging technologies.
+She attended Stanford Open University and graduated from the University of British Columbia. She speaks in Canada and internationally on Event Modeling, Artificial Intelligence / Machine Learning, and other emerging technologies.

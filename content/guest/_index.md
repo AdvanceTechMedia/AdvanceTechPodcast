@@ -5,5 +5,5 @@ title = "Guests of Advance Tech Podcast"
 aliases = "/guests"
 +++
 
-Working on something world-changing?   Send us an [email](mailto:advancetechmedia@protonmail.com) and be a guest on the show!
+Working on something world-changing?   Send us an [email](mailto:info@advancetechmedia.org) and be a guest on the show!
 <br></br>
